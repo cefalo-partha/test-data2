@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu name="topmenu">
+    <category title="Category_News"/>
+    <challengetop href="">
+        <image alt="" src=""/>
+        <maintext>Challenge Me Baby</maintext>
+        <subtext></subtext>
+    </challengetop>
+</menu>
