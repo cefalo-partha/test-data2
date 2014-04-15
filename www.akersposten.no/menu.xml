@@ -2,7 +2,7 @@
 <menu name="topmenu">
     <category title="Category_News"/>
     <challengetop href="">
-        <image alt="" src=""/>
+        <image alt="" src="http://192.168.0.100:8080/api/menueditor/v1/images/x-mail-distribution-list.png"/>
         <maintext>Challenge Me Baby</maintext>
         <subtext></subtext>
     </challengetop>
