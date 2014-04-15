@@ -1,0 +1,39 @@
+<WebProperties xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+               xmlns='http://tjenester.api.no/schema/properties/wp'
+               xsi:schemaLocation='http://tjenester.api.no/schema/properties/wp http://tjenester.api.no/schema/properties/wp/webproperties-1.1.xsd'>
+    <PropertyGroup id="v3" role="v3">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRTNiMThe03iLgCea1G46lMjkFmMnhQUBU8k0w13WoU7wSu6M7cPy8W_OQ</Property>
+    </PropertyGroup>
+    <PropertyGroup id="root">
+        <Property name="nedstat.site.id" medusa="false">unknown</Property>
+        <Property name="google.analytics.site.id">UA-3592751-56</Property>
+        <Property name="zett.id">10040</Property>
+        <Property name="traffic.tnsMetrix.domain" overridable="false">www.aktuell.no</Property>
+        <Property name="traffic.tnsMetrix.active" overridable="false">true</Property>
+        <Property name="springscores.is.api.network" overridable="false">false</Property>
+        <Property name="wallpaper.weather.use" overridable="false">false</Property>
+        <Property name="function.content.external.nettavisen" overridable="false">false</Property>
+        <Property name="function.content.external.derduborbox" overridable="false">false</Property>
+        <Property name="function.element.hide.homeSectionUrl" overridable="false">true</Property>
+		<Property name="qbrick.player.id">AB2C9798</Property>
+		<Property name="qbrick.vms.id">DA7656B8</Property>
+	<Property name="mobile.frontpage.footballLive.show" overridable="true">false</Property>
+	<Property name="football.videosection.stickybox.show" medusa="false">false</Property>
+        <Property name="adSystem.textads.enabled" overridable="false">false</Property>
+	<Property name="rss.function.general.age" overridable="false">336</Property>
+        <Property name="origo.comments.remote_id.prefix">www.frifagbevegelse.no</Property>
+	<Property name="origo.comments.sandbox_id">30075</Property>
+        <Property name="tvguide.use">false</Property>
+        <Property name="video.instream.ad.url"></Property><!-- turn off ads -->
+        <Property name="video.ads.show">false</Property>
+        <Property name="springscores.contentpath.prefix">lo</Property>
+    </PropertyGroup>
+    <PropertyGroup id="test" role="test">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRRZz0Bn1vP02ecbZqYNCsmJ1gmCihRnxjegNXZEbR9RX__GBwZPVPC8XQ</Property>
+        <Property name="css.host.localUrl" overridable="false">http://api.test.api.no/<!--@@BUILD_TEST_VERSION_www.aktuell.no_START@@-->build/template/r33951/www.aktuell.no/<!--@@BUILD_TEST_VERSION_END@@--></Property>
+    </PropertyGroup>
+    <PropertyGroup id="section29054" section="section29054"><!--SECTION /sok/ SECTION-->
+      <Property name="nifsalizer.use" overridable="false">false</Property>
+    </PropertyGroup>
+</WebProperties>
+

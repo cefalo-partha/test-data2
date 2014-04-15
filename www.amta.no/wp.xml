@@ -1,0 +1,77 @@
+<WebProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tjenester.api.no/schema/properties/wp" xsi:schemaLocation="http://tjenester.api.no/schema/properties/wp http://tjenester.api.no/schema/properties/wp/webproperties-1.1.xsd">
+    <PropertyGroup id="v3" role="v3">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRQip_pgY_t-aUmCRyJUKXVyQstr3xSVYuOqiHWjo7IfnTf5iDROVgxTDw</Property>
+    </PropertyGroup>
+    <PropertyGroup id="root">
+        <Property name="epaper.type" overridable="true">visiolink</Property>
+        <Property name="epaper.url" overridable="true">http://akershus.e-pages.dk/</Property>
+        <Property name="origo.comments.response">true</Property>
+        <Property name="corredor.origo.calendar.grove.enable">true</Property>
+        <Property name="google.analytics.site.id">UA-3592751-57</Property>
+        <Property name="zett.id">10014</Property>
+        <Property name="mobile.ads.siteid" overridable="false">6444223031</Property>
+        <Property name="css.host.localUrl" overridable="false">http://template.api.no/<!--@@BUILD_VERSION_www.amta.no_START@@-->build/template/r33246/www.amta.no/<!--@@BUILD_VERSION_END@@--></Property>
+        <Property name="nedstat.site.id" medusa="false" overridable="false">amta</Property>
+        <Property name="traffic.tnsMetrix.domain" overridable="false">www.amta.no</Property>
+        <Property name="traffic.tnsMetrix.active" overridable="false">true</Property>
+        <Property name="tailor.plugg.article.url.prefix">apramtano</Property>
+        <Property name="tailor.plugg.sectionheadings">hide</Property>
+        <Property name="tailor.publication.name">amta</Property>
+        <Property name="tailor.section.ad.id">3092582</Property>
+        <Property name="tailor.plug.ad.id">3092583</Property>
+        <Property name="ada.site.id">9222265749525871952</Property>
+        <Property name="ada.adspace.id">0000000000afa160</Property>
+        <Property name="cplus.site.id" overridable="false">apressen_amta</Property>
+	<Property name="qbrick.player.id">48DB2047</Property>
+	<Property name="qbrick.vms.id">4403EE29</Property>
+        <Property name="springscores.contentpath.prefix">amedia</Property>
+        <Property name="facebook.app_id" medusa="false" overridable="true">756056624420637</Property>
+    </PropertyGroup>
+    <PropertyGroup id="test" role="test">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRRZz0Bn1vP02ecbZqYNCsmJ1gmCihRnxjegNXZEbR9RX__GBwZPVPC8XQ</Property>
+        <Property name="css.host.localUrl" overridable="false">http://api.test.api.no/<!--@@BUILD_TEST_VERSION_www.amta.no_START@@-->build/template/r25247/www.amta.no/<!--@@BUILD_TEST_VERSION_END@@--></Property>
+    </PropertyGroup>
+    <PropertyGroup id="section23307" section="section23307"><!--SECTION /sesongseksjoner/ferie/ SECTION-->
+    </PropertyGroup>
+    <PropertyGroup id="section30804" section="section30804"><!--SECTION /bilder/bildeseksjonsarkiv/fotball/ SECTION-->
+      <Property name="nifsalizer.articles.showRelations" overridable="false">true</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section5341" section="section5341"><!--SECTION /Rikssport/ SECTION-->
+        <Property name="adManager.topic" overridable="false">sport</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section25503" section="section25503"><!--SECTION /Rikssport/Vinteridrett/torino-ol/ SECTION-->
+    </PropertyGroup>
+    <PropertyGroup id="section2720" section="section2720"><!--SECTION /lokal_sport/ SECTION-->
+        <Property name="adManager.topic" overridable="false">sport</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section28514" section="section28514"><!--SECTION /lokal_sport/fotball/ SECTION-->
+        <Property name="adTech.section.keywords" overridable="false">fotball_alle+fotball_siste</Property>
+        <Property name="nifsalizer.articles.showRelations" overridable="false">true</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section28515" section="section28515"><!--SECTION /lokal_sport/fotball/live/ SECTION-->
+    </PropertyGroup>
+    <PropertyGroup id="section2875" section="section2875"><!--SECTION /sok/ SECTION-->
+       <Property name="nifsalizer.use" overridable="false">false</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section2719" section="section2719"><!--SECTION /lokale_nyheter/ SECTION-->
+        <Property name="adManager.topic" overridable="false">nyheter</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section17418" section="section17418"><!--SECTION /error/ SECTION-->
+        <Property name="traffic.tnsMetrix.domain" overridable="false">R&gt;http://www.amta.no</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section5339" section="section5339"><!--SECTION /Innenriks/ SECTION-->
+        <Property name="adManager.topic" overridable="false">nyheter</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section5340" section="section5340"><!--SECTION /Utenriks/ SECTION-->
+        <Property name="adManager.topic" overridable="false">nyheter</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section2717" section="section2717"><!--SECTION /lager/leserinnlegg/ SECTION-->
+        <Property name="adManager.topic" overridable="false">nyheter</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section42727" section="section42727"><!--SECTION /fotballmagasinet/ SECTION-->
+      <Property name="nifsalizer.articles.showRelations" overridable="false">true</Property>
+    </PropertyGroup>
+    <PropertyGroup id="section44146" section="section44146"><!--SECTION /tipping/ SECTION-->
+        <Property name="langoddsen.frame.active">true</Property>
+    </PropertyGroup>
+</WebProperties>

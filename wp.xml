@@ -1,0 +1,795 @@
+<WebProperties xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='http://tjenester.api.no/schema/properties/wp'
+    xsi:schemaLocation='http://tjenester.api.no/schema/properties/wp http://tjenester.api.no/schema/properties/wp/webproperties-1.0.xsd'>
+    <PropertyGroup id="root">
+        <Property name="epaper.type" overridable="true">none</Property>
+        <Property name="epaper.url" overridable="true"></Property>
+        <Property name="positive.header" overridable="true">false</Property>
+        <Property name="menu.catalogsearch.enable" overridable="true">true</Property>
+        <Property name="custom.webtv.logo.use">false</Property>
+        <Property name="maiden.chat.enable">false</Property>
+        <Property name="castor.seamstress.version">0.4.16</Property>
+        <Property name="castor.external.version">0.1.4</Property>
+        <Property name="castor.arena.version">0.3.16</Property>
+        <Property name="castor.polopoly.version">0.1.0</Property>
+        <Property name="castor.drfront.version">0.0.21.2</Property>
+        <Property name="arena.design.version" overridable="true">design2</Property>	
+        <Property name="publication.virtual.homesection.prefer">motor,valg,jobb,bolig,bandwagon</Property>
+        <Property name="templateVersion">ver2-5</Property>
+        <Property name="template.gfxUrl">http://template.api.no/<!--@@BUILD_VERSION_START@@-->build/template/r57385/<!--@@BUILD_VERSION_END@@-->template/gfx/ver2-5/</Property>
+        <Property name="css.host.globalUrl">http://template.api.no/<!--@@BUILD_VERSION_START@@-->build/template/r57385/<!--@@BUILD_VERSION_END@@--></Property>
+        <Property name="js.host.globalUrl">http://template.api.no/<!--@@BUILD_VERSION_START@@-->build/template/r57385/<!--@@BUILD_VERSION_END@@--></Property>
+        <Property name="traffic.linkpulse.active">false</Property>
+        <Property name="traffic.linkpulse.use.pageView">false</Property>
+        <Property name="traffic.tnsMetrix.active">true</Property>
+        <Property name="mobile.traffic.tns.cpid">4017</Property>
+        <Property name="function.content.external.nettavisen">false</Property>
+        <Property name="multimedia.dir">/images/cache</Property>
+        <Property name="multimedia.versions.dir">/images/cache</Property>
+        <Property name="traffic.nedstat.active" medusa="true">true</Property>
+        <Property name="traffic.click.measurement">none</Property>
+        <Property name="video.player.rayon">true</Property>
+        <Property name="adSystem.multiad.enabled">true</Property>
+        <Property name="crossDataCollector.publications">www.namdalsavisa.no,www.ba.no,www.ovre.smaalenene.no,www.eub.no,www.indre.no,www.finnmarkdagblad.no,www.moss-dagblad.no,www.auraavis.no,www.lofotposten.no,www.retten.no,www.rogavis.no,www.op.no,www.tk.no,www.r-a.no,www.hardanger-folkeblad.no,www.austagderblad.no,www.amta.no,www.vestbyavis.no,www.pd.no,www.oyene.no,www.mb.no,www.enebakkavis.no,www.tvedestrandsposten.no,www.glomdalen.no,www.bygdeposten.no,www.ta.no,www.rakkestad-avis.no,www.hadeland.net,www.finnmarken.no,www.fremover.no,www.kvinnheringen.no,www.aasavis.no,www.ranablad.no,www.ringblad.no,www.opdalingen.no,www.stjordalens-blad.no,www.nordlys.no,www.an.no,www.oa.no,www.demokraten.no,www.firda.no,www.jarlsbergavis.no,www.firdaposten.no,www.halden-dagblad.no,www.nordhordland.no,www.helgeland-arbeiderblad.no,www.lofot-tidende.no,www.s-a.no,www.rb.no</Property>
+        <Property name="function.content.external.zett.job.flash">true</Property>
+        <Property name="rubrikk.bil.omregistrering">http://www.toll.no/templates_tad/subject.aspx?id=66274</Property>
+        <Property name="wallpaper.weather.use">true</Property>
+        <Property name="altomfotball.use" medusa="true">true</Property>
+        <Property name="vei.fylke.nummer" medusa="true">2,3</Property>
+        <Property name="adSystem.off" medusa="true">false</Property>
+        <Property name="adSystem.placements" overridable="true">Toppbanner_980x150,Skyskraper_1_180x500,Skyskraper_2_180x500,Sticky_skyskraper_180x500,Produktstripe_1_980x150,Stripe_1_480x100,Stripe_2_480x100,Produktstripe_2_980x100,Netboard_1_580x500,Banner_1_480x150,Banner_2_480x150,Produktstripe_3_980x150,Kloss_230x500,Netboard_2_580x500,Piksel_1x1,Sponsorbanner_1002x150,Sponsorbanner_1002x300,Mobilbanner_1_600x150,Mobilbanner_2_600x300,Mobilbanner_3_600x300,Mobilbanner_4_600x150,Mobilbanner_5_600x300,Bunnbanner_980x150,Bildebanner_1002x60,Bildebanner_1002x150,Wallpaper_1x1,Vaerknapp_400x90,Vaerknapp_168x80,Spesialknapp_230x230,Minibanner_270x80,Minibanner_230x150,Vaerbanner_1_600x300,Vaerbanner_2_600x600,Toppbanner_600x600,Toppbanner_600x300,Midtbanner_1_600x300,Midtbanner_2_600x300,Bunnbanner_600x600,Sponsorbanner_1020x300,Produktstripe_1_600x300,Knapp_1_480x150,Knapp_2_480x150,Netboard_1_980x300,Netboard_2_980x300,MegaBoard_980x250</Property>
+        <Property name="adSystem.placements.ipad" overridable="true">Toppbanner_980x150,Produktstripe_1_980x150,Stripe_1_480x100,Stripe_2_480x100,Produktstripe_2_980x100,Netboard_1_580x500,Banner_1_480x150,Banner_2_480x150,Produktstripe_3_980x150,Kloss_230x500,Netboard_2_580x500,Piksel_1x1,Sponsorbanner_1002x150,Sponsorbanner_1002x300,Mobilbanner_1_600x150,Mobilbanner_2_600x300,Mobilbanner_3_600x300,Mobilbanner_4_600x150,Mobilbanner_5_600x300,Bunnbanner_980x150,Bildebanner_1002x60,Bildebanner_1002x150,Wallpaper_1x1,Vaerknapp_400x90,Vaerknapp_168x80,Spesialknapp_230x230,Minibanner_270x80,Minibanner_230x150,Vaerbanner_1_600x300,Vaerbanner_2_600x600,Toppbanner_600x600,Toppbanner_600x300,Midtbanner_1_600x300,Midtbanner_2_600x300,Bunnbanner_600x600,Sponsorbanner_1020x300,Produktstripe_1_600x300,Knapp_1_480x150,Knapp_2_480x150,Netboard_1_980x300,Netboard_2_980x300,MegaBoard_980x250</Property>
+		<Property name="adSystem.placements.article" overridable="true">Artikkelboard_480x400,Artikkelstripe_480x150,Toppbanner_980x150,Skyskraper_1_180x500,Skyskraper_2_180x500,Sticky_skyskraper_180x500</Property>
+		<Property name="adSystem.placements.article.ipad" overridable="true">Artikkelboard_480x400,Artikkelstripe_480x150,Toppbanner_980x150</Property>
+		<Property name="adSystem.placements.album" overridable="true">Bildebanner_1020x150</Property>
+
+		<Property name="adSystem.v2">true</Property>
+        <Property name="adSystem.hourad" medusa="true">true</Property>
+        <Property name="adSystem.textads.enabled" medusa="true">true</Property>
+        <Property name="adtech.websiteName" medusa="true">Ukjent</Property>
+        <Property name="alcoholcalculator.zapdance.url" medusa="true">http://wap.zapdance.com/</Property>
+        <Property name="map.site.google.key">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRRZz0Bn1vP02ecbZqYNCsmJ1gmCihRnxjegNXZEbR9RX__GBwZPVPC8XQ</Property>
+        <Property name="map.site.default.coordinates.longitude" medusa="true">0.0</Property>
+        <Property name="map.site.default.coordinates.latitude" medusa="true">90.0</Property>
+        <Property name="nedstat.site.id" medusa="false">zett</Property>
+        <Property name="weather.aws.group" medusa="true">siste</Property>
+        <Property name="weather.frontpage.fullpagewidth.show" medusa="true"></Property>
+        <Property name="nifsalizer.use" medusa="true">false</Property>
+        <Property name="nifsalizer.articles.showRelations" medusa="true">true</Property>
+        <Property name="langoddsen.use">false</Property>
+        <Property name="lotto_box.use">false</Property>
+        <Property name="lotto_box.frontpage.mobil.use">true</Property>
+        <Property name="default.publication.locale">nb_NO</Property>
+        <Property name="design.version">avis4</Property>
+        <Property name="football.frontpage.use" medusa="false">false</Property>
+        <Property name="football.videosection.stickybox.show" medusa="false">true</Property>
+        <!-- MADS -->
+        <Property name="mads.connection.try.count">3</Property>
+        <Property name="mads.connection.timeout">1000</Property>
+        <Property name="mads.response.timeout">1000</Property>
+        <Property name="mads.failure.delay">30000</Property>
+        <Property name="mads.endpoint">http://web.getad.madserver.eu/adrequest.php</Property>
+        <Property name="mads.publisher.id">282627030</Property>
+        <Property name="mads.request.type">test</Property>        
+        <!-- text ads content -->
+        <Property name="adSystem.textads.ad1.url">http://www.eiendomsnett.no/</Property>
+        <Property name="adSystem.textads.ad1.title">Eiendomsnett.no</Property>
+        <Property name="adSystem.textads.ad1.content">På jakt etter ny bolig?</Property>
+        <Property name="adSystem.textads.ad2.url">http://www.siste.no/spillsenteret</Property>
+        <Property name="adSystem.textads.ad2.title">Spillsenteret</Property>
+        <Property name="adSystem.textads.ad2.content">Gratis eksperttips hver dag.</Property>
+        <Property name="adSystem.textads.ad3.url">http://anbudstorget.no/</Property>
+        <Property name="adSystem.textads.ad3.title">Anbudstorget</Property>
+        <Property name="adSystem.textads.ad3.content">Spar penger. Be om gratis anbud på det du trenger å få gjort.</Property>
+        <Property name="adSystem.textads.ad4.url">http://www.zett.no/</Property>
+        <Property name="adSystem.textads.ad4.title">Zett.no</Property>
+        <Property name="adSystem.textads.ad4.content">Kjøp og salg der du bor!</Property>
+
+        <!-- ada textad system -->
+        <Property name="ada.account.id">9222268904439146912</Property>
+        <Property name="ada.site.id">9222266353496925905</Property> <!-- default value for non-overriden pubs -->
+
+        <!-- photo partner -->
+        <Property name="photoPartner" medusa="true">eurofoto</Property>
+        <!-- Subscription box -->
+        <Property name="use.subscriptionbox" medusa="true">av</Property>
+        <Property name="subscriptionbox.article" medusa="true">412</Property>
+        <Property name="subscriptionbox.titleHidden" medusa="true">Spesialtilbud på abonnement</Property>
+        <Property name="subscriptionbox.sloganHidden" medusa="true">3 uker gratis avis*</Property>
+        <Property name="subscriptionbox.conditionsHidden" medusa="true">Gjelder ved bestilling av årsabonnement</Property>
+        <Property name="subscriptionbox.title" medusa="true">Spesialtilbud på abonnement</Property>
+        <Property name="subscriptionbox.slogan" medusa="true">3 uker gratis avis*</Property>
+        <Property name="subscriptionbox.buttontext" medusa="true">Les mer og bestill!</Property>
+        <Property name="subscriptionbox.url" medusa="true">/tilbud</Property>
+        <Property name="feed.nettavisen.commercial" medusa="true">on</Property>
+        <!-- Publication -->
+        <Property name="publication.displayname.full" medusa="true"></Property>
+        <!-- V3 -->
+        <Property name="v3.byline.esiVersion">true</Property>
+        <Property name="v3.byline.type">v3</Property>
+        <Property name="use.esi.if.available">false</Property>
+        <Property name="use.esi.if.available.nifs">false</Property>
+        <Property name="use.esi.if.available.origo">false</Property>
+        <Property name="shall.esi.be.used">true</Property>
+        <Property name="feature.motor.section">motor</Property>
+        <Property name="feature.job.section">jobb</Property>
+        <Property name="feature.realestate.section">bolig</Property>
+        <Property name="car.ads.frontpage" medusa="true">true</Property><!-- control whether or not the classified box on front pages is shown -->
+        <Property name="rubrikkplugger.rubrikkboks.hasMotor" medusa="true">true</Property>
+        <Property name="rubrikkplugger.rubrikkboks.hasHousing" medusa="true">false</Property>
+        <Property name="rubrikkplugger.rubrikkboks.hasJob" medusa="true">false</Property>
+        <Property name="rubrikkplugger.rubrikkboks.hasMisc" medusa="true">false</Property>
+        <Property name="rubrikkplugger.rubrikkboks.hasBoat" medusa="true">false</Property>
+        <Property name="rubrikkplugger.rubrikkboks.monday" medusa="true">motor</Property>
+        <Property name="rubrikkplugger.rubrikkboks.tuesday" medusa="true">bolig</Property>
+        <Property name="rubrikkplugger.rubrikkboks.wednesday" medusa="true">stilling</Property>
+        <Property name="rubrikkplugger.rubrikkboks.thursday" medusa="true">motor</Property>
+        <Property name="rubrikkplugger.rubrikkboks.friday" medusa="true">bolig</Property>
+        <Property name="rubrikkplugger.rubrikkboks.saturday" medusa="true">stilling</Property>
+        <Property name="rubrikkplugger.rubrikkboks.sunday" medusa="true">motor</Property>
+        <!--skattelisten  -->
+        <Property name="skattelisten.oscache.api.long.ttl">1800</Property>
+        <Property name="skattelisten.oscache.api.short.ttl">300</Property>
+        <Property name="skattelisten.oscache.external.long.ttl">1800</Property>
+        <Property name="skattelisten.oscache.external.short.ttl">300</Property>
+        <Property name="shall.esi.be.used.for.skatt">false</Property>
+        <Property name="traffic.tnsMetrix.cid">api_no</Property>
+        <Property name="obscura.original.cache.use">false</Property>
+        <Property name="obscura.publication.name.override">pub</Property>
+        <Property name="obscura.temporary.image.path">/images/cache/temp</Property>
+        <Property name="obscura.version.timestamp.check">true</Property>
+        <Property name="obscura.external.header.expires">3600000</Property>
+        <Property name="obscura.temp.dir">/images/cache/temp</Property>
+        <Property name="obscura.version.header.expires">31536000</Property>
+        <Property name="obscura.version.legacy.header.expires">1800</Property>
+        <Property name="obscura.external.cache.dir">/images/cache</Property>
+        <Property name="obscura.original.cache.dir">/images/cache</Property>
+        <Property name="obscura.version.cache.dir">/images/cache</Property>
+        <Property name="obscura.nifs.cache.dir" overridable="true">/images/cache/nifs</Property>
+        <Property name="obscura.external.permitted.hosts" overridable="true">maps.google.com,gfx.api.no,img.zett.no,cloud.geodataonline.no,graph.facebook.com,origo.no,akamaihd.net</Property>
+        <Property name="aws.s3.key">AKIAJFD6BYS7JBJTVMZQ</Property>
+        <Property name="aws.s3.secret">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</Property>
+        <Property name="nifs.cloud.bucket">no.nifs.archive.prod</Property>
+
+        <!-- Classified -->
+        <Property name="rubrikk.motor.plug.dealers" medusa="true"></Property>
+        <Property name="rubrikk.bolig.calendar.use" medusa="true">true</Property>
+        <Property name="rubrikk.realestate.brokers.use" medusa="true">false</Property>
+        <Property name="rubrikk.eiendom.useIris">true</Property>
+        <Property name="rubrikk.misc.sted" medusa="true">Norge</Property>
+        <Property name="rubrikk.bolig.sted" medusa="true">Norge</Property>
+        <Property name="rubrikk.bil.sted" medusa="true">Norge</Property>
+        <Property name="rubrikk.boat.sted" medusa="true">Norge</Property>
+        <Property name="rubrikk.stilling.sted" medusa="true">Norge</Property>
+        <Property name="rubrikk.marketplace.categories">Barn/Data og elektronikk/Dyr og dyreutstyr/Helse og velvære/Hobby og fritid/Hus, hage og interiør/Klær, sko og mote/Lyd og bilde/Sport og friluftsliv/Til næringsvirksomhet</Property>
+        <Property name="rubrikk.bil.privatannonsering" medusa="true">Ingen verdi</Property>
+        <Property name="rubrikk.stilling.object.url.prefix" medusa="true">/vis/rubrikk/prospekt/</Property>
+        <Property name="function.content.external.zett.id" medusa="true">10040</Property>
+        <Property name="function.content.external.zett.job.zettid" medusa="true">10040</Property>
+        <Property name="rubrikk.choose.ads" medusa="true">companyid-geography</Property>
+        <Property name="function.content.external.zett.job.districtname" medusa="true">Oslo</Property>
+        <Property name="rubrikk.search.activate.geosearch" medusa="true">true</Property>
+        <Property name="rubrikk.whitelabel" medusa="true">false</Property>
+        <Property name="rubrikk.whitelabels.name" medusa="true"></Property>
+        <Property name="rubrikk.drilldown.enableLocalGeoSwitch" medusa="false">true</Property>
+        <Property name="rubrikk.enableLoginServices" medusa="true">true</Property>
+        <Property name="rubrikk.displayJanusLogin" medusa="false">true</Property>
+        <Property name="rubrikk.booking.info.use" medusa="true">true</Property>
+        <Property name="rubrikk.booking.info.text" medusa="true">Din annonse her?</Property>
+        <Property name="rubrikk.booking.info.text2" medusa="true">Nett og papir - enkelt og billig.</Property>
+        <Property name="rubrikk.booking.info.buttontext" medusa="true">Sett inn annonse</Property>
+        <Property name="rubrikk.bookingUrl" medusa="true">/vis/rubrikk/onlinebooking/</Property>
+        <!-- Open realestate prospects in Eindomsnett from a publication -->
+        <Property name="rubrikk.realestate.link.to.eiendomsnett" medusa="false">false</Property>
+        <Property name="rubrikk.caligula.active" medusa="false">false</Property>
+        <!-- Spillsenteret -->
+        <Property name="siste.spillsenteret.sectionid" overridable="false">44174</Property>
+        <Property name="siste.spillsenteret.use" overridable="true">true</Property>
+        <Property name="new.spillsenter.active" overridable="false">true</Property>
+        <!-- Geodata - base urls of their static map server and their tiled map servers, plus our access token-->
+        <Property name="maps.geodata.static.use.restservice" overridable="false">false</Property>
+        <Property name="maps.geodata.static.restservice.baseUrl" overridable="false">http://services2.geodataonline.no/arcgis/rest/services/Geomap_UTM33_EUREF89/GeomapBasis/MapServer/export</Property>
+        <Property name="maps.geodata.static.baseUrl" overridable="false">http://services.geodataonline.no/arcgis/services/temp/GeocacheBasis_25833/MapServer/WMSServer</Property>
+        <Property name="maps.geodata.tiled.baseUrl" overridable="false">http://services.geodataonline.no/arcgis/rest/services/Geocache_UTM33_EUREF89/GeocacheBasis/MapServer</Property>
+        <Property name="maps.geodata.tileserver1.baseUrl" overridable="false">http://s1.geodataonline.no/arcgis/rest/services/Geocache_UTM33_EUREF89/GeocacheBasis/MapServer</Property>
+        <Property name="maps.geodata.tileserver2.baseUrl" overridable="false">http://s2.geodataonline.no/arcgis/rest/services/Geocache_UTM33_EUREF89/GeocacheBasis/MapServer</Property>
+        <Property name="maps.geodata.tileserver3.baseUrl" overridable="false">http://s3.geodataonline.no/arcgis/rest/services/Geocache_UTM33_EUREF89/GeocacheBasis/MapServer</Property>
+        <Property name="maps.geodata.tileserver4.baseUrl" overridable="false">http://s4.geodataonline.no/arcgis/rest/services/Geocache_UTM33_EUREF89/GeocacheBasis/MapServer</Property>
+        <Property name="maps.geodata.token" overridable="false">qtrths-TThyWootSK45UJzlE89W13zCxANlmTkHB9Na0eJWYNFpLOGPUcEQS0xvu</Property>
+        <!-- Videoseksjon - fotball -->
+        <Property name="siste.fotball.video.sectionid" overridable="false">44302</Property>
+        <!-- Classified carousel-->
+        <Property name="rubrikk.job.carousel.advertisement.email" medusa="true">support@api.no</Property>
+        <Property name="rubrikk.job.carousel.component.name" medusa="true">Jobb lokalt</Property>
+        <Property name="rubrikk.job.carousel.local.jobs.link.text" medusa="true"></Property>
+        <Property name="rubrikk.job.carousel.jobs.link" medusa="true">/vis/rubrikk/jobb.html?transId=11</Property>
+        <Property name="rubrikk.job.carousel.turn.off.link.to.whole.country" medusa="true">false</Property>
+        <Property name="rubrikk.job.carousel.stilling.object.url.template" medusa="true">/vis/rubrikk/jobbprospekt/{id}.html</Property>
+        <Property name="rubrikk.job.slider" medusa="false">true</Property>
+        <Property name="rubrikk.property.slider" medusa="false">true</Property>
+
+        <!-- Horoscope -->
+        <Property name="global.horoscope.show" medusa="true"></Property>
+        <Property name="global.horoscope.phone.number" medusa="true"></Property>
+        <!-- Magazine Deck -->
+        <Property name="global.magazine_deck.show" medusa="true"></Property>
+        <!-- Traffic messages -->
+        <Property name="global.traffic.counties" medusa="true"></Property>
+        <!-- Origo Personalia -->
+        <Property name="origo.personalia.show" medusa="true"></Property>
+        <!-- Origo Kalender -->
+        <Property name="origo.calendar.show" medusa="true"></Property>
+        <!-- Tv Guide -->
+        <Property name="use.tvguide" overridable="false">true</Property>
+        <!-- Mail -->
+        <Property name="mail.smtp.server">smtp.api.no</Property>
+        <Property name="mail.smtp.user">x</Property>
+        <Property name="mail.smtp.password">x</Property>
+        <Property name="mail.charset">UTF-8</Property>
+        <Property name="mail.message.validationFailed">Valideringsfeil</Property>
+        <Property name="mail.message.sendFailed">Feil ved sending av mail</Property>
+        <Property name="mail.message.messageSent">Melding sendt</Property>
+        <Property name="mail.allowedDomains" medusa="true">api.no,apdm.no</Property>
+        <!-- Spring Scores -->
+        <Property name="springscores.is.api.network">true</Property>
+        <Property name="springscores.enabled">true</Property>
+        <!-- v3 on -->
+        <Property name="use.esi.if.available.for.v3">false</Property>
+        <Property name="use.esi.if.available.for.v3.menu">false</Property>
+        <Property name="use.esi.if.available.for.top.menu">false</Property>
+        <Property name="use.v3.challengetop.and.menu">true</Property>
+        <Property name="v3migration.use">true</Property>
+        <!-- Origo -->
+        <Property name="origo.url.prefix">http://origo.no/-/conversation/embed/?remote_id=</Property>
+        <Property name="origo.commentCount.disable">true</Property>
+        <Property name="origo.comments.v2" medusa="false">true</Property>
+        <Property name="origo.comments.response" medusa="false" overridable="true">false</Property>
+        <Property name="facebook.app_id" medusa="false" overridable="true"></Property>
+        <Property name="facebook.comments.override_response" medusa="false" overridable="true">false</Property>
+        <Property name="origo.comments.response.url" medusa="false" overridable="true">http://amedia.o5.no/api/response/v1/js/response.js</Property>
+        <Property name="origo.frontpage.response" medusa="false" overridable="true">true</Property>
+        <Property name="origo.frontpage.response.url" medusa="false" overridable="true">http://amedia.o5.no/api/response/v1/js/response-summaries.js</Property>
+        <Property name="origo.url.commentCount">http://origo.api.no/-/cache/comment_count/from_remote_id</Property>
+        <Property name="article.function.forum.origo" medusa="true">false</Property>
+        <!-- Comment field message -->
+        <Property name="article.comments.message.enabled" medusa="true" overridable="true">false</Property>
+        <Property name="article.comments.message.title" medusa="true" overridable="true">Kommentarer</Property>
+        <Property name="article.comments.message.text" medusa="true" overridable="true"></Property>
+        <Property name="article.comments.message.signature" medusa="true" overridable="true"></Property>
+        <Property name="article.main_signoff.profileimages.active" medusa="true">false</Property>
+        <!-- debug, SPR-3668 for more information -->
+        <Property name="output.start.and.end.markers.in.html">false</Property>
+        <!-- A/B testing: Delete parameter when seamstress is in version 1.10 -->
+        <Property name="perform.ab.testing">false</Property>
+        <!-- Viewport Log -->
+        <Property name="perform.viewport.log">false</Property>
+        <!-- QuestBack -->
+        <Property name="questback.active" medusa="true">false</Property>
+        <Property name="questback.popup.title" medusa="true">Vi trenger din hjelp</Property>
+        <Property name="questback.popup.message" medusa="true">På forhånd takk - dine innspill er viktige for vårt videre arbeid med avisen!</Property>
+        <Property name="questback.popup.surveyURL" medusa="true">http://www.example.com/</Property>
+        <!-- QuestBack Mobile -->
+        <Property name="questback.mobile.active" medusa="true">false</Property>
+        <Property name="questback.mobile.surveyURL" medusa="true">http://www.example.com/</Property>
+        <!-- Ads -->
+        <Property name="ads.special.text.link">true</Property>
+        <Property name="ads.v2" medusa="false" overridable="true">true</Property>
+        
+				<!-- Local css -->
+        <Property name="localcss.menu.background.color" medusa="true"></Property>
+        <Property name="localcss.menu.text.color" medusa="true"></Property>
+        <Property name="localcss.menu.activetext.color" medusa="true"></Property>
+        <Property name="localcss.submenu.background.color" medusa="true"></Property>
+        <Property name="localcss.submenu.text.color" medusa="true"></Property>
+        <Property name="localcss.slimmenu.active.background.color" medusa="true"></Property>
+        <Property name="localcss.global.font.family" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.xs" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.s" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.m" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.l" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.xl" medusa="true"></Property>
+        <Property name="localcss.global.fontsize.xxl" medusa="true"></Property>
+        <Property name="localcss.global.link.color" medusa="true"></Property>
+        <Property name="localcss.articletop.fontsize.title" medusa="true"></Property>
+        <Property name="localcss.teaser.background.color" medusa="true"></Property>
+        <Property name="localcss.teaser.text.color" medusa="true"></Property>
+        <Property name="localcss.divider.text.color" medusa="true"></Property>
+        <Property name="localcss.divider.border.color" medusa="true"></Property>
+        <Property name="localcss.divider.background.color" medusa="true"></Property>
+        <Property name="localcss.sectionlink.background.color" medusa="true"></Property>
+        <Property name="localcss.sectionlink.text.color" medusa="true"></Property>
+        <Property name="localcss.jobplug.text.color" medusa="true"></Property>
+        <Property name="localcss.jobplug.background.color" medusa="true"></Property>
+        <Property name="localcss.jobplug.arrowgraphic" medusa="true"></Property>
+        <Property name="localcss.origo.header.background"></Property>
+        <Property name="localcss.origo.header.font-family"></Property>
+        <Property name="localcss.origo.header.font.color"></Property>
+        <Property name="localcss.origo.links.font.color"></Property>
+        <Property name="localcss.origo.links.body.font.color"></Property>
+        <Property name="localcss.invertbox.colour.black.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.red.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.redlight.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.blue.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.bluelight.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.gold.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.grey.container.background" medusa="true"></Property>
+        <Property name="localcss.invertbox.colour.green.container.background" medusa="true"></Property>
+        <Property name="rubrikk.header.use" medusa="false">true</Property>
+        <Property name="redesign.switch">true</Property>
+        <Property name="rubrikk.realestate.promote.apartments" medusa="true">true</Property>
+        <!-- Tailor : We need these empty parameters here because of what seems to be a bug in ApiProperties-->
+        <Property name="tailor.plugg.article.url.prefix"></Property>
+        <Property name="tailor.plugg.1.section.id"></Property>
+        <Property name="tailor.plugg.1.section.element.group"></Property>
+        <Property name="tailor.plugg.2.section.id"></Property>
+        <Property name="tailor.plugg.2.section.element.group"></Property>
+        <Property name="tailor.frontpage.section.name">ece_frontpage</Property>
+        <Property name="tailor.plugg.sectionheadings"></Property>
+        <Property name="tailor.publication.name"></Property>
+        <Property name="tailor.plug.ad.id"></Property>
+        <Property name="tailor.section.ad.id"></Property>
+        <Property name="tailor.now.section.id"></Property>
+        <Property name="tailor.tv.section.id"></Property>
+        <Property name="tailor.thisday.section.id"></Property>
+        <Property name="tailor.now.section.name"></Property>
+        <Property name="tailor.tv.section.name"></Property>
+        <Property name="tailor.thisday.section.name"></Property>
+        <Property name="mobile.ads.requestType">live</Property>
+        <Property name="princexml.executable.path">/usr/lib/prince/bin/prince</Property>
+        <!--muvi-->
+        <Property name="muvi.escenic.import.spool.folder">/nfs/www/apressen/import/spool</Property>
+        <Property name="muvi.file.log.path">/nfs/video/original</Property>
+        <Property name="muvi.file.movie.converted.path">/nfs/video/converted</Property>
+        <Property name="muvi.file.movie.original.path">/nfs/video/original</Property>
+        <Property name="muvi.file.status.path">/nfs/video/original</Property>
+        <Property name="muvi.file.thumbnail.path">/nfs/video/original</Property>
+        <Property name="muvi.upload.video.maxMemSize">512000</Property>
+        <Property name="muvi.upload.video.maxUploadSize">524288000</Property>
+        <Property name="muvi.upload.video.tmpPath">/var/jetty/muvi/tmp</Property>
+        <Property name="medusa.environment">prod</Property>
+        <!--transition-->
+	<Property name="transition.ad.cleanup.cronexp">0 0 1,2,3,4,5 ? * *</Property>
+        <Property name="transition.ftp.path">/nfs/transition/classified</Property>
+        <Property name="transition.media.path">/nfs/transition/media</Property>
+        <Property name="transition.production.image.path">/usr/local/import/tindeimport/spools/images</Property>
+        <Property name="transition.production.file.path">/usr/local/import/tindeimport/spools/files</Property>
+        <Property name="transition.memcached.server">disabled</Property>
+        <Property name="transition.missingmedia.timeout">60</Property>
+        <Property name="transition.missingmedia.timer">60000</Property>
+        <Property name="transition.file.readlockcheckinterval">5000</Property>
+        <Property name="transition.file.readlocktimeout">10000</Property>
+        <Property name="transition.webtemp.personalhuset.fetch.url">http://82.134.19.102/cgi-win/wtkandidatxml.exe?/k41&amp;kommando=zett&amp;brukerid=phannonser&amp;minutterbakover=1620</Property>
+        <Property name="transition.rettbemanning.fetch.url">http://portal.rettas.intelliplan.eu/JobAdGlobePages/Feed.aspx?pid=AA31EA47-FDA6-42F3-BD9F-E42186E5A960&amp;version=2</Property>
+        <Property name="transition.sologstrand.fetch.url">http://wwwdata.sologstrand.dk/webservice/ServiceHouseId.asmx/GetHouseId?fromregnr=10-0000&amp;toregnr=99-9999</Property>
+        <Property name="transition.webmegler.fetch.url">http://secure.webmegler.no/cgi-win/wnsokemotorxml.exe?/bzett/m45</Property>
+        <Property name="transition.zeeland.url">http://admin.api.no/zeeland/</Property>
+        <Property name="transition.zservices.url">http://v3local.osl2.api.kunder.linpro.no/zservices/</Property>
+        <Property name="transition.zett.url">http://www.zett.no</Property>
+        <Property name="transition.zett.properties.url">http://www.eiendomsnett.no</Property>
+        <Property name="transition.properties.url">http://www.eiendomsnett.no/vis/rubrikk/eiendomsprospekt/</Property>
+        <!--Zeeland-->
+        <Property name="zeeland.zservices.url">http://v3local.osl2.api.kunder.linpro.no/zservices/service/</Property>
+        <Property name="zeeland.zservices.url.path">http://v3local.osl2.api.kunder.linpro.no/zservices/</Property>
+        <!-- mittari -->
+        <!-- mittari skips articles older than so many days in most-read requests -->
+        <Property name="mittari.old.articles.days">30</Property>
+        <Property name="tvguide.use">true</Property>
+        <Property name="video.player.file.name">player-1.0.swf</Property>
+
+        <!-- Canal+ -->
+        <Property name="cplus.site.id">siste</Property>
+        <Property name="cplus.incompatible.browser.ua.regexp">(Linux|Macintosh;.*(Chrome\/17.0))</Property>
+        <Property name="cplus.emergency.override.active">false</Property>
+        <Property name="cplus.emergency.override.message">Denne tjenesten er ute av drift. Vi jobber med å løse problemet. Vennligst prøv igjen senere.</Property>
+
+        <!--<Property name="video.instream.ad.url">http://ad-emea.doubleclick.net/ad/apressen.no.smartclip/;sz=400x320;dcmt=text/xml;ord=[random]?</Property>-->
+        <Property name="video.instream.ad.url">http://ad-emea.doubleclick.net/ad/testadvertiser.smartclip/as3_16.9_rotation;sz=400x320;u=pub=apressen;dcmt=text/xml;ord=[random]?</Property>
+        <!-- visual revenue -->
+        <Property name="visualrevenue.id"></Property>
+        <Property name="visualrevenue.use">false</Property>
+        <Property name="visualrevenue.autotitle">true</Property>
+        <Property name="debug.component.headers">false</Property><!-- print Cache-Control comment in components -->
+
+        <!--show videoarcousel on mobile front page-->
+        <Property name="videocarousel.mobfront.show">true</Property>
+
+        <!-- apay -->
+        <Property name="apay.client.application.key">apay</Property>
+        <Property name="apay.gateway.url">http://msgw.linkmobility.com/MessageService.aspx</Property>
+        <Property name="apay.gateway.ackurl">http://admin.api.no/apay/ack.html</Property>
+        <Property name="apay.gateway.username">apisms</Property>
+        <Property name="apay.gateway.password">hjka76!h</Property>
+
+        <Property name="amail.client.application.key">45d27ca8d82fa23f12fa2df6083c3e3cab382afc</Property>
+
+
+        <!-- Subscriptions Pilot for Glomdalen, turned off for others -->
+        <Property name="subscriptionsystem.use" overridable="true">false</Property>
+        <Property name="subscriptionsystem.loginpage" overridable="true">/tilgang/login/aid/</Property>
+        <Property name="subscriptionsystem.mainpage" overridable="true"></Property>
+        <Property name="subscriptionsystem.aboutpage" overridable="true"></Property>
+	<Property name="subscriptionsystem.orderpage" overridable="true">/kundesenter/privat/abonnere</Property>
+	<Property name="subscriptionsystem.pebbles.use" overridable="true">true</Property>
+	<Property name="subscriptionsystem.aid.use" overridable="true">true</Property>
+
+	<!-- aID properties, takes over for subscriptionsystem -->
+        <Property name="aid.customerservice.name" overridable="true">Amedia kundesenter</Property>
+        <Property name="aid.customerservice.phonenumber" overridable="true"></Property>
+	<Property name="aid.login.passwordless.secret.mercury">xqOwjA8UC5ozR4xyDBaiuQ</Property>
+	<Property name="aid.aboutpage" overridable="true"></Property>
+
+        <Property name="varnish.paywall.token.secret.key">Bah0oer2</Property>
+
+        <Property name="visiolink.epages.baseurl" overridable="true">http://www.e-pages.dk/</Property>
+        <Property name="visiolink.epages.reader.baseurl" overridable="true">http://www.e-pages.dk/</Property>
+        <Property name="visiolink.epages.infoservice.url" overridable="true">http://customer.e-pages.dk/amedia/info/</Property>
+        <Property name="visiolink.epages.publication.name" overridable="true"></Property>
+        <Property name="visiolink.epages.android.packagename" overridable="true"></Property>
+        <Property name="visiolink.epages.ios.appname" overridable="true"></Property>
+        <Property name="npd.session.handover.url" overridable="true"></Property>
+        <Property name="npd.viewer.url" overridable="true"></Property>
+
+        <Property name="video.player.file.name">flowplayer.unlimited-3.2.12.swf</Property>
+
+        <!-- Corredor -->
+        <Property name="corredor.origo.calendar.grove.enable" overridable="true">false</Property>
+        <Property name="corredor.classified.oppsalg.url">http://admin.api.no/ad_manager/feeds.json</Property>
+
+        <!-- Pantera -->
+        <Property name="pantera.switch">false</Property>
+
+        <!-- Mobile -->
+        <Property name="mobile.frontpage.picture.series.show" medusa="false">true</Property>
+
+        <!--Mobile redesign based on Edda’s mobile framework-->
+        <Property name="mobile.design.edda.basic" overridable="true">true</Property>
+        <Property name="mobile.design.edda.full" overridable="true">false</Property>
+
+        <!--Videoplayer ads-->
+        <Property name="video.ads.show">true</Property>
+
+        <!--Graphite config for metering-->
+        <Property name="graphite.host.name">alkalisk.api.kunder.linpro.no</Property>
+        <Property name="graphite.port">2003</Property>
+        <Property name="graphite.active">true</Property>
+
+        <!-- Where hydra shall send registration mails -->
+        <Property name="hydra.email.support">support.utvikling@amedia.no</Property>
+
+        <Property name="frontgrabber.phantomjs.path">/usr/local/phantomjs/bin/phantomjs</Property>
+
+        <!-- puls configuration -->
+        <Property name="puls.comscore.sitestat.fetch.cron">0 0 0/2 * * ?</Property>
+        <Property name="puls.comscore.sitestat.fetch.yesterday.cron">0 30 1 * * ?</Property>
+        <!-- ${DATE} will be replaced at runtime -->
+        <Property name="puls.comscore.sitestat.fetch.url">https://sitestatapi.com/v1/reportitems.xml?itemid=10677&amp;startdate=${DATE}&amp;site=mainsite&amp;client=amedia&amp;user=puls&amp;password=RfQO75nRA</Property>
+        <Property name="puls.comscore.sitestat.paidcontent.fetch.url">https://sitestatapi.com/v1/reportitems.xml?itemid=10693&amp;startdate=${DATE}&amp;site=mainsite&amp;client=amedia&amp;user=puls&amp;password=RfQO75nRA</Property>
+        <Property name="puls.comscore.articlestat.fetch.cron">0 0 0/2 * * ?</Property>
+        <Property name="puls.comscore.articlestat.fetch.yesterday.cron">0 30 1 * * ?</Property>
+        <!-- ${DATE} will be replaced at runtime -->
+        <Property name="puls.comscore.articlestat.fetch.url">https://sitestatapi.com/v1/reportitems.xml?itemid=10036&amp;startdate=${DATE}&amp;site=mainsite&amp;client=amedia&amp;user=puls&amp;password=RfQO75nRA&amp;parameters=page:*details*|a_contenttype:article</Property>
+        <Property name="puls.comscore.articlestat.paidcontent.fetch.url">https://sitestatapi.com/v1/reportitems.xml?itemid=10057&amp;startdate=${DATE}&amp;site=mainsite&amp;client=amedia&amp;user=puls&amp;password=RfQO75nRA&amp;parameters=page:*details*|a_contenttype:article</Property>
+        <Property name="puls.calculaterecord.sitestat.cron">0 45 1 * * ?</Property>
+        <Property name="puls.calculaterecord.articlestat.cron">0 50 1 * * ?</Property>
+        <Property name="puls.calculaterecord.articlestatalltime.cron">0 55 1 * * ?</Property>
+
+<!-- == Configuration superseding etcapi/zett == -->
+<!--  TODO: Sjekke om denne skaper problemer på andre sites enn zett.no -->
+<!-- Properties for co publishing agreements. In this format: -->
+<!--  copublishing.<nameofcopublishing>=<categoryId>|<pubId>,<pubId> -->
+<!-- To specify all categories, use 0 for categoryId -->
+<!-- All active co publishing agreements must be listed in 'copublishings' -->
+<Property name="co_publishing.copublishings">olmbaat,olmmotor,olmsmaattogstort</Property>
+<!-- Properties for co publishing named Opplandsmarkedet, -->
+<!-- 10025 Oppland Arbeiderblad -->
+<!-- 10030 Avisa Hadeland -->
+<!-- 10026 Gudbrandsdølen Dagningen -->
+<Property name="co_publishing.copublishing.opplandsmarkedet">0|10025,10030,10026</Property>
+<Property name="co_publishing.copublishing.olmbaat">13000|10025,10030,10026</Property>
+<Property name="co_publishing.copublishing.olmmotor">10000|10025,10030,10026</Property>
+<Property name="co_publishing.copublishing.olmsmaattogstort">4000|10025,10030,10026</Property>
+<Property name="daocache.cache.enabled">true</Property>
+<Property name="daocache.atomizer.enabled">true</Property>
+<Property name="datasource.dataSource.zett.driverClassName">org.postgresql.Driver</Property>
+<Property name="datasource.dataSource.zett.username">zett</Property>
+<Property name="datasource.dataSource.zett.password">zett</Property>
+<Property name="datasource.dataSource.zett.initialSize">5</Property>
+<Property name="datasource.dataSource.zett.maxActive">15</Property>
+<Property name="datasource.dataSource.zett.maxIdle">2</Property>
+<Property name="datasource.dataSource.zett.minIdle">2</Property>
+<Property name="datasource.dataSource.zett.maxWait">1000</Property>
+<Property name="datasource.dataSource.import.driverClassName">org.postgresql.Driver</Property>
+<Property name="datasource.dataSource.import.username">zett</Property>
+<Property name="datasource.dataSource.import.password">zett</Property>
+<Property name="datasource.dataSource.import.initialSize">5</Property>
+<Property name="datasource.dataSource.import.maxActive">15</Property>
+<Property name="datasource.dataSource.import.maxIdle">2</Property>
+<Property name="datasource.dataSource.import.minIdle">2</Property>
+<Property name="datasource.dataSource.import.maxWait">1000</Property>
+<Property name="extservices.spool.path">/usr/local/import/tindeimport/spools/</Property>
+<Property name="fastfeeder.feed.batchSize">200</Property>
+<Property name="fastfeeder.feed.workers">4</Property>
+<Property name="fastfeeder.cluster.1.name">FAST-A</Property>
+<Property name="fastfeeder.cluster.1.address">fastindex-a</Property>
+<Property name="fastfeeder.cluster.1.collection">ZETT</Property>
+<Property name="fastfeeder.cluster.2.name">FAST-B</Property>
+<Property name="fastfeeder.cluster.2.address">fastindex-b</Property>
+<Property name="importhandler.spool.path">/usr/local/import/tindeimport/spools/</Property>
+<Property name="importhandler.list.myads">/vis/rubrikk/onlinebooking/myads.action</Property>
+<Property name="importhandler.list.faq">/vis/rubrikk/onlinebooking/faq/showfaq.action</Property>
+<Property name="importhandler.edit.myad">/vis/rubrikk/onlinebooking/adedit.action</Property>
+<Property name="importhandler.database.driver">org.postgresql.Driver</Property>
+<Property name="importhandler.database.login">zett</Property>
+<Property name="importhandler.database.password">zett</Property>
+<!--  -->
+<!--  URL and login info for data source which is assumed to be a PostgreSQL database. -->
+<!--  -->
+<Property name="indexer.database.username">zett</Property>
+<Property name="indexer.database.password">zett</Property>
+<!--  -->
+<!--  URL to Solr -->
+<!--  -->
+<Property name="indexer.solr.url">http://localhost:9034/solr3/classified-main</Property>
+<!--  ip addresses that is allowed. -->
+<Property name="iptables.ip">82.134.26.138,193.215.6.253,87.238.49.5,83.143.87.155,62.92.212.36,62.92.212.10,77.106.165.70,83.168.205.75,89.221.244.13,213.161.191.89,87.238.49.12,193.160.157.241,193.227.204.222,193.227.204.90,194.19.79.50,127.0.0.1,194.19.79.53,193.227.204.202,84.49.9.242,195.159.124.135,81.27.32.186,62.92.212.19,81.175.30.5,77.75.208.11,77.75.208.12,79.161.66.6,193.71.11.205,195.1.56.129,193.142.100.161,195.0.193.220,2a00:1b60:1:8:221:5eff:fe27:d02c,81.27.38.80,84.49.9.242,194.63.248.78</Property>
+<Property name="iptables.range">195.159.152.192-207,87.238.55.0-255,193.215.6.128-255,32.10.93.1-255,193.227.204.132-135,193.227.204.214-215,193.227.204.233-236,89.250.123.0-255</Property>
+<Property name="iptables.offshore.query">navigator*transactiontype=JOB_AVAILABLE</Property>
+<Property name="iptables.offshore.filter">company*clients=%c|companyParent*parentid=%c</Property>
+<Property name="iptables.offshore.companies">2415767,2412691,2293919,2365319,2364809,2359345,2359219,2351774,2351774,1984035,2316060,511725,2311430,2011919,2296419,2249375,2288518,2278218,2218502,1557462,2027807,2027874,1785567,2056068,1855277,1747664,2056063,604425,40259,2080883,1595696,2054940,40266,1613097,2173753,651138,2163126,1894207,2186322,1997245,2188648,2021367,554564,1621751,2246146,2278606,2278596,551786,2249375,1699577,2364747,2358568,2421252,2421567,2441195,2495042,2027807,2441250,2412691,1895368,2581497,2590524,2598597,537098,2050038,2608465,40226,2631179,2330358,2644877</Property>
+<Property name="iptables.offshore.icount">1000</Property>
+<!--  81.27.38.80 (Avisa Valdres) -->
+<!--  84.49.9.242 (Catch Media) -->
+<!--  194.63.248.78 (Catch Media - prod) -->
+<!--  32.10.93.* local (inhouse) -->
+<!--  194.19.79.50 Nettavisen gateway -->
+<!--  193.227.204.214-236 Nettavisen range. -->
+<!--  193.215.6.253 Apressen gateway. -->
+<!--  87.238.49.5 Firdaposten -->
+<!--  83.143.87.155 Nordlys -->
+<!--  62.92.212.* Glåmdalen. -->
+<!--  77.106.165.70 Saga Bemanning og Rekruttering AS -->
+<!--  83.168.205.75 Nitteberg bil. -->
+<!--  89.221.244.13 Nitterberg bil (ny). -->
+<!--  213.161.191.89 Invenia.no (Test) -->
+<!--  87.238.49.12 (Romerikets blad) -->
+<!--  193.160.157.241 (Tv2-Test) -->
+<!--  193.227.204.222 (TV2-Prod) -->
+<!--  193.227.204.90 (TV2-Staging) -->
+<!--  193.227.204.132-135 (TV2) -->
+<!--  195.141.246.19 (QXL) removed -->
+<!--  194.19.101.218 (QXL) removed -->
+<!--  84.49.9.242 Catch Media har en boligportal for Ringerike i samarbeid med bl.a. Ringblad. -->
+<!--  195.159.124.135 (Tun Media) -->
+<!--  89.250.123.* (Tek Media) -->
+<!--  193.71.11.205 (WebTop server) -->
+<!--  195.1.56.129 (WebTop internal) -->
+<!--  193.142.100.161 (Edda Media development) -->
+<!--  195.0.193.220 (Edda Media import server) -->
+<!--  2a00:1b60:1:8:221:5eff:fe27:d02c (Edda Media import server) -->
+<!--  TODO: trenger vi en annen smtp-host? -->
+<Property name="maildistributor.smtp.host">localhost</Property>
+<Property name="maildistributor.template.root">/Users/Trond/Documents/Code/CVS-repo/zett/zett-maildistribution/src/main/resources/templates</Property>
+<!--  The locations where the export files will be saved. -->
+<Property name="maintenance.database.driver">org.postgresql.Driver</Property>
+<Property name="maintenance.database.login">zett</Property>
+<Property name="maintenance.database.password">zett</Property>
+<Property name="robot.robotHome.path">/usr/local/import/robot/</Property>
+<Property name="robot.spoolDirectory.path">/usr/local/import/tindeimport/spools/</Property>
+<!--  The locations where the export files will be saved. -->
+<Property name="sap.postgresql.database.driver">org.postgresql.Driver</Property>
+<Property name="sap.postgresql.database.zett.login">zett</Property>
+<Property name="sap.postgresql.database.zett.password">zett</Property>
+<Property name="sap.mysql.database.driver">com.mysql.jdbc.Driver</Property>
+<Property name="sap.mysql.database.zettdwh.login">zettdwh</Property>
+<Property name="sap.mysql.database.zettdwh.password">ravKeiv3</Property>
+<!--  The filename and locations -->
+<!--  The database connection url -->
+<Property name="surveillance.login">zett</Property>
+<Property name="surveillance.password">zett</Property>
+<!--  The filename and locations -->
+<!--  The database connection url -->
+<Property name="webservices.login">zett</Property>
+<Property name="webservices.password">zett</Property>
+<!--  These can be used to set the default HTTP and HTTPS ports -->
+<Property name="webwork.webwork.url.http.port">80</Property>
+<Property name="webwork.webwork.url.https.port">443</Property>
+<!--  This can be used to set your locale and encoding scheme -->
+<Property name="webwork.webwork.locale">en_US</Property>
+<Property name="webwork.webwork.i18n.encoding">UTF-8</Property>
+<!--  Parser to handle HTTP POST requests, encoded using the MIME-type multipart/form-data -->
+<!-- webwork.multipart.parser=cos -->
+<!-- webwork.multipart.parser=pell -->
+<Property name="webwork.webwork.multipart.parser">jakarta</Property>
+<!--  uses javax.servlet.context.tempdir by default -->
+<Property name="webwork.webwork.multipart.saveDir">/tmp</Property>
+<Property name="webwork.webwork.multipart.maxSize">10485760</Property>
+<!--  Load custom property files (does not override webwork.properties!) -->
+<!-- webwork.custom.properties=application,com/webwork/extension/custom -->
+<!--  extension for actions. This uses by the webwork:form tag -->
+<Property name="webwork.webwork.action.extension">html</Property>
+<!--  Standard UI theme -->
+<!--  Change this to reflect which path should be used for JSP control tag templates by default -->
+<!--  webwork.ui.theme=xhtml -->
+<!--  webwork.ui.templateDir=template -->
+<!--  Configuration reloading -->
+<!--  This will cause the configuration to reload xwork.xml when it is changed -->
+<Property name="webwork.webwork.configuration.xml.reload">true</Property>
+<!--  Location of velocity.properties file. defaults to velocity.properties -->
+<Property name="webwork.webwork.velocity.configfile">velocity.properties</Property>
+<!--  Comma separated list of VelocityContext classnames to chain to the WebWorkVelocityContext -->
+<!--  webwork.velocity.contexts = -->
+<!--  Override the default VelocityManager with a custom implementation -->
+<!--  webwork.velocity.manager.classname=path.and.classname -->
+<!--  Load custom default resource bundles -->
+<Property name="webwork.webwork.custom.i18n.resources">ApplicationResources</Property>
+<!--  Velocity Toolbox location -->
+<Property name="webwork.webwork.velocity.toolboxlocation">/WEB-INF/velocity-toolbox.xml</Property>
+<!--  The database connection url -->
+<Property name="zettadmin.login">zett</Property>
+<Property name="zettadmin.password">zett</Property>
+<!-- booking type name -->
+<Property name="zettbooking.zettbooking.name">zettbooking</Property>
+<!--  persist notifications -->
+<!-- payment -->
+<Property name="zettbooking.payment.disabled">false</Property>
+<Property name="zettbooking.payment.currencyType">NOK</Property>
+<Property name="zettbooking.payment.currencyTypeId">578</Property>
+<Property name="zettbooking.payment.filledCardNumber">4571100000000000</Property>
+<Property name="zettbooking.payment.filledCVC">684</Property>
+<Property name="zettbooking.payment.filledMonth">6</Property>
+<Property name="zettbooking.payment.filledYear">24</Property>
+<Property name="zettbooking.payment.modificationprice">0</Property>
+<Property name="zettbooking.payment.usesDibsFlexWin">true</Property>
+<Property name="zettbooking.payment.simulatateDibsCallback">false</Property>
+<Property name="zettbooking.payment.useReceiveMD5Check">true</Property>
+<Property name="zettbooking.payment.useTransmitMD5Check">false</Property>
+<Property name="zettbooking.payment.enableMobile">true</Property>
+<!-- archive -->
+<Property name="zettbooking.archive.path">/usr/local/import/archive/zettbooking/xml/</Property>
+<Property name="zettbooking.archive.unarchivedAdBookingImagesPath">/usr/local/import/archive/zettbooking/unarchivedAdBookingImages/</Property>
+<Property name="zettbooking.archive.archivedAdBookingImagesPath">/usr/local/import/archive/zettbooking/archivedAdBookingImages/</Property>
+<Property name="zettbooking.archive.unarchivedAdBookingImageWebPath">uploadedImages/unarchivedAdBookingImages/</Property>
+<Property name="zettbooking.archive.archivedAdBookingImageWebPath">uploadedImages/archivedAdBookingImages/</Property>
+<Property name="zettbooking.archive.allowedFileTypes">image/jpeg, image/png, image/gif, application/zip</Property>
+<Property name="zettbooking.archive.thumbWidth">115</Property>
+<Property name="zettbooking.archive.thumbHeight">115</Property>
+<Property name="zettbooking.archive.maxWidth">800</Property>
+<Property name="zettbooking.archive.maxHeight">600</Property>
+<Property name="zettbooking.archive.maxAllowedLogoWidth">268</Property>
+<Property name="zettbooking.archive.maxAllowedLogoHeight">60</Property>
+<Property name="zettbooking.archive.allowedNumberOfUploadedLogos">2</Property>
+<Property name="zettbooking.archive.newspaperPreviewPictureWidth">226</Property>
+<Property name="zettbooking.archive.newspaperPreviewPictureHeight">153</Property>
+<!-- magus -->
+<Property name="magus.headerfooter.use" overridable="true">true</Property>
+<!-- image -->
+<Property name="zettbooking.imageserver.imageWidth">searchthumb115</Property>
+<Property name="zettbooking.imageserver.imageHeight">searchthumb115</Property>
+<Property name="zettbooking.imageserver.newspaperPreviewType">prospectmainthumb1024</Property>
+<Property name="zettbooking.v3config.staticUrl">http://r.api.no/local/v3</Property>
+<Property name="zettbooking.spool.path">/usr/local/import/tindeimport/spools/</Property>
+<!-- disabled for alpha testing, set this to true if you want to test in your localhost -->
+<Property name="zettbooking.myzett.login">false</Property>
+<!-- reference to zett-site -->
+<!--  These are used for deploying the config from Booking admin after the user presses "Prodsett endringer" -->
+<!-- deployment nodes -->
+<!--  we assume that server_type is one of prod, test and snapshot. If not, deployment will most certainly fail. -->
+<!--  url suffix in newspapers -->
+<Property name="zettbooking.links.newspaper.torgurl">/vis/rubrikk/onlinebooking</Property>
+<Property name="zettbooking.links.newspaper.myads">/vis/rubrikk/onlinebooking/myads.action</Property>
+<!--  url suffix for preview of prospects in newspapers -->
+<Property name="zettbooking.preview.newspaper.motor.prospect">/vis/rubrikk/motorprospekt/forhaandsvisning/&lt;objectId&gt;.html</Property>
+<Property name="zettbooking.preview.newspaper.boat.prospect">/vis/rubrikk/baatprospekt/forhaandsvisning/&lt;objectId&gt;.html</Property>
+<Property name="zettbooking.preview.newspaper.job.prospect">/vis/rubrikk/jobbprospekt/forhaandsvisning/&lt;objectId&gt;.html</Property>
+<Property name="zettbooking.preview.newspaper.property.prospect">/vis/rubrikk/eiendomsprospekt/forhaandsvisning/&lt;objectId&gt;.html</Property>
+<Property name="zettbooking.preview.newspaper.misc.prospect">/vis/rubrikk/torgprospekt/forhaandsvisning/&lt;objectId&gt;.html</Property>
+<!--  domain for prospect preview -->
+<!--  newspaper domain -->
+<Property name="zettbooking.links.newspaper.domain">http://&lt;newspaperDomain&gt;</Property>
+<!--  TODO: fixmee -->
+<Property name="zettdata.user.admin.password">heiVooj3</Property>
+<!-- booking type name -->
+<Property name="zettprobooking.zettbooking.name">zettprobooking</Property>
+<!-- payment -->
+<Property name="zettprobooking.payment.testEnvironment">false</Property>
+<Property name="zettprobooking.payment.disabled">false</Property>
+<Property name="zettprobooking.payment.currencyType">NOK</Property>
+<Property name="zettprobooking.payment.currencyTypeId">578</Property>
+<Property name="zettprobooking.payment.filledCardNumber">4571100000000000</Property>
+<Property name="zettprobooking.payment.filledCVC">684</Property>
+<Property name="zettprobooking.payment.filledMonth">6</Property>
+<Property name="zettprobooking.payment.filledYear">24</Property>
+<Property name="zettprobooking.payment.modificationprice">0</Property>
+<!-- archive -->
+<Property name="zettprobooking.archive.path">/usr/local/import/archive/zettbooking/xml/</Property>
+<Property name="zettprobooking.archive.unarchivedAdBookingImagesPath">/usr/local/import/archive/zettbooking/unarchivedAdBookingImages/</Property>
+<Property name="zettprobooking.archive.archivedAdBookingImagesPath">/usr/local/import/archive/zettbooking/archivedAdBookingImages/</Property>
+<Property name="zettprobooking.archive.unarchivedAdBookingImageWebPath">/zprobooking/uploadedImages/unarchivedAdBookingImages/</Property>
+<Property name="zettprobooking.archive.archivedAdBookingImageWebPath">/zprobooking/uploadedImages/archivedAdBookingImages/</Property>
+<Property name="zettprobooking.archive.allowedFileTypes">image/x-citrix-pjpeg, image/jpeg, image/png, image/gif, application/zip</Property>
+<Property name="zettprobooking.archive.thumbWidth">115</Property>
+<Property name="zettprobooking.archive.thumbHeight">115</Property>
+<Property name="zettprobooking.archive.maxWidth">2048</Property>
+<Property name="zettprobooking.archive.maxHeight">2048</Property>
+<Property name="zettprobooking.archive.maxAllowedLogoWidth">268</Property>
+<Property name="zettprobooking.archive.maxAllowedLogoHeight">268</Property>
+<Property name="zettprobooking.archive.allowedNumberOfUploadedLogos">2</Property>
+<!-- reference to zett-site -->
+<!-- image -->
+<Property name="zettprobooking.imageserver.imageWidth">searchthumb115</Property>
+<Property name="zettprobooking.imageserver.imageHeight">searchthumb115</Property>
+<Property name="zettprobooking.spool.path">/usr/local/import/tindeimport/spools/</Property>
+<!-- disabled for alpha testing, set this to true if you want to test in your localhost -->
+<Property name="zettprobooking.myzett.login">false</Property>
+<!--  prospect links in newspapers -->
+<Property name="zettsite.links.newspaper.motor.prospect">/vis/rubrikk/motorprospekt/&lt;objectID&gt;.html</Property>
+<Property name="zettsite.links.newspaper.boat.prospect">/vis/rubrikk/baatprospekt/&lt;objectID&gt;.html</Property>
+<Property name="zettsite.links.newspaper.job.prospect">/vis/rubrikk/jobbprospekt/&lt;objectID&gt;.html</Property>
+<Property name="zettsite.links.newspaper.property.prospect">/vis/rubrikk/eiendomsprospekt/&lt;objectID&gt;.html</Property>
+<Property name="zettsite.links.newspaper.misc.prospect">/vis/rubrikk/torgprospekt/&lt;objectID&gt;.html</Property>
+<!-- reference to zett-site -->
+<!--  newspaper domain -->
+<Property name="zettsite.links.newspaper.domain">http://&lt;newspaperDomain&gt;</Property>
+<!--  -->
+<!--  URL and login info for data source which is assumed to be a PostgreSQL database. -->
+<!--  -->
+<Property name="zobject-indexer.database.username">zett</Property>
+<Property name="zobject-indexer.database.password">zett</Property>
+<!--  -->
+<!--  URL to Solr -->
+<!--  -->
+<Property name="zobject-indexer.solr.url">http://localhost:9034/solr3/zobject</Property>
+<!--  -->
+<!--  Default values -->
+<!--  -->
+<Property name="zobject-indexer.default.lastModifiedTime">2008/01/01</Property>
+<Property name="zobject-indexer.default.batchSize">1000</Property>
+<Property name="zobject-indexer.default.threads">5</Property>
+<Property name="zobject-indexer.default.maxRows">400</Property>
+<!-- == /Configuration superseding etcapi/zett == -->
+
+        <!--root ends here-->
+    </PropertyGroup>
+
+    <PropertyGroup id="snap5" role="snap5">
+	<Property name="subscriptionsystem.aid.use">true</Property>
+    </PropertyGroup>
+
+    <PropertyGroup id="v3" role="v3">
+        <Property name="video.instream.ad.url">http://ad-emea.doubleclick.net/ad/apressen.no.smartclip/;sz=400x320;dcmt=text/xml;ord=[random]?</Property>
+    </PropertyGroup>
+
+    <PropertyGroup id="v3snapshot" role="v3snapshot">
+        <Property name="origo.comments.response.url" medusa="false" overridable="true">http://amedia.staging.o5.no/api/response/v1/js/response.js</Property>
+        <Property name="origo.frontpage.response" medusa="false" overridable="true">true</Property>
+        <Property name="origo.frontpage.response.url" medusa="false" overridable="true">http://amedia.staging.o5.no/api/response/v1/js/response-summaries.js</Property>
+<!--        <Property name="design.version">avis4</Property> -->
+        <Property name="commercial.spillsenter.active">true</Property>
+        <Property name="new.spillsenter.active">true</Property>
+        <Property name="apay.gateway.ackurl">http://admin.v3snapshot.api.no/apay/ack.html</Property>
+        <Property name="maiden.chat.enable">true</Property>
+<!--        <Property name="mobile.design.edda.basic">true</Property> -->
+<!--        <Property name="mobile.design.edda.full">false</Property> -->
+<!--        <Property name="adSystem.placements" overridable="false">Toppbanner_980x150,Skyskraper_1_180x500,Skyskraper_2_180x500,Sticky_skyskraper_180x500,Produktstripe_1_980x150,Stripe_1_480x100,Stripe_2_480x100,Produktstripe_2_980x100,Netboard_1_580x500,Banner_1_480x150,Banner_2_480x150,Produktstripe_3_980x150,Kloss_230x500,Netboard_2_580x500,Megaboard_980x400,Artikkelboard_480x400,Piksel_1x1,Sponsorbanner_1002x150,Sponsorbanner_1002x300,Mobilbanner_1_600x150,Mobilbanner_2_600x300,Mobilbanner_3_600x300,Mobilbanner_4_600x150,Mobilbanner_5_600x300,Bunnbanner_980x150,Bildebanner_1002x60,Bildebanner_1002x150,Wallpaper_1x1,Vaerknapp_400x90,Vaerknapp_168x80,Spesialknapp_230x230,Knapp_1_180x150,Knapp_1_230x110,Minibanner_270x80,Minibanner_230x150,Vaerbanner_1_600x300,Vaerbanner_2_600x600,Toppbanner_600x600,Toppbanner_600x300,Midtbanner_1_600x300,Midtbanner_2_600x300,Bunnbanner_600x600,Sponsorbanner_1020x300,Bildebanner_1020x150</Property> -->
+    </PropertyGroup>
+
+    <PropertyGroup id="v3rubrikk" role="v3rubrikk">
+        <Property name="commercial.spillsenter.active">true</Property>
+    </PropertyGroup>
+
+    <PropertyGroup id="test" role="test">
+        <!--transition-->
+        <Property name="transition.zett.properties.url">http://www.eiendomsnett.no.v3rubrikk.api.no</Property>
+        <Property name="transition.zeeland.url">http://admin.test.api.no/zeeland/</Property>
+        <Property name="transition.zservices.url">http://v3local.test.api.no/zservices/</Property>
+        <Property name="transition.zett.url">http://www.zett.no.v3rubrikk.api.no/</Property>
+        <Property name="transition.properties.url">http://www.eiendomsnett.no.v3rubrikk.api.no/vis/rubrikk/eiendomsprospekt/</Property>
+        <!--Zeeland-->
+        <Property name="zeeland.zservices.url">http://v3local.test.api.no/zservices/service/</Property>
+        <Property name="zeeland.zservices.url.path">http://v3local.test.api.no/zservices/</Property>
+        <Property name="zett.image.server.url">http://asoke.dev.abctech-thailand.com/imageserver</Property>
+        <Property name="zett.image.server.option.obscura">/orig/orig</Property>
+        <!--Apay-->
+        <Property name="apay.gateway.ackurl">http://admin.test.api.no/apay/ack.html</Property>
+    </PropertyGroup>    
+</WebProperties>

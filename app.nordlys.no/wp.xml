@@ -1,0 +1,25 @@
+<WebProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tjenester.api.no/schema/properties/wp" xsi:schemaLocation="http://tjenester.api.no/schema/properties/wp http://tjenester.api.no/schema/properties/wp/webproperties-1.1.xsd">
+    <PropertyGroup id="v3" role="v3">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRRXFLnbzouweW4EXEmyX-b0kDUDVxQbkYayPdzWr6BD7KP9GPnmVGRkRg</Property>
+    </PropertyGroup>
+    <PropertyGroup id="root">
+        <Property name="zett.id">10040</Property>
+        <Property name="css.host.localUrl" overridable="false">http://template.api.no/<!--@@BUILD_VERSION_www.nordlys.no_START@@-->build/template/r59780/www.nordlys.no/<!--@@BUILD_VERSION_END@@--></Property>
+        <Property name="nedstat.site.id" medusa="false" overridable="false">nordlys</Property>
+	    <Property name="tailor.plugg.article.url.prefix" overridable="false">nordlys</Property>
+		<Property name="tailor.plugg.sectionheadings">show</Property>
+		<Property name="tailor.publication.name">Nordlys</Property>
+		<Property name="tailor.section.ad.id">3092687</Property>		
+		<Property name="tailor.plug.ad.id">3092686</Property>	
+		<Property name="tailor.now.section.id">43247</Property>
+		<Property name="tailor.tv.section.id">43269</Property>
+		<Property name="tailor.thisday.section.id">43268</Property>
+		<Property name="tailor.now.section.name">Nå</Property>
+		<Property name="tailor.tv.section.name">TV</Property>
+		<Property name="tailor.thisday.section.name">På denne dag</Property>
+    </PropertyGroup>
+    <PropertyGroup id="test" role="test">
+        <Property name="map.site.google.key" overridable="false">ABQIAAAAnwBJm8-7pJzlZ8AiQPrfgRRZz0Bn1vP02ecbZqYNCsmJ1gmCihRnxjegNXZEbR9RX__GBwZPVPC8XQ</Property>
+        <Property name="css.host.localUrl" overridable="false">http://api.test.api.no/<!--@@BUILD_TEST_VERSION_www.nordlys.no_START@@-->build/template/r25247/www.nordlys.no/<!--@@BUILD_TEST_VERSION_END@@--></Property>
+    </PropertyGroup>
+</WebProperties>

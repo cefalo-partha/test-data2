@@ -1,0 +1,9 @@
+<WebProperties xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+               xmlns='http://tjenester.api.no/schema/properties/wp'
+               xsi:schemaLocation='http://tjenester.api.no/schema/properties/wp http://tjenester.api.no/schema/properties/wp/webproperties-1.0.xsd'>
+    <PropertyGroup id="root">
+        <Property name="springscores.contentpath.prefix">amedia</Property>
+        <Property name="nedstat.site.id" medusa="false" overridable="false">www.dittoslo.no/ullern-avis-akersposten</Property>
+        <Property name="arena.design.version">design1</Property>	
+    </PropertyGroup>
+</WebProperties>
