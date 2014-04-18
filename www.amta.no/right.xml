@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<footer name="right">
+    <category title="Right Main">
+        <element href="/one/">One</element>
+        <element href="/two/">Two</element>
+    </category>
+</footer>
