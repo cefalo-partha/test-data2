@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="header">
-    <category title="New Category">
-        <element href="/one/">/one/</element>
-    </category>
-    <category title="New Category"/>
     <challengetop href="Link">
         <image alt="" src="http://192.168.0.100:8080/api/menueditor/v1/images/Boston%20City%20Flow.jpg"/>
         <maintext>Main Text</maintext>
