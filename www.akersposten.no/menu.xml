@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-    <category title="Category_News"/>
+    <category title="Category_News">
+        <element href="asdfsadfsdaf">asdfasdf</element>
+    </category>
     <challengetop href="">
         <image alt="" src="http://192.168.0.100:8080/api/menueditor/v1/images/x-mail-distribution-list.png"/>
         <maintext>Challenge Me Baby</maintext>
