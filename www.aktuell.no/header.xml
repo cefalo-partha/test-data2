@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<menu name="header">
-    <challengetop href="Link">
-        <image alt="" src="http://192.168.0.100:8080/api/menueditor/v1/images/Boston%20City%20Flow.jpg"/>
-        <maintext>Main Text</maintext>
-        <subtext>Subtext</subtext>
-    </challengetop>
-</menu>
