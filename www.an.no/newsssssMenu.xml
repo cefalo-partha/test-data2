@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="nesssssswMenu">
     <challengetop href="">
-        <image alt="" src="http://192.168.1.136:8080/api/menueditor/v1/images/1280x1024.jpg"/>
+        <image alt="" src="http://192.168.1.136:8080/api/menueditor/v1/images/1600x1200.jpg"/>
         <maintext></maintext>
         <subtext></subtext>
     </challengetop>
