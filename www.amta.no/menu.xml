@@ -33,7 +33,7 @@
         <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
     </category>
     <challengetop href="http://kampanje.amedia.no/2014-mars-akershus-amtstidende-6mnd-eavis-til-hele-familien?ns_campaign=fbm.afk1403a&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403a&amp;ns_linkname=fbm.afk1403a&amp;ns_fee=0">
-        <image src="http://r.api.no/local/v3/common/gfx/chtop/1_2_pris.jpg"/>
+        <image src="http://192.168.0.100:8080/api/menueditor/v1/images/Pensive%20Parakeet.jpg"/>
         <maintext>eAvis til familien</maintext>
         <subtext>Prøv nå til 1/2 pris</subtext>
     </challengetop>
