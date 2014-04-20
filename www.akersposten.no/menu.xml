@@ -2,6 +2,7 @@
 <menu name="menu">
     <category title="Category_News">
         <element href="asdfsadfsdaf">asdfasdf</element>
+        <element href="asdfasdf">asdf</element>
     </category>
     <challengetop href="">
         <image alt="" src="http://192.168.0.100:8080/api/menueditor/v1/images/Profile_Pic.jpg"/>
