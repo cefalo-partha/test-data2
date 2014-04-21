@@ -4,5 +4,8 @@
         <element href="/international/">International</element>
         <element href="/loca/">norge</element>
     </category>
-    <category title="New Category"/>
+    <category title="New Category">
+        <element href="Two">One</element>
+        <element href="Another">Another</element>
+    </category>
 </footer>
