@@ -2,7 +2,7 @@
 <footer name="footer">
     <category title="News in Norwegian">
         <element href="/international/">International</element>
-        <element href="/loca/">norge</element>
+        <element href="/local/">norge</element>
     </category>
     <category title="New Category">
         <element href="Two">One</element>
