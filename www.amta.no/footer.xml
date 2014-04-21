@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
+    <category title="Kundeservice">
+        <element>Wienerbrødskjæringa 8, 1440 Drøbak</element>
+        <element>Redaktørplakaten</element>
+        <element>PFU</element>
+    </category>
     <category title="Nyheter">
         <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/">Sport</element>
@@ -25,10 +30,5 @@
         <element href="/derdubor/">Lokale bedrifter</element>
         <element href="/vis/annonsearkiv">Ukens avisannonser</element>
         <element href="/amtatorget/">Amtatorget</element>
-    </category>
-    <category title="Kundeservice">
-        <element>Wienerbrødskjæringa 8, 1440 Drøbak</element>
-        <element>Redaktørplakaten</element>
-        <element>PFU</element>
     </category>
 </footer>
