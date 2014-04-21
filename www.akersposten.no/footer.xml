@@ -7,4 +7,5 @@
         <element href="Two">One</element>
         <element href="Another">Another</element>
     </category>
+    <category title="New Category"/>
 </footer>
