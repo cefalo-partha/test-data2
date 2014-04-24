@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-    <category title="Kundeservice">
-        <element>Wienerbrødskjæringa 8, 1440 Drøbak</element>
-        <element>Redaktørplakaten</element>
-        <element>PFU</element>
-    </category>
     <category title="Nyheter">
         <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/">Sport</element>
@@ -14,6 +9,11 @@
         <element href="/boligmagasinet/">Bolig</element>
         <element>Bil&amp;Motor</element>
         <element href="/lager/article4169499.ece">Skip i fjorden</element>
+    </category>
+    <category title="Kundeservice">
+        <element>Wienerbrødskjæringa 8, 1440 Drøbak</element>
+        <element>Redaktørplakaten</element>
+        <element>PFU</element>
     </category>
     <category title="Multimedia">
         <element href="http://akershus.e-pages.dk/">E-avis</element>
