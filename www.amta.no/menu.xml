@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenus">
     <category title="Multimedia ">
-        <element href="http://akershus.e-pages.dk/">E-avis</element>
+        <element href="http://akershus.e-pages.dk/">eAvis</element>
         <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
         <element href="/lager/article4169499.ece">Skip i fjorden</element>
         <element href="https://twitter.com/Amta5">Twitter</element>
