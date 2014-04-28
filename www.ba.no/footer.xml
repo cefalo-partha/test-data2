@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/sport/fotball/brann/">Brann</element>
+    <element href="/fotball/live/">Fotball Live</element>
+    <element href="/puls/">Pulsen</element>
+    <element href="/hvaskjeribergen/">Hva skjer i Bergen</element>
+    <element href="/motormagasinet/">Motormagasinet</element>
+    <element href="/megdeg/">Meg og Deg</element>
+  </category>
+  <category title="Annet innhold">
+    <element href="/tv/">BA-TV</element>
+    <element href="/vis/personalia/">Personalia</element>
+    <element href="/bilder_video/">Bildeserier</element>
+    <element href="/nyheter/vaeret/">Været</element>
+    <element href="http://fotomuseum.bergen360.no">Fotomuseum</element>
+    <element href="/meninger/summetonen/article1618427.ece">Send summetone</element>
+    <element href="/jobbmagasinet/">Jobbmagasinet</element>
+    <element href="/forbruker/bolig/">Boligmagasinet</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kalender">Hva skjer-kalenderen</element>
+    <element href="/spillsenteret/">Oddstipset</element>
+    <element href="/markedsplassen/">Markedsplassen</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html">Bil til salgs</element>
+    <element href="http://www.facebook.com/Bergensavisen">BA på facebook</element>
+    <element href="http://www.twitter.com/BA_no">BA på Twitter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto:tips@ba.no">Tips oss.</element>
+    <element href="/vis/videotips/">Send inn videotips.</element>
+    <element href="mailto:anders.nyland@ba.no">Ansvarlig redaktør: Anders Nyland</element>
+    <element href="mailto:jonas.mjaaland@ba.no">Nyhetsredaktør digitalt: Jonas Mjaaland</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://presse.no/Etisk-regelverk/Vaer-Varsom-plakaten">Vær varsom</element>
+    <element>Adresse: Chr. Michelsens gate 4, Postboks, 824, Sentrum 5807 Bergen. Tlf: 55 23 50 00. Faks: 55 31 00 30. Tips: 800 33 044</element>
+    <element>Materialet på dette nettstedet omfattes av åndsverklovens bestemmelser. BA er ikke ansvarlig for eksterne nettsider.</element>
+  </category>
+</footer>

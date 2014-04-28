@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="http://www.kampanje.com/medier/">Medier</element>
+    <element href="http://www.kampanje.com/reklame/">Reklame</element>
+    <element href="http://www.kampanje.com/markedsforing/">Markedsføring</element>
+    <element href="http://www.kampanje.com/pr/">PR</element>
+    <element href="http://www.kampanje.com/design/">Design</element>
+    <element href="http://www.kampanje.com/merkevare/">Merkevare</element>
+    <element href="http://www.kampanje.com/jobb/">Jobb</element>
+    <element href="http://www.kampanje.com/kommentert/">Kommentert</element>
+    <element href="http://www.kampanje.com/Magasinet/">Magasinet</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://www.kampanje.com/kampanjetv/">KampanjeTV</element>
+    <element href="http://www.kampanje.com/bildeserier/">Bildeserier</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://kampanje-event.com/">Kampanje Event</element>
+    <element href="http://www.kampanje.com/Nyhetsbrev/article5327695.ece">Nyhetsbrev</element>
+    <element href="https://www.facebook.com/Kampanje">Facebook</element>
+    <element href="https://twitter.com/#!/Kampanje">Twitter</element>
+    <element href="http://www.linkedin.com/company/kampanje-forlag">LinkedIn</element>
+    <element href="http://www.kampanje.com/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://www.kampanje.com/om_kampanje/article5264216.ece">Om Kampanje</element>
+    <element href="http://www.kampanje.com/om_kampanje/article5252523.ece">Redaksjonen</element>
+    <element href="http://www.kampanje.com/om_kampanje/article5264147.ece">Annonsér i Kampanje</element>
+    <element href="http://www.kampanje.com/om_kampanje/article5231348.ece">Abonnement</element>
+    <element href="mailto:kampanje@kampanje.com">Tips oss</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

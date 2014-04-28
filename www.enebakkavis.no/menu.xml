@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Innhold">
+    <element href="">Nyheter</element>
+    <element href="/debatt">Meninger</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor">Bil og motor</element>
+    <element href="/jobb">Jobb</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="/konkurranse/article4325448.ecense">Konkurranse</element>
+    <element href="/video">Video</element>
+    <element href="http://www.facebook.com/pages/Enebakk-Avis/127632303928516">Facebook</element>
+    <element href="http://enebakk.origo.no/-/local_paper/show/52_enebakkpuls?ref=checkpoint">Enebakkpuls</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/privat/annonsere/gratulasjon/">Bestill gratulasjon</element>
+    <element href="/kundesenter/privat/abonnere/papir/">Bestill abonnement</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Annonser</element>
+    <element href="/kundesenter/privat/abonnere/papir/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss-2/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss-2/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-januar-enebakk-avis-bestill-papir-8-uker?ns_campaign=fbm.afk1402a&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1402a&amp;ns_linkname=fbm.afk1402a&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>8 uker papiravis kr. 99,-</maintext>
+    <subtext>Bestill avisen nå</subtext>
+  </challengetop>
+</menu>

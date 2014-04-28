@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Innhold">
+    <element href="/">Nyheter</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/debatt/">Debatt</element>
+    <element href="/konkurranse/article4325448.ece">Konkurranse</element>
+    <element href="/video/">Video</element>
+  </category>
+  <category title="Tips oss">
+    <element>Telefon: 64 92 37 03</element>
+    <element href="mailto:tips@enebakkavis.no">Epost</element>
+    <element href="/kundesenter/kontakt-oss-2/tips-oss/">Tips-skjema</element>
+  </category>
+  <category title="Tjenester">
+    <element href="https://www.facebook.com/pages/Enebakk-Avis/127632303928516?ref=stream">Facebook</element>
+    <element href="http://enebakk.origo.no/-/local_paper/show/52?ref=checkpoint">Enebakkpuls</element>
+    <element href="http://enebakkavis.no/kalender">Aktivitetskalender</element>
+    <element href="https://www.buyandread.com/pub.htm?pub=326">PDF-avis</element>
+    <element href="https://www.buyandread.com/custom/ePaper.htm%3bjsessionid=A8408A48B59E71758B644B75326414D2.tc2?pub=enebakkavis">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Lillestrømveien 671, 1912 Enebakk. Kontortid 09-15 (man-fre)</element>
+    <element>Telefon: 64 92 37 00</element>
+    <element href="mailto:post@enebakkavis.no">Epost</element>
+    <element href="mailto:gunnleik.seierstad@enebakkavis.no">Ansvarlig redaktør: Gunnleik Seierstad, mob 918 28 112</element>
+    <element href="mailto:birigitte@follosamkjoringen.no">Medierådgiver annonser: Birgitte Bjerkenes, mob 970 73 709</element>
+    <element href="http://presse.no/Klage-til-PFU">PFU</element>
+  </category>
+</footer>

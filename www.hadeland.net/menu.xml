@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/Nyheter/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/ifarta/">Bil</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobb/">Næringsliv</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/vis/videotips/">Del din video!</element>
+    <element href="/lokale_bildeserier/">Bildeserier</element>
+    <element href="/Video_import/">Videosnutter</element>
+    <element href="/tilgang/login/visiolink/">E-avis</element>
+    <element href="https://nb-no.facebook.com/avisenhadeland">Facebook</element>
+    <element href="https://twitter.com/avisenHadeland">Twitter</element>
+    <element href="/vis/personalia/">Gratulasjoner</element>
+    <element href="/vis/personalia/">Nyfødt</element>
+    <element href="/vis/personalia/">Brudepar</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;transId=11&amp;localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://hadeland.net/kalender">Det skjer</element>
+    <element href="/vis/annonsearkiv/">Ukas papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://hadeland.e-pages.dk/">E-avis</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/Nyheter/lokale_nyheter/article7087133.ece">Sjekk skiføret!</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Gratulasjoner</element>
+    <element href="/vis/personalia/">Nyfødt</element>
+    <element href="/vis/personalia/">Brudepar</element>
+    <element href="/kundesenter/privat/abonnere/">Bestill Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/Nyheter/lokale_nyheter/tips/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-avisen-hadeland-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

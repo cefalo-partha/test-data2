@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kulturliv">Kulturliv</element>
+    <element href="/Video_import">Web-TV</element>
+  </category>
+  <category title="Leserinnhold">
+    <element href="/vis/kalender">Kalender</element>
+    <element href="/vis/videotips">Leservideo</element>
+    <element href="/vis/personalia">Gratulasjoner</element>
+    <element href="mailto:redaksjonen@retten.no">Tips oss</element>
+  </category>
+  <category title="Tjenester">
+    <element href="mailto:annonser@retten.no">Annonser</element>
+    <element href="mailto:abonnement@retten.no">Abonnement</element>
+    <element href="http://www.facebook.com/arbeidetsrett">Retten på Facebook</element>
+    <element href="http://www.fjellpuls.no">Del dine bilder</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Tips: 45 48 78 00</element>
+    <element href="mailto:redaksjonen@retten.no">Send tips</element>
+    <element href="mailto:nils@retten.no">Ansvarlig redaktør/daglig leder: Nils Kåre Nesvold</element>
+    <element href="mailto:beate@retten.no">Salgsjef: Beate Schjølberg</element>
+    <element href="mailto:arne.ingar@retten.no">Redaksjonsjef: Arne Ingar Bækken</element>
+    <element href="mailto:erland@retten.no">Nyhetsleder: Erland Vingelsgård</element>
+    <element href="mailto:christian@retten.no">Nettansvarlig: Christian Søberg</element>
+  </category>
+</footer>

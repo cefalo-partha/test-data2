@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/altaif">Alta IF</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/naringsliv/">Næring</element>
+    <element href="/bolig">Bolig</element>
+    <element href="/motor">Bil &amp; Motor</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/video">FD-TV</element>
+    <element href="/bildeserier_fd">Bildegalleri</element>
+    <element href="/bildeserier_fd/finnmarkibilder">Finnmarksbilder</element>
+    <element href="/bildeserier_fd/historiskebilder">Historiske bilder</element>
+    <element href="/instagram">Instagram</element>
+    <element href="http://www.facebook.com/finnmarkdagblad">Facebook</element>
+    <element href="http://finnmarkdagblad.e-pages.dk">eAvis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/datasak/trafikkmeldinger/#dataset=now&amp;lat=69.8169&amp;lng=27.9053&amp;zoom=6/">Kjøreforhold</element>
+    <element href="/vis/kalender">Hva skjer?</element>
+    <element>Stilling ledig</element>
+    <element>Bolig til salgs</element>
+    <element>Bil til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Tips oss: Telefon 78428600 SMS/MMS 2005 kodeord FD E-post tips@fd.no</element>
+    <element>Annonse: Telefon 78428600 E-post annonse@fd.no</element>
+    <element href="mailto: sverre.joakimsen@fd.no">Ansvarlig redaktør: Sverre Joakimsen</element>
+    <element href="mailto: saj@fd.no">Medieredaktør: Skjalg A. Jensen</element>
+    <element href="mailto: ste@fd.no">Nettleder: Stian Eliassen</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element>Copyright Finnmark Dagblad AS</element>
+  </category>
+</footer>

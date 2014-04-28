@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/nyheter/videonyheter/">Web-TV</element>
+    <element href="/nyheter/valdres/">Valdres</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/motor/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobb/">Jobb</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/nyheter/videonyheter/">Web-TV</element>
+    <element href="/vis/videotips/">Send oss din video her</element>
+    <element href="/bildesamlinger/">Bildeserier</element>
+    <element href="https://www.facebook.com/opparb">OA på Facebook</element>
+    <element href="https://twitter.com/oppland">OA på Twitter</element>
+    <element href="http://oa.e-pages.dk/">E-avisa</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/kalender">Det skjer</element>
+    <element href="/kundesenter/privat/annonsere/">Bestill annonse</element>
+    <element href="/kundesenter/privat/abonnere/">Bestill abonnement</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Besøksadresse: Sommerrovn. 1,</element>
+    <element href="mailto:tonje.sagstuen@oa.no">Ansvarlig redaktør: Tonje Sagstuen</element>
+    <element href="mailto:anne.marit.sletten@oa.no">Nettredaktør: Anne Marit Sletten</element>
+    <element href="mailto:redaksjonen@oa.no">Tips oss</element>
+  </category>
+</footer>

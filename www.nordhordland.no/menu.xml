@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyhende">
+    <element href="/nyhende">Nyhende</element>
+    <element href="/sport">Sport</element>
+    <element href="/puls">Puls</element>
+    <element href="/jobb">Næringsliv/jobb</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://nordhordland.e-pages.dk">eAvis</element>
+    <element href="/bildeseriar">Bildeserier</element>
+    <element href="https://www.facebook.com/avisanh">facebook</element>
+    <element href="https://twitter.com/AvisaNh">twitter</element>
+    <element href="http://nordhordland">instagram</element>
+  </category>
+  <category title="Teneste">
+    <element href="/">Bustad til sals</element>
+    <element href="/vis/rubrikk/jobb">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil">Bil til sals</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://nordhordland.origo.no/-/explore/events/sandbox/46205_nordhordland?municipalities=">Kva skjer-kalender</element>
+    <element href="/kundesenter">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat">Set inn annonse</element>
+    <element href="/vis/personalia">Send helsing</element>
+    <element href="/kundesenter/privat/abonnere">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-avisa-nordhordland-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisa?</maintext>
+    <subtext>Bestill eAvisa no</subtext>
+  </challengetop>
+</menu>

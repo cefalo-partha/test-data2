@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Populært">
+    <element href="/lokalnytt/">Lokale nyhende</element>
+    <element href="/vis/personalia/">Kystfolk</element>
+    <element href="/video/">Lokal video</element>
+    <element href="/bildesamlingar/">Lokale bilder</element>
+    <element href="/trafikk/">Fly og skipstrafikken</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss!</element>
+    <element href="/kundesenter/kontakt-oss/tilsette/redaksjonen/">Kontakt redaksjonen</element>
+  </category>
+  <category title="Abonnement">
+    <element href="/kundesenter/privat/abonnere/papir/">Kjøp abonnement på papiravisa</element>
+    <element href="http://firdaposten.e-pages.dk/index.php?action=invoice_abb">Kjøp digital- og kombiabonnement</element>
+    <element href="http://sett opp mail til abonnement@firdaposten.no med &quot;Manglande avis&quot; i emnefeltet">Avisa mi manglar</element>
+    <element href="https://www.buyandread.com/pub.htm?pub=firdaposten">Kjøp dagens eAvis</element>
+    <element href="/kundesenter/privat/avtalegiro/">AvtaleGiro</element>
+    <element href="/kundesenter/privat/hjelp/">Spørsmål og svar</element>
+    <element href="/kundesenter/privat/min-side/">Mi Firdaposten</element>
+  </category>
+  <category title="Annonsere">
+    <element href="http://www.firda.no/vis/rubrikk/onlinebooking/">Grøn linje (privatannonser)</element>
+    <element href="/vis/personalia/greetings/new/birthday">Helsingar - Fødde - Brudepar</element>
+    <element href="/kundesenter/privat/annonsere/dod/">Dødsannonse</element>
+    <element href="/kundesenter/bedrift/annonsere/papir/modulkart/">Bedriftsannonser papir</element>
+    <element href="/kundesenter/bedrift/annonsere/nett/priskalkulator-nett/">Nettannonser</element>
+    <element href="/kundesenter/bedrift/annonsere/papir/distribusjon">Innstikk / distribusjon</element>
+    <element href="/kundesenter/bedrift/annonsere/nett/priskalkulator-nett/">Kontakt marknadsavdelinga</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/kontakt-oss/">Firdaposten AS, Markegata 65, 6900 Florø</element>
+    <element href="http://mail til svend.arne.vee@firdaposten.no">Ansvarleg redaktør Svend Arne Vee, 908 47 465</element>
+    <element href="http://mail til arve.solbakken@firdaposten.no">Nyheitsredaktør Arve Solbakken, 911 77 331</element>
+    <element href="http://mail til sander@firdaposten.no">Marknadsleiar Sander Ødelien, 900 51 867</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss 5775 7328 I SMS/MMS FPTIPS til 2005</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+  </category>
+</footer>

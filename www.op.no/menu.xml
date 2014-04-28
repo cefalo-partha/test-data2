@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/nyheter/politinotiser/">Politinotiser</element>
+    <element href="/sport/">Sport</element>
+    <element href="/larvikhk/">Larvik Håndballklubb</element>
+    <element href="/framfotball/">Fram fotball</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/heyerdahl/">Heyerdahl-byen</element>
+    <element href="/stavernfestivalen/">Stavernfestivalen</element>
+    <element href="http://bybloggen.origo.no/?ref=checkpoint">Bybloggen</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://ostlandsposten.e-pages.dk/">E-avis</element>
+    <element href="/puls/">ØP Puls</element>
+    <element href="/video/">ØP TV</element>
+    <element href="/kamera/">Web-kamera</element>
+    <element href="https://www.facebook.com/Ostlandsposten">ØP på Facebook</element>
+    <element href="https://twitter.com/Ostlandsposten">ØP på Twitter</element>
+    <element href="http://albumet.origo.no/?ref=checkpoint">Albumet</element>
+    <element href="http://op-debatt.origo.no/?ref=checkpoint">Debatt</element>
+    <element href="/vis/bandwagon">Bandwagon</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/bolig/">Bolig til salgs</element>
+    <element href="/jobb/">Stilling ledig</element>
+    <element href="/bil/">Bil til salgs</element>
+    <element href="/optorget/">ØP Torget</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://www.tb.no/op-no-xtra">Fordelskortet</element>
+    <element href="http://pcv3.bonefish2.srv.ip.no/avis/62-ostlandsposten#news-page">Annonsekalkulator</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://op.aventia.no/webtv/pages/?clipid=205&amp;sid=1739">Web TV</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/abonnere/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss-2/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss-2/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-ostlands-posten-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

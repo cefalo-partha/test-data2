@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyhende">
+    <element href="/lokalnytt/">Nyhende</element>
+    <element href="/lokalnytt/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/skiguide/">Skiguide</element>
+    <element href="http://hordatunet.origo.no/-/local_paper/show/96_hordatunet?ref=checkpoint">Hordatunet</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/biletgalleri/">Biletgalleri</element>
+    <element href="/video/">Video</element>
+    <element href="/biletgalleri/Farnetider/">Farne tider</element>
+    <element href="/biletgalleri/Goabadne/">Goabadne</element>
+    <element href="https://hordaland.buyandread.com/wl/ws.htm">E-avis</element>
+  </category>
+  <category title="Tenester">
+    <element href="/vis/vaeret/">Veret</element>
+    <element href="https://www.facebook.com/pages/Avisa-Hordaland/195509657490?ref=hl">Facebook</element>
+    <element href="https://twitter.com/AvisaHordaland">Twitter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Bustad til sals</element>
+    <element href="/vis/rubrikk/jobbprospekt/3097660.html">Stilling ledig</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Evangervegen 32, 5700 Voss</element>
+    <element href="mailto:em@avisa-hordaland.no">Ansvarleg redaktør Elin Madsen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>avisa-hordaland.no vert lagra regelmessig av Nasjonalbiblioteket. Nettsida vil bli gjort tilgjengeleg som kjeldemateriale for forsking og dokumentasjon</element>
+    <element>HORDALAND BLADDRIFT AS COPYRIGHT © 2014</element>
+  </category>
+</footer>

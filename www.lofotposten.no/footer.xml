@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Innhold">
+    <element href="/lokale_nyheter">Nyheter</element>
+    <element href="/tv">Nett-tv</element>
+    <element href="/Naeringsliv">Næringsliv</element>
+    <element href="/bolig">Eiendomsnett</element>
+    <element href="/motor">Motormagasin</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="http://www.lofotposten.e-pages.dk">Digital avis</element>
+  </category>
+  <category title="Leserbidrag">
+    <element href="/vis/videotips">Last opp video</element>
+    <element href="/vis/personalia">Gratulasjoner</element>
+    <element href="http://www.lofotdebatt.origo.no" channel="desktop">Leserbrev</element>
+    <element href="/kalender">Kalender</element>
+    <element href="http://www.facebook.com/lofotposten">Facebook</element>
+    <element href="http://statigr.am/lofotposten">Instagram</element>
+    <element href="https://twitter.com/lofotposten">Twitter</element>
+    <element href="/kundesenter/kontakt-oss/ansatte">Kontakt oss</element>
+  </category>
+  <category title="Tjenester">
+    <element href="https://itunes.apple.com/no/app/lofotposten.no/id637678660?mt=8">Nyhetsvarsel</element>
+    <element href="/vis/rubrikk/onlinebooking">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings/new">Sett inn hilsen</element>
+    <element href="/kundeservice">Kundeservice</element>
+    <element href="/kundesenter/privat/abonnere">Abonnement</element>
+    <element href="https://itunes.apple.com/no/app/lofotposten/id442698569?l=nb&amp;ls=1&amp;mt=8">App til eAvis</element>
+    <element href="/kalender">Kalender</element>
+    <element href="/vis/vaeret">Været</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Lofotposten, Torget, 8305 Svolvær</element>
+    <element>Telefon 760 67800</element>
+    <element href="mailto:ivt@lofotposten.no">Sjefredaktør/adm.dir: Ingvil Valberg Tallaksen (konst.)</element>
+    <element href="/kundesenter/kontakt-oss/ansatte">Ansatte</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss">Tips oss</element>
+    <element href="mailto:marked@lofotposten.no">E-post markedsavdeling</element>
+    <element>Dette nettstedet er redigert på uavhengig grunnlag i henhold til de prinsipper som er nedfelt i Redaktørplakaten, Vær Varsom-plakaten og Tekstreklame-plakaten.</element>
+  </category>
+</footer>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="http://www.rb.no/lokale_nyheter/">Lokale nyheter</element>
+    <element href="http://www.rb.no/lokal_sport/">Sport</element>
+    <element href="http://www.rb.no/lsk-magasinet/">LSK</element>
+    <element href="http://www.rb.no/lokal_kultur/">Kultur</element>
+    <element href="http://www.rb.no/bolig/">Bolig</element>
+    <element href="http://www.rb.no/bil/">Bil</element>
+    <element href="http://www.rb.no/naringsliv/">Næringsliv</element>
+    <element href="http://rb.no/meninger/">Meninger</element>
+  </category>
+  <category title="Underholdning">
+    <element href="http://www.rb.no/tv/">RBTV</element>
+    <element href="http://www.rb.no/tv/lesernesvideo">Leservideoer</element>
+    <element href="http://www.rb.no/leservideo/">Send inn video</element>
+    <element href="http://www.rb.no/bilde/">Bildeserier</element>
+    <element href="http://rb.no/kalender">Det skjer</element>
+    <element href="http://www.rb.no/mat/">Mat</element>
+    <element href="http://www.rb.no/trening/">Trening</element>
+    <element href="http://www.rb.no/natur/">Natur</element>
+    <element href="http://rb.no/folk/">Folk</element>
+    <element href="http://www.rb.no/fotball/live/">Fotball live!</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://www.rb.no/vis/rubrikk/eiendom.html">Eiendom til salgs</element>
+    <element href="http://www.rb.no/vis/rubrikk/jobb.html">Ledige stillinger</element>
+    <element href="http://www.rb.no/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="http://www.rb.no/derdubor/">Lokale bedrifter</element>
+    <element href="http://www.rb.no/vis/annonsearkiv/#0">Ukas avisannonser</element>
+    <element href="http://www.rb.no/vis/vaeret/">Været</element>
+    <element href="http://www.rb.no/skikart/">Skikart og føremelding</element>
+    <element href="http://facebook.rb.no/">Facebook</element>
+    <element href="https://twitter.com/romerikesblad">Twitter</element>
+    <element href="http://www.rb.no/spillsenteret/">Spillsenteret</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://www.rb.no/kundesenter/privat/min-side/">Kundeservice / Min side</element>
+    <element href="http://romerikesblad.e-pages.dk/" channel="desktop">eAvis (kun desktop)</element>
+    <element href="http://romerikesblad.e-pages.dk/" channel="mobile">eAvis (kun mobil)</element>
+    <element href="http://www.rb.no/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="http://www.rb.no/vis/personalia/">Send inn hilsen</element>
+    <element href="http://www.rb.no/kundesenter/privat/abonnere/">Abonnere</element>
+    <element href="http://www.rb.no/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="http://www.rb.no/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="http://www.rb.no/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+    <element href="http://www.romeriksfondet.no/">Romeriksfondet</element>
+    <element href="http://www.rb.no/kundesenter/privat/abonnentfordeler/romba/">Barneklubben Romba</element>
+  </category>
+  <challengetop href="http://www.amedia.no/">
+    <image src="http://r.api.no/local/v3/common/gfx/avisnavn.jpeg"/>
+    <maintext>Tittel</maintext>
+    <subtext></subtext>
+  </challengetop>
+</menu>

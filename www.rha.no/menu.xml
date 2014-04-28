@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="/kommentar">Meninger</element>
+    <element href="/kommentar/leder">Lederartikler</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildegalleri">Bildegalleri</element>
+    <element href="http://eavis.rha.no/epaper/viewer.aspx">eAvis</element>
+    <element href="https://www.facebook.com/pages/Røyken-og-Hurums-Avis">Facebook</element>
+    <element href="/vis/videotips/">Last ned video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://annonsearkiv.rha.no/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.rha.no/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="http://minside.rha.no/kontakt">Kontakt</element>
+    <element href="http://minside.rha.no/abonnement">Abonnement</element>
+    <element href="http://minside.rha.no/abonnement">Adresseendring</element>
+    <element href="http://minside.rha.no/kontakt/tips">Tips oss</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-royken-og-hurum-avis-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

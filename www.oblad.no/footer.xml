@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Kontakt oss">
+    <element href="http://minside.oblad.no/kontakt">Kontakt oss</element>
+    <element href="http://minside.oblad.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.oblad.no/">Kundeservice</element>
+  </category>
+  <category title="Abonnement">
+    <element href="http://minside.oblad.no/pakker?ssoAction=getAuthId">Bestill abonnement</element>
+    <element href="http://eavis.oblad.no/epaper/viewer.aspx">Les avisen digitalt</element>
+    <element href="http://touch.oblad.no/">Les avisen på mobil</element>
+  </category>
+  <category title="Annonsering">
+    <element href="http://annonse.oblad.no/">Annonse bedrift</element>
+    <element href="http://minside.oblad.no/annonsering">Annonse privat</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Om ØB.no</element>
+    <element>Adresse: Pb 3110, 1402 Ski</element>
+    <element href="mailto:martin.gray@oblad.no">Ansvarlig redaktør: Martin Gray</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>Østlandets Blad Copyright © 2014</element>
+  </category>
+</footer>

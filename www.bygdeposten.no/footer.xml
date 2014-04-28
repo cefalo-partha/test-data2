@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Snarveier">
+    <element href="/">Tilbake til forsiden</element>
+    <element href="/modum/">Modum</element>
+    <element href="/ovreeiker/">Øvre Eiker</element>
+    <element href="/sigdal/">Sigdal</element>
+    <element href="/krodsherad/">Krødsherad</element>
+    <element href="/krim/">Krim</element>
+    <element href="/sport/">Sport</element>
+    <element href="/bptv/">BP TV</element>
+  </category>
+  <category title="Snarveier">
+    <element href="/bilder/">Se våre bildeserier</element>
+    <element href="/vis/videotips/">Send oss dine videoer</element>
+    <element href="mailto:redaksjonen@bygdeposten.no">Send oss leserbilder</element>
+    <element href="/bolig/">Hus hjem og hage</element>
+    <element href="/motor/">Motor</element>
+    <element href="/fjellet/">Fjell og hytte</element>
+    <element href="/ferie">Ferie og fritid</element>
+    <element href="/vis/vaeret/">Været</element>
+  </category>
+  <category title="Om Bygdeposten">
+    <element href="/kundesenter/kontakt-oss/ansatte-2/">Ansatte</element>
+    <element href="/kundesenter/">Kundesenter</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/annonsere/">Annonsere</element>
+    <element href="/kundesenter/privat/annonsere/">Kjøp og salg</element>
+    <element href="/vis/personalia/greetings/kinds/birthday">Gratulasjoner</element>
+    <element href="http://bygdeposten.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Kontakt Bygdeposten</element>
+    <element>Tipstelefon: 480 86 170</element>
+    <element href="mailto:redaksjonen@bygdeposten.no">E-post: redaksjonen@bygdeposten.no</element>
+    <element>Bygdeposten. Postboks 53. 3371 Vikersund</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://presse.no/Alt-om-Norsk-Presseforbund/Pressens-Faglige-Utvalg-PFU">Pressens Faglige Utvalg (PFU)</element>
+  </category>
+</footer>

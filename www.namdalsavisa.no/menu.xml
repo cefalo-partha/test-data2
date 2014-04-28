@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyhetsartikler">
+    <element href="/Nyhet/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/fotball/live/">Fotball live</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Motor</element>
+    <element href="/Magasin/oppogfram/">Opp&amp;Fram</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/live">"Akkurat no"</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="/vis/bandwagon">Bandwagon</element>
+    <element href="/Magasin/bildealbum/">Bildeserier</element>
+    <element href="http://klikk-i-na.origo.no">Del bilder med oss</element>
+    <element href="/vis/videotips/">Del videoer med oss</element>
+    <element href="http://namdalsavisa.e-pages.dk">eAvis</element>
+  </category>
+  <category title="Treffpunkt">
+    <element href="http://www.namdaling.no/">Namdaling</element>
+    <element href="http://meninger-namdalsavisa.origo.no/">Meninger</element>
+    <element href="/sosialemedier">NA i sosiale medier</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere">Sett inn annonse</element>
+    <element href="/vis/personalia">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-namdalsavisa-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

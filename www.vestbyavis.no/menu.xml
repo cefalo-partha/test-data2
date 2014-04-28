@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil &amp; motor</element>
+    <element href="/jobb/">Jobb</element>
+    <element href="/meninger/">Meninger</element>
+    <element href="/konkurranser/">Konkurranser</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildegalleri</element>
+    <element href="http://www.facebook.com/vestbyavis">Facebook</element>
+    <element href="http://www.twitter.com/vestbyavis">Twitter</element>
+    <element href="http://www.instagram.com/vestbyavis">Instagram</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://vestbypuls.no/-/local_paper/show/44_vestbypuls">Vestbypuls</element>
+    <element href="http://www.facebook.com/vestbyavis">Facebook</element>
+    <element href="/kundesenter/privat/annonsere/">Hilsner og gratulasjoner</element>
+    <element href="/bolig">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/annonsere/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-januar-vestby-avis-bestill-papir-8-uker?ns_campaign=fbm.afk1402a&amp;ns_mchannel=fbm.chtop&amp;ns_source=fbm.afk1402a&amp;ns_linkname=fbm.afk1402a&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>8 uker papiravis kr. 99,-</maintext>
+    <subtext>Bestill avisen her</subtext>
+  </challengetop>
+
+
+
+</menu>

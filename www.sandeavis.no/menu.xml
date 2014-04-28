@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="/kommentar">Kommentar</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://annonsearkiv.sandeavis.no/">Avisannonser</element>
+    <element href="http://kunngjoringer.sandeavis.no/">Kunngjøringer</element>
+    <element href="http://eavis.sandeavis.no/">eAvis</element>
+    <element href="https://www.facebook.com/pages/Sande-Avis/111066798933582">Sande avis på Facebook</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.sandeavis.no/">Kundeservice / Min side</element>
+    <element href="http://minside.sandeavis.no/annonsering">Sett inn annonse</element>
+    <element href="http://minside.sandeavis.no/annonsering/gratulasjon">Send hilsen</element>
+    <element href="http://minside.sandeavis.no/abonnement">Abonnement</element>
+    <element href="http://minside.sandeavis.no/login">Adresseendring</element>
+    <element href="http://minside.sandeavis.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.sandeavis.no/kontakt">Kontakt</element>
+    <element href="http://minside.sandeavis.no/">Min side</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-sande-avis-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

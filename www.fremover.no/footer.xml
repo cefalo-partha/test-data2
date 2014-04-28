@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="http://mobil.fremover.no/lokale_nyheter/">Nyheter</element>
+    <element href="http://mobil.fremover.no/lokal_sport/">Sport</element>
+    <element href="/lokal_sport/Arctic_Eagles/">Arctic Eagles</element>
+    <element href="/lokal_sport/mjolner/">Mjølner</element>
+    <element href="/kulturliv/">Kultur</element>
+    <element href="/Jobb/">Nærlingsliv</element>
+    <element href="/bolig/">Eiendomsnett</element>
+    <element href="/motor/">Motor</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/tvfremover/">Web TV</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="http://fremover.e-pages.dk/">E-avis</element>
+    <element href="https://www.facebook.com/pages/Fremover/134550763235231?fref=ts">Facebook</element>
+    <element href="http://Fremover_Narvik">Instagram</element>
+    <element href="http://fremoverpuls.no">Fremoverpuls</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="http://fremover.no/spillsenteret/">Spillsenter</element>
+    <element href="/#birthday">Bursdag barn under 13 år</element>
+    <element href="/#birth">Nyfødt</element>
+    <element href="/#just_married">Nygift</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Pb 324, 8504 Narvik</element>
+    <element href="mailto: tone.angell.jensen@fremover.no">Ansvarlig redaktør: Tone Angell Jensen</element>
+    <element href="mailto: anders.horne@fremover.no">Nyhetsleder: Anders Horne</element>
+    <element href="mailto:ann.kristin.hanssen@fremover.no">Nettansvarlig: Ann-Kristin Hanssen</element>
+    <element href="mailto: tonje.sollie@fremover.no">Salgssjef: Tonje Sollie</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

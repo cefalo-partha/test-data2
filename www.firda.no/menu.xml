@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheiter">
+    <element href="/nyhende/">Nyheiter</element>
+    <element href="/sporten/">Sport</element>
+    <element href="/fotball/live/">Firda live</element>
+    <element href="http://firda.origo.no">Debatt</element>
+    <element href="/eigedom">Hus og heim</element>
+    <element href="/motor">Bil og motor</element>
+    <element href="/naringsliv">Næringsliv</element>
+    <element href="http://firda.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Video og bilde">
+    <element href="/tv">Web-tv</element>
+    <element href="/vis/videotips">Send inn video</element>
+    <element href="/bileteseriar/">Bildeseriar</element>
+    <element href="http://statigr.am/tag/firdafoto">Lesarbilde Instagram</element>
+    <element href="http://instagram.com/firdamedia#">Firda på Instagram</element>
+    <element href="http://firda.origo.no/-/image_pile/show/136425_lesarbilete">Lesarbilde Origo</element>
+  </category>
+  <category title="Tenester">
+    <element href="https://www.facebook.com/firdamedia">Firda på Facebook</element>
+    <element href="/vis/rubrikk/eiendom.html?localGeo=true">Bustader til sals</element>
+    <element href="/vis/rubrikk/jobb.html?localGeo=true">Ledige stillingar</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bilar til sals</element>
+    <element href="/vis/vaeret/">Vêret</element>
+    <element href="/spillsenteret/">Spelsenter</element>
+    <element href="/vis/annonsearkiv">Vekas papirannonser</element>
+    <element href="/detskjer">Det skjer</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/privat/abonnere/">Bli abonnent</element>
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/bedrift/annonsere/">Set inn annonse bedrift</element>
+    <element href="/kundesenter/privat/annonsere/">Set inn annonse privat</element>
+    <element href="/vis/personalia/greetings/">Send helsing</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-firda-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_klikk_her.png"/>
+    <maintext>8 veker  for 99 kr</maintext>
+    <subtext>Billigare blir det ikkje!</subtext>
+  </challengetop>
+
+
+
+</menu>

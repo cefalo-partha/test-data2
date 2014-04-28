@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="/kundesenter">Kundesenter</element>
+    <element href="/historikk">Historikk</element>
+    <element href="https://lillesandsposten.buyandread.com/wl/index.htm">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Besøksadresse: Øvregate 8, 4790 Lillesand</element>
+    <element>Postadresse: Postboks 143, 4792 Lillesand</element>
+    <element>Telefon: 37 26 95 00</element>
+    <element href="/kundesenter">Abonnement og annonser</element>
+    <element>Ansvarlig redaktør: Thor Børresen</element>
+    <element href="https://www.facebook.com/pages/Lillesands-Posten/323537604353296">Følg oss på Facebook</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

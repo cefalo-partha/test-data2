@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Bydelsgaranti">
+    <element href="/sor-tromsoya">Sør-Tromsøya</element>
+    <element href="/midtpa">Midt på Tromsøya</element>
+    <element href="/nordoya">Nord-Tromsøya</element>
+    <element href="/langnes_mortensnes/">Mortensnes-Langnes</element>
+    <element href="/sentrum">Sentrum</element>
+    <element href="/tromsdalen">Tromsdalen</element>
+    <element href="/hamna">Hamna</element>
+    <element href="/kvaloya">Kvaløya</element>
+    <element href="/kroken/">Tomasjord/Lunheim/Kroken</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/tv">Byavisa TV</element>
+    <element href="http://www.nordlys.no/bilder">Bildeserier</element>
+    <element href="http://www.nordlys.no/tv">Nordlys TV</element>
+    <element href="http://nordlyspuls.no/-/explore/events/sandbox/4214">Hva skjer i Tromsø</element>
+    <element href="http://www.nordlys.no/web-kamera/">Se Tromsø på webcam</element>
+    <element href="https://www.buyandread.com/custom/ePaper.htm?pub=byavisatromso">Bla i Byavisa Tromsø digitalt</element>
+    <element href="http://nordlys.e-pages.dk/">Nordlys eAvis</element>
+    <element href="http://www.nordlys.no/web-tv/gamledager/">Se videoer fra Gamle Tromsø!</element>
+  </category>
+  <category title="Tjenester">
+    <element>Bolig til salgs</element>
+    <element>Stilling ledig</element>
+    <element>Bil til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://www.nordlys.no/kundesenter">Kundeservice / Min side</element>
+    <element href="mailto:annonse@byavisatromso.no">Sett inn annonse</element>
+    <element href="mailto:annonse@byavisatromso.no">Send hilsen</element>
+    <element href="http://www.nordlys.no/kundesenter/privat/abonnere/">Abonnement</element>
+    <element>Adresseendring</element>
+    <element href="mailto:tips@byavisatromso.no">Tips oss</element>
+    <element href="mailto:tips@byavisatromso.no">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

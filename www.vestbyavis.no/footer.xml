@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil &amp; motor</element>
+    <element href="/jobb/">Jobb</element>
+    <element href="/meninger/">Meninger</element>
+    <element href="/konkurranser/">Konkurranser</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildegalleri</element>
+    <element href="http://www.facebook.com/vestbyavis">Facebook</element>
+    <element href="http://www.twitter.com/vestbyavis">Twitter</element>
+    <element href="http://www.instagram.com/vestbyavis">Instagram</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://vestbypuls.no/-/local_paper/show/44_vestbypuls">Vestbypuls</element>
+    <element href="http://www.facebook.com/vestbyavis">Facebook</element>
+    <element href="/kundesenter/privat/annonsere/">Hilsner og gratulasjoner</element>
+    <element href="/bolig">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 17, 1541 Vestby</element>
+    <element href="mailto: mattias.mellquist@vestbyavis.no">Ansvarlig redaktør: Mattias Mellquist</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

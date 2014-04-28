@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/gdnorddalen/">Norddalen</element>
+    <element href="/sormidtdalen/">Sør-Midtdalen</element>
+    <element href="/lillehammer/">Lillehammer</element>
+    <element href="/ringsaker/">Ringsaker</element>
+    <element href="/vis/personalia/greetings">Familie</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur">Kultur</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://gudbrandsdolen.e-pages.dk/" channel="desktop">E-avis</element>
+    <element href="/bilder/">Bilder</element>
+    <element href="http://www.gdpuls.no/-/local_paper/show/30_gdpuls-no">GDpuls</element>
+    <element href="/konkurranse/">Konkurranse</element>
+    <element href="http://www.youtube.com/results?search_query=gdesken&amp;sm=3">GD på Youtube</element>
+    <element href="http://bambuser.com/channel/gdesken">GD LiveTV</element>
+    <element href="http://gd.coverpage.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast">GD Live</element>
+    <element href="http://gdbilder.origo.no/?ref=checkpoint">GD Leserbilder</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/sok.html?localGeo=true&amp;catId=10000">Bil til salgs</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://www.facebook.com/gudbrandsdolen">Facebook</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Motor</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Postadr: Postboks 954, 2604 Lillehammer</element>
+    <element>Telefon 61 22 10 00</element>
+    <element href="mailto:kristian.skullerud@gd.no">Ansvarlig redaktør: Kristian Skullerud</element>
+    <element href="mailto:erik.sonstelie@gd.no">Nyhetsredaktør: Erik Sønstelie</element>
+    <element href="mailto:hallvard.grotli@gd.no">Politisk redaktør: Hallvard Grotli</element>
+    <element href="mailto:hans.petter.eide@gd.no">Deskleder: Hans Petter Eide</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

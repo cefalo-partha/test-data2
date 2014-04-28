@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="NYHETER">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/økonomi-bolig">Økonomi-Bolig</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/helg">Helg</element>
+    <element href="/video">Video</element>
+  </category>
+  <category title="Annonse">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://www.budstikkaguiden.no">Budstikkaguiden</element>
+    <element href="/dodsannonser">Dødsannonser</element>
+    <element href="http://digitaltvarehus.budstikka.no/">Ukens avisannonser</element>
+    <element href="http://budstikka.digitalemagasin.no/">Bedriftsannonsering</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.budstikka.no/">Kundeservice</element>
+    <element href="http://minside.budstikka.no/annonsering">Sett inn privatannonse</element>
+    <element href="http://budstikka.no/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.budstikka.no/abonnement">Abonnement</element>
+    <element href="http://minside.budstikka.no/login">Adresseendring</element>
+    <element href="http://minside.budstikka.no/kontakt?ssoAction=getAuthId">Kontakt</element>
+    <element href="http://www.budstikkakortet.no">Budstikkakortet</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Billingstadsletta 17, 1396 Billingstad</element>
+    <element href="mailto:kjersti.sortland@budstikka.no">Ansvarlig redaktør: Kjersti Sortland</element>
+    <element href="mailto:dagotter.johansen@budstikka.no">Redaksjonssjef digital: Dag Otter Johansen</element>
+    <element>Tipstelefon: 99 59 00 00</element>
+    <element href="mailto:tips@budstikka.no">Tips på epost</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>BUDSTIKKA COPYRIGHT © 2014</element>
+  </category>
+</footer>

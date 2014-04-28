@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Følg oss">
+    <element href="https://www.facebook.com/pages/VI-SOM-LESER-EIKERBLADET/312799697843?fref=ts">Følg oss på Facebook</element>
+  </category>
+  <category title="Kontakt oss">
+    <element href="http://kundesenter.eikerbladet.no">Kontakt oss</element>
+    <element href="http://kundesenter.eikerbladet.no">Kundeservice</element>
+    <element>Sentralbord: 32 87 20 23</element>
+    <element>Tips oss: 416 14 090</element>
+  </category>
+  <category title="Annonsering">
+    <element href="http://kundesenter.eikerbladet.no">Kundeservice</element>
+    <element>Annonse på nettavisa: kontakt salgsavdelingen i Drammens Tidende på 32 20 40 00.</element>
+    <element>Annonse i papiravisa: kontakt salgsavdelingen i Eikerbladet på 32 87 20 23.</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Nedre Torg gt 18, 3050 Mjøndalen</element>
+    <element href="mailto:finn@eikerbladet.no">Ansvarlig redaktør: Finn R. Moen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>eikerbladet.no er en underside av dt.no. Nyhetene er levert av Mediehuset Drammens Tidende.</element>
+  </category>
+</footer>

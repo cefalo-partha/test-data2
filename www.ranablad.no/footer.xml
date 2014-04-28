@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/tv/">Web-tv</element>
+    <element href="/motor/">Motor</element>
+    <element href="/bolig/">Eiendomsnett</element>
+    <element href="/naringsliv/">Næringsliv</element>
+  </category>
+  <category title="Lesersider">
+    <element href="/vis/personalia/">Godtfolk</element>
+    <element href="/vis/kalender">Ke så skjer</element>
+    <element href="http://meninger-rana-blad.origo.no/">Meninger</element>
+    <element href="/debatt/article5629819.ece">Debattregler</element>
+    <element href="/vis/bandwagon/">Bandwagon</element>
+    <element href="http://ranablad.lokaltipset.no/">Tippekonkurranse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="/fotball/live/">Live fotball</element>
+    <element href="/vis/annonsearkiv/about">Avisannonser</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/kundesenter/">Kundeservice</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Ole Tobias Olsens Gate 2, 8622 Mo I Rana</element>
+    <element>Telefon: 75 12 55 00</element>
+    <element href="mailto:kirsti.nielsen@ranablad.no">Ansvarlig redaktør: Kirsti Nielsen</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss!</element>
+  </category>
+</footer>

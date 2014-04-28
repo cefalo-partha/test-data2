@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bilogtrafikk/">Bil og trafikk</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/vis/vaeret/">Været</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://stjordalensblad.e-pages.dk/">eAvis</element>
+    <element href="https://www.buyandread.com/pub.htm?pub=111">PDF-avis</element>
+    <element href="/web-tv/">Web-TV</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="http://stjordalspuls.no/-/local_paper/show/31_stjoerdalspuls">Stjørdalspuls</element>
+    <element href="/fotball/live/">Live fotball</element>
+  </category>
+  <category title="Tjenester">
+    <element href="https://twitter.com/stjordalensblad">Twitter</element>
+    <element href="https://www.facebook.com/pages/Stj%C3%B8rdalens-Blad/250871670740">Facebook</element>
+    <element href="http://www.meetv.no/overview">TV-guiden</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/videotips/">Del videoer med oss</element>
+    <element href="/kundesenter/">Kundesenter</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Stokmoveien 2. 7500 Stjørdal</element>
+    <element href="mailto:redaksjonen@bladet.no">Epost: redaksjonen@bladet.no</element>
+    <element>Tips oss: 74839500</element>
+    <element>SMS/MMS: sbtips til 2097</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="mailto: kjell-ivar.myhr@bladet.no">Ansvarlig redaktør: Kjell-Ivar Myhr</element>
+  </category>
+</footer>

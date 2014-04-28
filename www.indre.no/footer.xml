@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/video/">Video</element>
+    <element href="/bil/">Bil og motor</element>
+    <element href="/jobb/">Næring</element>
+    <element href="/bolig/">Eiendom</element>
+  </category>
+  <category title="Tilleggstjenester">
+    <element href="http://indreakershusblad.e-pages.dk/">eAvis</element>
+    <element href="https://www.facebook.com/pages/Indre-Akershus-Blad/127847860580008">Facebook</element>
+    <element href="/fotball/live/">Fotball Live</element>
+  </category>
+  <category title="Dagens eAvis">
+    <element href="http://indreakershusblad.e-pages.dk/">eAvis</element>
+    <element href="http://www.e-pages.dk/indreakershusblad/575/demo/">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto: redaksjon@indre.no">Tips oss</element>
+    <element href="mailto: annonse@indre.no">Annonser</element>
+    <element href="/markedsplass/annonsere/">Rubrikkannonse</element>
+    <element href="63854811">Annonser</element>
+    <element href="http://Arne Henrik Vestreng">Ansvarlig redaktør</element>
+    <element href="http://Gågata, 1940 Bjørkelangen / 63854800">Kontakt oss</element>
+    <element href="http://Postboks 68, 1941 Bjørkelangen">Postadresse</element>
+  </category>
+</footer>

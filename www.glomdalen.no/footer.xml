@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/pepper/">Pepper</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil &amp; motor</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/vis/videotips/">Send inn video</element>
+    <element href="/tv/">Web-TV</element>
+    <element href="http://glomdalen.e-pages.dk/">eAvis</element>
+    <element href="/bilder/">Bilder</element>
+    <element href="https://www.facebook.com/pages/Gl%C3%A5mdalen/203313042753">Facebook</element>
+    <element href="https://twitter.com/glomdalen">Twitter</element>
+    <element href="/fotball/live/">Fotball-live</element>
+    <element href="http://www.radiokongsvinger.no/">Radio Kongsvinger</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/kalender">Kalender</element>
+    <element href="/glomdalstorget/">Glåmdalstorget</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Markensplassen 1, 2212 Kongsvinger</element>
+    <element href="mailto:tips@glomdalen.no">Tips oss</element>
+    <element href="mailto:eal@glomdalen.no">Ansvarlig redaktør: Eivind Lid</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

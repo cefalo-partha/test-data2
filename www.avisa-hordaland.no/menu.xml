@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyhende">
+    <element href="/lokalnytt/">Nyhende</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/skiguide/">Skiguide</element>
+    <element href="http://hordatunet.origo.no/-/local_paper/show/96_hordatunet?ref=checkpoint">Hordatunet</element>
+    <element href="/skiguide/">Skiguide</element>
+    <element href="/X-ord/">Konkurransar</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/biletgalleri/">Biletgalleri</element>
+    <element href="/video/">Video</element>
+    <element href="/biletgalleri/Farnetider/">Farne tider</element>
+    <element href="/biletgalleri/Goabadne/">Goabadne</element>
+    <element href="/kultur/VossaJazz/">Voss Jazz</element>
+    <element href="https://hordaland.buyandread.com/wl/ws.htm">E-avis</element>
+  </category>
+  <category title="Tenester">
+    <element href="/vis/vaeret/">Veret</element>
+    <element href="https://www.facebook.com/pages/Avisa-Hordaland/195509657490?ref=hl">Facebook</element>
+    <element href="https://twitter.com/AvisaHordaland">Twitter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Eigedom</element>
+    <element href="/vis/rubrikk/jobbprospekt/3097660.html">Stilling ledig</element>
+    <element href="/article6010457.ece">Tipstelefon</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="http://portal.avisa-hordaland.no/aboportal/ny.php">Abonnement</element>
+    <element href="/kundesenter/privat/annonsera/">Set inn annonse</element>
+    <element href="https://hordaland.buyandread.com/wl/ws.htm">Digital utgåve</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

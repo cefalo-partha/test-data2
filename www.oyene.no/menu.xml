@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="/bolig">Bolig</element>
+    <element href="/innenriks/din__konomi/">Økonomi</element>
+    <element href="/motor/">Motor</element>
+    <element href="/jobb/">Jobb og næringsliv</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://oyene.e-pages.dk/">E-avis</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Jobb i Vestfold</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/vis/personalia/greetings/new">Send bursdagshilsen</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="http://multimedia.api.no/www.oyene.no/archive/05413/0335839_5413763a.pdf">Serviceguiden</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings/new">Send hilsen</element>
+    <element href="/kundesenter/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-januar-oyene-bestill-8-uker?ns_campaign=fbm.OY14200&amp;ns_mchannel=fbm.chtop.NY&amp;ns_source=fbm.OY14200&amp;ns_linkname=fbm.OY14200&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_klikk_her.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Bestill her!</subtext>
+  </challengetop>
+
+
+
+</menu>

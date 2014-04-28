@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Lokale nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/lsk-magasinet/">LSK</element>
+    <element href="/lokal_kultur/">Kultur</element>
+    <element href="/lorenskog/">RB Lørenskog</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/bil/">Bil</element>
+    <element href="/naringsliv/">Næringsliv</element>
+  </category>
+  <category title="Underholdning">
+    <element href="/tv/">RBTV</element>
+    <element href="/tv/leservideo/">Leservideoer</element>
+    <element href="/leservideo/">Send inn video</element>
+    <element href="/bilde/">Bildeserier</element>
+    <element href="/mat/">Mat</element>
+    <element href="/trening/">Trening</element>
+    <element href="/natur/">Natur</element>
+    <element href="http://rb.no/folk/">Folk</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/privat/min-side/">Min side &amp; Kundeservice</element>
+    <element href="/vis/personalia/">Send inn hilsen</element>
+    <element href="/vis/rubrikk/eiendom.html">Eiendom til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Ledige stillinger</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="http://facebook.rb.no/">Facebook</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 235, 2001 Lillestrøm</element>
+    <element href="mailto:magne.storedal@rb.no">Ansvarlig redaktør: Magne Storedal</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>rb.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+    <element>ROMERIKES BLAD COPYRIGHT © 2014</element>
+  </category>
+</footer>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/kulturliv/">Kulturliv</element>
+    <element href="/sport/">Sporten</element>
+    <element href="/video/">Video</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element>Bildeserier</element>
+    <element href="http://jarlsbergavis.e-pages.dk/">eAvis</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/bursdagsbilder/">Bursdagshilsen</element>
+    <element href="/vis/rubrikk/onlinebooking/">Rubrikkannonser</element>
+    <element href="/bildebestilling/">Bildebestilling</element>
+    <element href="/vis/annonsearkiv/">Ukens avisannonser</element>
+  </category>
+  <category title="Lokale guider">
+    <element href="http://s.amediaressurs.no/218081-guiden/iframe.html">Serviceguide</element>
+    <element href="http://s.amediaressurs.no/218081-guiden/iframe.html">Mesterguide</element>
+    <element href="http://s.amediaressurs.no/218081-guiden/iframe.html">Frisørguide</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/bursdagsbilder/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-januar-jarlsberg-avis-bestill-8-uker?ns_campaign=fbm.JA14200&amp;ns_mchannel=fbm.chtop.NY&amp;ns_source=fbm.JA14200&amp;ns_linkname=fbm.JA14200&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_klikk_her.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Bestill her!</subtext>
+  </challengetop>
+</menu>

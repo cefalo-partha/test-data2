@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyhende">
+    <element href="/lokale_nyhende/">Nyhende</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="http://sognavis.e-pages.dk">eAvis</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+  </category>
+  <category title="Foto og video">
+    <element href="/bildeseriar/">Bildeseriar</element>
+    <element href="/tv/">Video</element>
+    <element href="/vis/videotips/">Send inn din video</element>
+  </category>
+  <category title="Anna innhald">
+    <element href="/vis/vaeret/" channel="desktop">Veret</element>
+    <element href="https://www.facebook.com/pages/Sogn-Avis/198224024849" channel="desktop">Sogn Avis på facebook</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html" channel="desktop">Bustad til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html" channel="desktop">Stilling ledig</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/" channel="desktop">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/" channel="desktop">Sett inn annonse</element>
+    <element href="/kundesenter/privat/annonsere/personalia/" channel="desktop">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/" channel="desktop">Abonnement</element>
+    <element href="http://sognavis.funn.no/" channel="desktop">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/" channel="desktop">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/" channel="desktop">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

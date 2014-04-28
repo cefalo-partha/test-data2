@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Lokalnytt">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/tv/">Web-tv</element>
+    <element href="/sport/lokalfotball/">Lokal fotball</element>
+    <element href="/sport/Vintersport/">Vintersport</element>
+    <element href="/motor/">Motor</element>
+    <element href="/bolig/">Eiendomsnett</element>
+    <element href="/naringsliv/">Næringsliv</element>
+  </category>
+  <category title="Lesersider">
+    <element href="/vis/personalia/">Godtfolk</element>
+    <element href="/vis/kalender">Ke så skjer</element>
+    <element href="http://meninger-rana-blad.origo.no/">Meninger</element>
+    <element href="/debatt/article5629819.ece">Debattregler</element>
+    <element href="/vis/bandwagon/">Bandwagon</element>
+    <element href="http://ranablad.lokaltipset.no/">Tippekonkurranse</element>
+    <element href="/vis/videotips/">Send inn video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="/fotball/live/">Live fotball</element>
+    <element href="/vis/annonsearkiv/about">Avisannonser</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="http://ranablad.e-pages.dk/">E-avis</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-rana-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

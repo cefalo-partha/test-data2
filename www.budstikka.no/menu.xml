@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/økonomi-bolig">Økonomi-Bolig</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/helg">Helg</element>
+    <element href="/abavisene">Askeravisen / Bærumsavisen</element>
+    <element href="/kultur/hva-skjer">Hva skjer?</element>
+    <element href="/nyheter/disse-promillekjorer-i-asker-og-berum-1.7998043">Promilleloggen</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://www.ekstrahjelp.no">Ekstrahjelp</element>
+    <element href="/video">Video</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="http://arkiv.budstikka.no">Avisarkivet</element>
+    <element href="http://www.ableksikon.no">Ableksikon</element>
+    <element href="http://budstikka.no/vis/personalia/greetings">Personalia</element>
+    <element href="http://lesernes.budstikka.no">Lesernes Budstikka</element>
+    <element href="https://budstikka.buyandread.com">E-avis</element>
+  </category>
+  <category title="Annonsesalg">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://www.budstikkaguiden.no">Budstikkaguiden</element>
+    <element href="/dodsannonser">Dødsannonser</element>
+    <element href="http://digitaltvarehus.budstikka.no/">Ukens avisannonser</element>
+    <element href="http://budstikka.digitalemagasin.no/">Bedriftsannonsering</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.budstikka.no/">Kundeservice / Min side</element>
+    <element href="http://minside.budstikka.no/annonsering">Sett inn privatannonse</element>
+    <element href="http://budstikka.no/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.budstikka.no/abonnement">Abonnement</element>
+    <element href="http://minside.budstikka.no/login">Adresseendring</element>
+    <element href="mailto:tips@budstikka.no">Tips oss</element>
+    <element href="http://minside.budstikka.no/kontakt?ssoAction=getAuthId">Kontakt</element>
+    <element href="http://www.budstikkakortet.no">Budstikkakortet</element>
+    <element href="http://investor.budstikka.no">Investor relations</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-budstikka-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+</menu>

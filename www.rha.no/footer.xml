@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/kommentar">Kommentar</element>
+    <element href="/kommentar/leder">Lederartikler</element>
+  </category>
+  <category title="">
+    <element href="/bildegalleri">Bildegalleri</element>
+    <element href="http://eavis.rha.no/epaper/viewer.aspx">eAvis</element>
+    <element href="https://www.facebook.com/pages/Røyken-og-Hurums-Avis">Facebook</element>
+    <element href="/vis/videotips/">Las ned video</element>
+    <element href="http://minside.rha.no/">Kundeservice</element>
+  </category>
+  <category title="">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://annonsearkiv.rha.no/" channel="desktop">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Åsveien 5, 3475 Sætre</element>
+    <element href="mailto:svein.ove.isaksen@rha.no">Ansvarlig redaktør: Svein Ove Isaksen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>RØYKEN OG HURUMS AVIS COPYRIGHT © 2014</element>
+  </category>
+</footer>

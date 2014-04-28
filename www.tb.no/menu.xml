@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/video">Video</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/forbruker/jobb">Jobb</element>
+    <element href="/forbruker/motor">Kjør</element>
+    <element href="/forbruker/bolig">Bolig</element>
+    <element href="/pluss">tb+</element>
+  </category>
+  <category title="Diverse">
+    <element href="/vis/lesernes/bilder/">Send oss bilder</element>
+    <element href="/vis/videotips/">Send oss video</element>
+    <element href="/vis/personalia/">Send hilsen/gratulasjon</element>
+    <element href="/vis/talenter/">Vestfoldtalenter</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://eavis.tb.no/epaper/viewer.aspx">eAvis</element>
+    <element href="/kultur/kulturkalender">Arrangementskalender</element>
+  </category>
+  <category title="Annonser">
+    <element href="/vis/rubrikk/eiendom.html?catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bil til salgs</element>
+    <element href="http://annonsearkiv.tb.no/">Annonser fra papiravisen</element>
+    <element href="http://kunngjoringer.tb.no/">Kunngjøringsannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.tb.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
+    <element href="http://minside.tb.no/annonsering">Sett inn annonse</element>
+    <element href="http://tb.no/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.tb.no/abonnement">Abonnement</element>
+    <element href="http://minside.tb.no/abonnement/adresseendring">Adresseendring</element>
+    <element href="http://minside.tb.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.tb.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-tonsbergs-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext></subtext>
+  </challengetop>
+
+
+
+</menu>

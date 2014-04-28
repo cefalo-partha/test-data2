@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/lokalsider/">Nytt fra din kommune</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur_fritid/">Kultur &amp; fritid</element>
+    <element href="/barn/">Barn</element>
+    <element href="/ungdom/">Ungdom</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/meninger/ledere/">Ledere</element>
+    <element href="/motor/">Motor</element>
+    <element href="/eiendom/">Eiendom</element>
+  </category>
+  <category title="Diverse">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/personalia/greetings/kinds/birthday">Gratulasjoner</element>
+    <element href="/vis/personalia/greetings/kinds/just_married">Brudepar</element>
+    <element href="/vis/personalia/greetings/kinds/birth">Nyfødte</element>
+    <element href="/fotball/live/">Fotball live</element>
+    <element href="/vis/bandwagon">Bandwagon</element>
+    <element href="/webkamera/">Webkamera</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html?localGeo=true&amp;catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;transId=11&amp;localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://blv.no/kalender">Ka skjer? - kalender</element>
+    <element href="http://www.meetv.no/overview">Programoversikt TV</element>
+    <element href="https://bladetvesteralen.buyandread.com/wl/index.htm">E-avis - digital papirutgave</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/hjelp/#Adresseforandring_og_ferie-2">Adresseendring</element>
+    <element href="/kontakt/tips/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

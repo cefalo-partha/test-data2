@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/eiendom">Eiendom</element>
+    <element href="/kj%C3%B8r">Kjør</element>
+    <element href="/video">Video</element>
+    <element href="/bildeserier">Bildeserier</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://www.facebook.com/Gjengangeren/">Facebook</element>
+    <element href="/vis/vaeret?moh=12.0&amp;longitude=10.48&amp;latitude=59.41&amp;city=Horten">Været</element>
+    <element href="/kultur/kulturkalender">Kulturkalender</element>
+    <element href="http://eavis.gjengangeren.no/epaper/viewer.aspx">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.gjengangeren.no/">Kundeservice</element>
+    <element href="/vis/rubrikk/onlinebooking/" channel="desktop">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.gjengangeren.no/pakker?ssoAction=getAuthId">Abonnement</element>
+    <element href="http://minside.gjengangeren.no/abonnement" channel="desktop">Adresseendring</element>
+    <element href="http://minside.gjengangeren.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.gjengangeren.no/kontakt/ansatte" channel="desktop">Ansatte</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Storgata 38, Postboks 85, 3191 Horten</element>
+    <element>Ansvarlig redaktør: Torgeir Lorentzen</element>
+    <element>Nettansvarlig: Siv Elisabeth Limkjær</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>gjengangeren.no blir innsamlet og lagret av Nasjonalbiblioteket.</element>
+    <element>GJENGANGEREN COPYRIGHT © 2014</element>
+  </category>
+</footer>

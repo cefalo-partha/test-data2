@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="http://ha-halden.no/nyheter">Nyheter</element>
+    <element href="http://ha-halden.no/sport">Sport</element>
+    <element href="http://ha-halden.no/kultur">Kultur</element>
+    <element href="http://ha-halden.no/bolig">Eiendomsnett</element>
+    <element href="http://ha-halden.no/tv/">HATV</element>
+  </category>
+  <category title="">
+    <element href="/kundesenter/">Kundeservice</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+  </category>
+  <category title="">
+    <element href="https://www.facebook.com/haldenarbeiderblad?ref=hl">HA på facebook</element>
+    <element href="/vis/videotips/">Last opp leservideo</element>
+    <element href="/bildeserier_lokalt/">Bildeserier</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/redaksjonen/">Redaksjonen</element>
+    <element href="/bildeserier_lokalt/">Bildeserier</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Besøksadresse: Langbrygga 9</element>
+    <element>Postadresse: Postboks 113, 1751 Halden</element>
+    <element>Ansvarlig redaktør: Hans-Petter Kjøge 92840911</element>
+    <element>Sentralbord: 69215600</element>
+    <element>Tipstelefon: 99205300</element>
+  </category>
+</footer>

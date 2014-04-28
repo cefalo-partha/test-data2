@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/liv/">Kultur</element>
+    <element href="/sport/">Sport</element>
+    <element href="/hbkmagasinet/">HBK-magasinet</element>
+    <element href="/puls/">Puls</element>
+    <element href="/tv/">Video</element>
+    <element href="/fotoalbum/">Bildesamlinger</element>
+    <element href="/ledere/">Ledere</element>
+  </category>
+  <category title="Mitt Ringblad.no">
+    <element href="/vis/kalender">Det skjer - kalender</element>
+    <element href="/vis/videotips/">Last opp din video</element>
+    <element href="http://ring-bb.origo.no/">By og bygd</element>
+    <element href="http://ring-meninger.origo.no/">Meninger</element>
+    <element href="http://ring-kultur.origo.no/">MinKultur</element>
+    <element href="http://ring-sport.origo.no/">MinSport</element>
+    <element href="https://www.facebook.com/ringerikesblad">Facebook</element>
+    <element href="/vis/personalia">Personalia</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html?category0=Motor%2FBil&amp;saletype=Forhandler">Bil til salgs</element>
+    <element href="/vis/annonsearkiv">Ukens avisannonser</element>
+    <element href="http://ringblad.no/kalender">Det skjer - kalender</element>
+    <element href="http://ringerikesblad.e-pages.dk/">eAvis</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://ringblad.lokaltipset.no/">Lokaltipset</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Hønefoss Bru 1d, pb 68 Sentrum, 3502 Hønefoss</element>
+    <element href="mailto:bjorn.harald.blaker@ringblad.no">Ansvarlig redaktør: Bjørn Harald Blaker</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>ringblad.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>RINGERIKES BLAD COPYRIGHT © 2014</element>
+  </category>
+</footer>

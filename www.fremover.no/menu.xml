@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter ">
+    <element href="/lokale_nyheter/">Lokale nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/lokal_sport/mjolner/">Mjølner</element>
+    <element href="/lokal_sport/Arctic_Eagles/">Arctic Eagles</element>
+    <element href="/kulturliv/">Kultur</element>
+    <element href="/ung/">Ung</element>
+    <element href="/bolig/">Eiendomsnett</element>
+    <element href="/Jobb/">Næringsliv</element>
+    <element href="/motor/">Motor</element>
+    <element href="/vinterfestuka/">Vinterfestuka</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/tvfremover/">Web-TV</element>
+    <element href="/kamera/">Web-kamera</element>
+    <element href="http://fremover.e-pages.dk/">E-avis</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="https://www.facebook.com/pages/Fremover/134550763235231?fref=ts">Facebook</element>
+    <element href="http://instagram.com/Fremover_Narvik">Instagram</element>
+    <element href="http://fremoverpuls.no">Fremoverpuls</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://fremover.no/kalender">Kalender</element>
+    <element href="/vis/personalia/">Bursdag barn under 13 år</element>
+    <element href="/vis/personalia/">Nyfødt</element>
+    <element href="/vis/personalia/">Nygift</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/torvet/">Torvet</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kontakt_oss/tips_oss/">Tips oss</element>
+    <element href="mailto: vaktsjef@fremover.no">Epost:</element>
+    <element href="mailto: nett@fremover.no">Nett</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-fremover-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

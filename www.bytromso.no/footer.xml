@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Bydelsgaranti">
+    <element href="/sor-tromsoya">Sør-Tromsøya</element>
+    <element href="/midtpa">Midt på Tromsøya</element>
+    <element href="/nordoya">Nord-Tromsøya</element>
+    <element href="/langnes_mortensnes/">Mortensnes-Langnes</element>
+  </category>
+  <category title="Bydelsgaranti">
+    <element href="/sentrum">Sentrum</element>
+    <element href="/tromsdalen">Tromsdalen</element>
+    <element href="/hamna">Hamna</element>
+    <element href="/kroken/">Tomasjord/Lunheim/Kroken</element>
+  </category>
+  <category title="Hva skjer i din bydel?">
+    <element href="mailto: tips@byavisatromso.no">Send oss en e-post</element>
+    <element href="http://www.Facebook.com/byavisatromso">Besøk vår Facebook-side!</element>
+    <element href="http://www.nordlys.no">Siste nytt fra Nordlys</element>
+    <element href="https://www.buyandread.com/custom/ePaper.htm?pub=byavisatromso">Bla i papirutgaven vår digitalt!</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Rådhusgata 3, Tromsø</element>
+    <element href="mailto:anders.opdahl@nordlys.no">Ansvarlig redaktør: Anders Opdahl</element>
+    <element href="mailto:stian.saur@byavisatromso.no">Redaktør: Stian Saur</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no">PFU</element>
+    <element>Kontakt annonseavdelingen!</element>
+    <element href="mailto:grete@byavisatromso.no">Grete Nilsen</element>
+    <element href="mailto:Lasse@byavisatromso.no">Lasse Aleksandersen</element>
+  </category>
+</footer>

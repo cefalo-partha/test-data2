@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/fbtv">FBTV</element>
+    <element href="/nyheter">Nyheter</element>
+    <element href="/debatt">Debatt</element>
+    <element href="/skaperne">Skaperne</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/kultur/filmer">Filmanmeldelser</element>
+    <element href="/kultur/konsert">Konsertanmeldelser</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="/nytte/motor-trafikk">Motor &amp; Trafikk</element>
+    <element href="/nytte/bolig-og-interi%C3%B8r">Bolig &amp; Interiør</element>
+  </category>
+  <category title="Sport">
+    <element href="/ffk">FFK</element>
+    <element href="http://sport.f-b.no/spillerbors/spillerbors.php?teamid=33">FFK spillerbørs</element>
+    <element href="/ffk/jokkes-fotballblogg">Jokkes fotballblogg</element>
+    <element href="http://live.f-b.no/">Fotball live</element>
+    <element href="/sport/3-divisjon-fotball">3. divisjon fotball</element>
+    <element href="/sport/stjernen">Stjernen</element>
+    <element href="/sport/h%C3%A5ndball">Håndball</element>
+    <element href="/sport/innebandy">Innebandy</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html?catId=16200&amp;localGeo=true&amp;transId=1">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://annonsearkiv.f-b.no/">Ukens avisannonser</element>
+    <element href="http://kunngjoringer.f-b.no/">Kunngjøringer</element>
+    <element href="http://f-b.no/derdubor/">Lokale bedrifter</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="/kultur/ut-i-dag">Ut i dag</element>
+    <element href="http://mittfb.f-b.no/">Mitt FB</element>
+    <element href="/kultur/restaurantanmeldelser">Rerstaurantanmeldelser</element>
+    <element href="/vis/videotips/">Last opp din video her!</element>
+    <element href="http://eavis.f-b.no/epaper/viewer.aspx">E-avis</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.f-b.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
+    <element href="/kundesenter/">Annonsering</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.f-b.no/pakker">Abonnement</element>
+    <element href="http://minside.f-b.no/login">Adresseendring</element>
+    <element href="http://minside.f-b.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.f-b.no/kontakt">Kontakt</element>
+    <element href="/vis/videotips/">Last opp din video her!</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-fredriksstad-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+</menu>

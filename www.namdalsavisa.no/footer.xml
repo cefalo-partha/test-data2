@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyhetsartikler">
+    <element href="/Nyhet/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Motor</element>
+    <element href="/Magasin/oppogfram/">Opp&amp;Fram</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/live">"Akkurat no"</element>
+    <element href="/vis/bandwagon">Bandwagon</element>
+    <element href="/Magasin/bildealbum/">Bildeserier</element>
+    <element href="http://klikk-i-na.origo.no">Del bilder med oss</element>
+    <element href="/vis/videotips/">Del videoer med oss</element>
+    <element href="http://namdalsavisa.e-pages.dk">eAvis</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+  </category>
+  <category title="Treffpunkt">
+    <element href="http://www.namdaling.no/">Namdaling</element>
+    <element href="http://meninger-namdalsavisa.origo.no/">Meninger</element>
+    <element href="/sosialemedier">NA i sosiale medier</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 100, 7801 Namsos</element>
+    <element>Telefon 74 21 21 00</element>
+    <element href="mailto: kim.riseth@namdalsavisa.no">Ansvarlig redaktør: Kim Riseth</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://presse.no/Alt-om-Norsk-Presseforbund/Pressens-Faglige-Utvalg-PFU">PFU</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+</footer>

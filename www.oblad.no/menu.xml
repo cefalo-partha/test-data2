@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Innhold">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/folloliv">Folloliv</element>
+    <element href="/historier">Historier</element>
+    <element href="/nyheter/ledere">Meninger</element>
+    <element href="/ung">uRed</element>
+    <element href="/video">Video</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="http://mitt.oblad.no/?ssoAction=getAuthId">MittØB</element>
+  </category>
+  <category title="Digital">
+    <element href="http://eavis.oblad.no/epaper/viewer.aspx">eAvis</element>
+    <element href="https://www.facebook.com/pages/%C3%98stlandets-Blad/191412049053">Facebook</element>
+    <element href="https://twitter.com/ostlandetsblad">Twitter</element>
+    <element href="http://instagram.com/ostlandetsblad">Instagram</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://tipping.oblad.no">12 rette med ØB</element>
+    <element href="/sport/follotrimmen-2014-1.8323227">Follotrimmen</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="/folloliv/underholdning/hva-skjer">Det skjer</element>
+    <element href="http://www.meetv.no/overview">TV-guiden</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/innhold-a-%C3%A5">A-Å</element>
+    <element href="http://annonsearkiv.oblad.no/">Ukens Avisannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.oblad.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
+    <element href="http://minside.oblad.no/?ssoAction=getAuthId">Min side</element>
+    <element href="http://minside.oblad.no/annonsering">Sett inn annonse</element>
+    <element href="http://mitt.oblad.no/skriv_hilsen.php?do=ny">Send hilsen</element>
+    <element href="http://minside.oblad.no/abonnement">Abonnement</element>
+    <element href="http://minside.oblad.no/login">Adresseendring</element>
+    <element href="http://minside.oblad.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.oblad.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-ostlandets-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+</menu>

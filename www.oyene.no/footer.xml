@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+  </category>
+  <category title="">
+    <element href="/innenriks/din__konomi/">Økonomi</element>
+    <element href="/bolig">Bolig</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Jobb i Vestfold</element>
+  </category>
+  <category title="">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/personalia/greetings/new">Send bursdagshilsen</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 124 Teie, 3106 Nøtterøy</element>
+    <element>Ansvarlig redaktør: Tor Aslesen</element>
+    <element>Besøksadresse Teiegården, 2. etasje</element>
+  </category>
+</footer>

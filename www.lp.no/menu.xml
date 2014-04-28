@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="/kundesenter">Kundesenter</element>
+    <element href="/historikk">Historikk</element>
+    <element href="https://lillesandsposten.buyandread.com/wl/index.htm">eAvis</element>
+  </category>
+  <category title="">
+    <element>Bolig til salgs</element>
+    <element>Stilling ledig</element>
+    <element>Bil til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Kundeservice / Min side</element>
+    <element>Sett inn annonse</element>
+    <element>Send hilsen</element>
+    <element>Abonnement</element>
+    <element>Adresseendring</element>
+    <element>Tips oss</element>
+    <element>Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheiter">
+    <element href="/lokalnytt/">Nyheiter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/fotball/live/">Fotball live</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/platearbeidaren/" channel="desktop">Platearbeidaren</element>
+    <element href="/bolig/" channel="desktop">Eigedom</element>
+    <element href="/motor/" channel="desktop">Bil &amp; Motor</element>
+    <element href="/jobb/" channel="desktop">Næringsliv</element>
+  </category>
+  <category title="Multimedia ">
+    <element href="http://firdaposten.e-pages.dk/" channel="desktop">E-avis</element>
+    <element href="/video">Video</element>
+    <element href="/bildesamlingar">Bildesamlingar</element>
+    <element href="/web-kamera/" channel="desktop">Web-kamera</element>
+    <element href="http://www.kystpuls.no" channel="desktop">Kystpuls/ kulturkalender</element>
+    <element href="https://www.facebook.com/redaksjon?fref=ts" channel="desktop">Facebook</element>
+    <element href="http://statigr.am/tag/firdaposten" channel="desktop">Instagram</element>
+    <element href="https://twitter.com/Firdaposten" channel="desktop">Twitter</element>
+    <element href="/vis/videotips/" channel="desktop">Videotipset</element>
+  </category>
+  <category title="Tenester">
+    <element href="/bolig/" channel="desktop">Bustad til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11" channel="desktop">Stilling ledig</element>
+    <element href="/motor/" channel="desktop">Bil til salgs</element>
+    <element href="/trafikk/" channel="desktop">Flytrafikken</element>
+    <element href="/trafikk/" channel="desktop">Skipstrafikken</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/" channel="desktop">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/" channel="desktop">Sett inn annonse</element>
+    <element href="/kundesenter/" channel="desktop">Send helsing</element>
+    <element href="/kundesenter/privat/abonnere/" channel="desktop">Abonnement</element>
+    <element href="/kundesenter/" channel="desktop">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/" channel="desktop">Tips oss</element>
+    <element href="/kundesenter/" channel="desktop">Kontakt</element>
+    <element href="/vis/videotips/" channel="desktop">Videotipset</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-firdaposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisa?</maintext>
+    <subtext>Bestill eAvisa no</subtext>
+  </challengetop>
+
+
+
+</menu>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="/nfk">Notodden FK</element>
+    <element href="/næringsliv">Næringsliv</element>
+    <element href="/forbruker/bolig">Bolig</element>
+    <element href="/forbruker/bil-motor">Bil &amp; Motor</element>
+    <element href="/nyheter/notodden">Notodden</element>
+    <element href="/nyheter/hjartdal">Hjartdal</element>
+    <element href="/nyheter/sauherad">Sauherad</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/web-tv">Telen TV</element>
+    <element href="/vis/videotips">Leservideoer</element>
+    <element href="/bildegalleri">Billedgalleri</element>
+    <element href="/bildegalleri">Historiske bilder</element>
+    <element href="/web-tv/lokalhistorie-video">Historiske filmer</element>
+    <element href="/tinfos-1910-2010">Tinfos 1910 - 2010</element>
+    <element href="/bildegalleri/blues-bildegalleri">Bluesbyen i bilder</element>
+    <element href="/web-tv/blues-video">Bluesbyen på film</element>
+    <element href="http://www.notodden.no/bes%C3%B8ke-notodden/notodden-1913-2013">Notodden 1913-2013</element>
+    <element href="http://eavis.telen.no/epaper/viewer.aspx">E-avis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://www.notodden.no/">Notoddenportalen</element>
+    <element href="/kultur/hva-skjer">Arrangementskalender</element>
+    <element href="https://www.facebook.com/telen.no?fref=ts">Telen på Facebook</element>
+    <element href="http://annonsearkiv.telen.no/">Ukens papirannonser</element>
+    <element href="/vis/rubrikk/eiendom.html?catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.telen.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
+    <element href="http://minside.telen.no/annonsering">Sett inn annonse</element>
+    <element href="http://telen.no/vis/personalia/greetings">Send hilsen</element>
+    <element href="http://minside.telen.no/pakker">Abonnement</element>
+    <element href="http://minside.telen.no/abonnement">Adresseendring</element>
+    <element href="/kundesenter/tips-til-redaksjonen/">Tips oss</element>
+    <element href="http://minside.telen.no/kontakt">Kontakt</element>
+    <element href="http://telen.no/vis/videotips/">Last opp video/foto</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-telen-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

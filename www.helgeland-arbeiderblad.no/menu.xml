@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nytt på Helgeland">
+    <element href="/nyheter/article569838.ece">Tips oss!</element>
+    <element href="/nyheter/">Lokale nyheter</element>
+    <element href="/Innenriks/">Nasjonale nyheter</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/sport/">Sport</element>
+    <element href="/Innenriks/din__konomi/">Forbruker</element>
+    <element href="/Innenriks/n_ringsliv/">Næringsliv</element>
+    <element href="/tv/">Videogalleri</element>
+  </category>
+  <category title="Lesernes HA">
+    <element href="/nyheter/article569838.ece">Tips oss!</element>
+    <element href="/debatt/ditt_leserbrev/">Send leserbrev</element>
+    <element href="/vis/videotips/">Send inn din video</element>
+    <element href="/vis/personalia/">Gratulasjoner</element>
+    <element href="/sport/vinn_englandstur/">Tippekonkurransen</element>
+    <element href="/skipstrafikken/">Skipstrafikken på Helgeland</element>
+    <element href="/vis/vaeret/">Været på Helgeland</element>
+    <element href="/videoklipp_/article2488601.ece">Webkamera, Mosjøen</element>
+  </category>
+  <category title="Marked">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/ha-reklame/">HA Reklame</element>
+    <element href="/vis/annonsearkiv">Ukas annonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss!</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+    <element href="/vis/personalia/greetings/kinds/mothersday">Mors/farsdagshilsen</element>
+    <element href="http://helgeland.e-pages.dk/">E-avis</element>
+    <element href="/kundesenter/privat/min-side/">Min side</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-helgeland-arbeiderblad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+</menu>

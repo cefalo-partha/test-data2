@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="NYHETER">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur og underholdning</element>
+    <element href="/debatt">Debatt og mening</element>
+    <element href="/video">Video / Matv</element>
+    <element href="/skoleavis">Skole-avisene</element>
+    <element href="/friluftsliv">Friluftsliv</element>
+    <element href="/forbruker/eiendom">Bolig og interiør</element>
+  </category>
+  <category title="MULTIMEDIA">
+    <element href="/video">Video / Matv</element>
+    <element href="/video/leservideo">Leservideoer</element>
+    <element href="http://moss-avis.no/vis/videotips/">Send oss din video</element>
+    <element href="https://www.facebook.com/mossavis">Moss Avis på Facebook</element>
+    <element href="/bildegallerier/">Bildegallerier</element>
+    <element href="http://lokaleblogger.moss-avis.no/">Lokale bloggere: bloggportalen</element>
+    <element href="/video/historiske-filmer">Historiske filmer</element>
+    <element href="http://eavis.moss-avis.no/epaper/viewer.aspx">E-avis</element>
+  </category>
+  <category title="TJENESTER">
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="http://eavis.moss-avis.no/epaper/viewer.aspx">E-avis</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Boliger til salgs</element>
+    <element href="/vis/vaeret">Værmelding</element>
+    <element href="http://minside.moss-avis.no/kontakt/ansatte/index?department_id=15">Kontakt oss</element>
+    <element href="http://minside.moss-avis.no/abonnement">Bestill abonnement</element>
+    <element href="/vis/personalia/">Send en hilsen</element>
+    <element href="http://minside.moss-avis.no/kontakt/tips">Tips oss</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Gudesgt- 10. Postboks 250, 1501 Moss</element>
+    <element href="mailto:pal.enghaug@moss-avis.no">Ansvarlig redaktør: Pål Enghaug</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>moss-avis.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>Moss Avis copyright 2014</element>
+  </category>
+</footer>

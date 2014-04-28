@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">nyheter</element>
+    <element href="/sport">sport</element>
+    <element href="/fotball/live">Pors Fotball</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="/bildeserier">PD 25 og 50 år</element>
+    <element href="http://porsgrunnsdagblad.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="http://www.facebook.com/porsgrunnsdagblad">Facebook</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/mitt-abonnement/">Adresseendring</element>
+    <element href="/kontakt_oss">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-porsgrunns-dagblad-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

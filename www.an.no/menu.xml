@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/indresalten/">Indre</element>
+    <element href="/glimt/">Glimt</element>
+    <element href="/sport/">Sport</element>
+    <element href="/bhk/">BHK</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/video/">ANtv</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/kamera/">Kamera</element>
+    <element href="/fotball/live/">Fotball live</element>
+  </category>
+  <category title="Annet innhold">
+    <element href="/bolig/">Bolig</element>
+    <element href="/bil/">Bil</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://an.no/kalender">Det skjer</element>
+    <element href="/anung/">AN Ung</element>
+    <element href="/ongan/">Ongan</element>
+    <element href="/bodoby/">BodøBy</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html?localGeo=true&amp;catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings/new">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/minside">Adresseendring</element>
+    <element href="/kontakt/tips/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+    <element href="/eavis">E-avis</element>
+    <element href="https://www.facebook.com/avisanordland">Facebook</element>
+    <element href="http://instagram.com/avisanordland">Instagram</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-avisa-nordland-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

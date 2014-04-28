@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/kongsberg">Kongsberg</element>
+    <element href="/nyheter/hvittingfoss">Hvittingfoss</element>
+    <element href="/nyheter/flesberg">Flesberg</element>
+    <element href="/nyheter/rollag">Rollag</element>
+    <element href="/nyheter/nore-og-uvdal">Nore og Uvdal</element>
+    <element href="/næringsliv">Næringsliv</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+  </category>
+  <category title="Temasider">
+    <element href="/video">Videoarkiv</element>
+    <element href="http://laagendalsposten.no/vis/videotips/">Send inn video</element>
+    <element href="/webkamera">Web-kamera</element>
+    <element href="/jubel">Jubelåret 2014</element>
+    <element href="/ung">Ung</element>
+    <element href="/kultur/jazzfestivalen">Jazzfestivalen</element>
+    <element href="/kultur/glogerfestspillene">Glogerfestspillene</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://minside.laagendalsposten.no/kontakt/tips">Tips oss</element>
+    <element href="/vis/kalender">Det skjer</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="https://www.facebook.com/laagendalsposten">Facebook</element>
+    <element href="https://twitter.com/laagendal">Twitter</element>
+    <element href="http://eavis.laagendalsposten.no/epaper/viewer.aspx" channel="desktop">eAvis</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bil til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="http://www.meetv.no/overview">TV-guiden</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://laagendalsposten.no/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.laagendalsposten.no/">Kundeservice / Min side</element>
+    <element href="http://minside.laagendalsposten.no/annonsering">Sett inn annonse</element>
+    <element href="http://minside.laagendalsposten.no/abonnement">Abonnement</element>
+    <element href="http://minside.laagendalsposten.no/login">Adresseendring</element>
+    <element href="http://minside.laagendalsposten.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.laagendalsposten.no/kontakt">Kontakt oss</element>
+    <element href="http://kunngjoringer.laagendalsposten.no/" channel="desktop">Kunngjøringer</element>
+    <element href="http://laagendalsposten.no/derdubor/" channel="desktop">Lokale bedrifter</element>
+    <element href="http://annonsearkiv.laagendalsposten.no/" channel="desktop">Dagens avisannonser</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-laagendalsposten-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

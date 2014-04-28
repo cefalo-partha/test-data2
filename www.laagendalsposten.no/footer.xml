@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/kongsberg">Kongsberg</element>
+    <element href="/nyheter/hvittingfoss">Hvittingfoss</element>
+    <element href="/nyheter/flesberg">Flesberg</element>
+    <element href="/nyheter/rollag">Rollag</element>
+    <element href="/nyheter/nore-og-uvdal">Nore og Uvdal</element>
+    <element href="/n%C3%A6ringsliv">Næringsliv</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+  </category>
+  <category title="Temasider">
+    <element href="http://laagendalsposten.no/video">Videoarkiv</element>
+    <element href="http://laagendalsposten.no/vis/videotips/">Send inn video</element>
+    <element href="/webkamera">Web-kamera</element>
+    <element href="/jubel">Jubelåret 2014</element>
+    <element href="/ung">Ung</element>
+    <element href="/kultur/jazzfestivalen">Jazzfestivalen</element>
+    <element href="/kultur/glogerfestspillene">Glogerfestspillene</element>
+  </category>
+  <category title="">
+    <element href="mailto: redaksjonen@laagendalsposten.no">Tips oss</element>
+    <element href="/vis/kalender">Det skjer</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="https://www.facebook.com/laagendalsposten">Facebook</element>
+    <element href="https://twitter.com/laagendal">Twitter</element>
+    <element href="http://www.meetv.no/overview" channel="desktop">TV-guiden</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Stasjonsbakken 3, 3611 Kongsberg</element>
+    <element href="mailto: jorn.steinmoen@laagendalsposten.no">Ansvarlig redaktør: Jørn Steinmoen</element>
+    <element href="mailto: per.skoien@laagendalsposten.no">Nyhetsredaktør: Per Skøien</element>
+    <element href="mailto: tonhild.solberg@laagendalsposten.no">Nettsjef: Tonhild Solberg Strand</element>
+    <element href="mailto: eigil.ramstad@laagendalsposten.no">Nettsjef: Eigil Kittang Ramstad</element>
+    <element href="http://presse.no/Pressens_Faglige_Utvalg_PFU/Redaktorplakaten/">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>Laagendalsposten Copyright © 2014</element>
+  </category>
+</footer>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokalenyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/lokalkultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/motormagasin/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://malvikbladet.e-pages.dk/">E-avis</element>
+    <element href="/webtv/">Web-TV</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="http://www.malvikpuls.no/-/local_paper/show/61_malvikpuls">Malvikpuls</element>
+  </category>
+  <category title="Tjenester">
+    <element href="https://www.facebook.com/pages/MalvikBladet/260413091724?fref=ts">Facebook</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="http://www.meetv.no/overview">TV-guiden</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Øyavegen 1, 7551 Hommelvik</element>
+    <element>E-post: redaksjonen@mb.no</element>
+    <element>SMS/MMS: mbtips til 2470</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="mailto: kjell-ivar.myhr@bladet.no">Ansvarlig redaktør: Kjell-Ivar Myhr</element>
+  </category>
+</footer>

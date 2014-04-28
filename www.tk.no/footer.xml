@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/video/">Video</element>
+    <element href="/sporten/">Sport</element>
+    <element href="/sporten/fotball/">Lokal fotball</element>
+    <element href="/speilet/">Kultur</element>
+    <element href="/meninger/">Meninger</element>
+    <element href="/radio_kristiansund/">Radio Kristiansund</element>
+    <element href="/vis/vaeret/">Været</element>
+  </category>
+  <category title="Magasin">
+    <element href="/tktv/">TKTV</element>
+    <element href="/billedserier/">Bildeserier</element>
+    <element href="/bolignytt/">Eiendom</element>
+    <element href="/motornytt/">Motor</element>
+    <element href="/naring/">Næring</element>
+    <element href="/havn/">Havn</element>
+    <element href="/sporten/resultatservice/">Resultatservice</element>
+    <element href="/kamera/">Webkamera</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/tktorget/">TKtorget</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/">Kundesenter</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt oss</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto:redaksjonen@tk.no">Tips oss</element>
+    <element>71 57 00 00</element>
+    <element>Postboks 8, 6501 Kristiansund</element>
+    <element href="mailto:tore.dyrnes@tk.no">Sjefredaktør: Tore Dyrnes</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element channel="desktop">tk.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+  </category>
+</footer>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="NYHETER">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/n%C3%A6ringsliv">Næringsliv</element>
+    <element href="/kultur">Kultur</element>
+  </category>
+  <category title="Hva Skjer?">
+    <element href="/hva-skjer">Hva Skjer</element>
+    <element href="/diverse/svelvik-guiden-1.3122876">Svelvikguiden</element>
+    <element href="https://www.facebook.com/pages/Svelviksposten/119167908146116">Facebook</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://Kundeservice">Kundeservice</element>
+    <element href="http://Sett inn annonse">http://minside.svelviksposten.no/</element>
+    <element href="http://Send hilsen og gratulasjon">http://minside.svelviksposten.no/annonsering?ssoAction=getAuthId</element>
+    <element href="http://Abonnement">http://minside.svelviksposten.no/annonsering/gratulasjon</element>
+    <element href="http://Adresseendring">http://minside.svelviksposten.no/abonnement</element>
+    <element href="http://Tips oss">http://minside.svelviksposten.no/abonnement</element>
+    <element href="http://Kontakt">redaksjon@svelviksposten.no</element>
+    <element>redaksjon@svelviksposten.no</element>
+  </category>
+</footer>

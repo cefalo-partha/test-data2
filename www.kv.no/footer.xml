@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/lokalfotball">Lokalfotball</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/video">Video</element>
+  </category>
+  <category title="Underholdning">
+    <element href="/video?videoId=BD8DB821">Lemur-tv</element>
+    <element href="http://www.facebook.com/krageroblad">Facebook</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://lokaleblogger.kv.no">Lokale blogger</element>
+    <element href="/webkamera">Webkamera</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://minside.kv.no">Minside og kundeservice</element>
+    <element href="http://kv.newspaperdirect.com/epaper/viewer.aspx">eAvis</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/derdubor">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.kv.no/kontakt/tips">Tips oss!</element>
+    <element href="/vis/videotips/">Send inn videotips</element>
+    <element href="mailto:tom.martin.hartviksen@kv.no">Ansvarlig redaktør: Tom Martin Kj. Hartviksen</element>
+    <element href="mailto:trond.nostvold.tou@kv.no">Nettredaktør: Trond Nøstvold Tou</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>Adresse: Postboks 55, 3791 Kragerø. Tlf: 35 98 67 00</element>
+  </category>
+</footer>

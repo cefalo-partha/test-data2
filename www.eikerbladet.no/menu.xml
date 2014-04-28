@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Følg oss">
+    <element href="https://www.facebook.com/pages/VI-SOM-LESER-EIKERBLADET/312799697843?fref=ts">Følg oss på Facebook</element>
+  </category>
+  <category title="Kontakt oss">
+    <element href="http://kundesenter.eikerbladet.no/kontakt-oss">Kontakt oss</element>
+    <element>Sentralbord: 32 87 20 23</element>
+    <element>Tips oss: 416 14 090</element>
+    <element href="mailto:redaksjonen@eikerbladet.no">Redaksjonen</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://eikerbladet.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://kundesenter.eikerbladet.no">Kundeservice</element>
+    <element href="http://kundesenter.eikerbladet.no/annonsere">Annonsere? Kontakt salgsavdelingen TLF. 32 87 20 23</element>
+    <element href="http://kundesenter.eikerbladet.no/abonnere">Abonnement</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

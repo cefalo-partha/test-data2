@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Kundeservice">
+    <element href="/kundesenter/kontakt-oss/">Sogn Avis, Riverdalen 5, 6863 Leikanger</element>
+    <element href="mailto: jani@sognavis.no">Ansvarleg redaktør Jan Inge Fardal - tlf 913 10 274</element>
+    <element href="mailto: leif@sognavis.no">Marknadssjef Leif Johannes Lunde - tlf 489 59 898</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss: 57656000 - SMS/MMS kode soab til 1982</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+  </category>
+</footer>

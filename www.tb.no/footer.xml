@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/video">Video</element>
+    <element href="/forbruker/jobb">Jobb</element>
+    <element href="/forbruker/motor">Motor</element>
+    <element href="/forbruker/bolig">Bolig</element>
+    <element href="/pluss">tb+</element>
+  </category>
+  <category title="">
+    <element href="http://minside.tb.no/">Kundeservice</element>
+    <element href="http://minside.tb.no/kontakt?ssoAction=getAuthId">Kontakt oss</element>
+    <element href="http://minside.tb.no/pakker">Abonnement</element>
+    <element href="http://minside.tb.no/kontakt/tips">Tips oss</element>
+    <element href="http://eavis.tb.no/epaper/viewer.aspx">eAvis</element>
+    <element href="/vis/videotips/">Send oss video</element>
+    <element href="http://tb.no/vis/personalia/">Send hilsen/gratulasjon</element>
+    <element href="/kultur/kulturkalender">Arrangementskalender</element>
+  </category>
+  <category title="">
+    <element href="/vis/rubrikk/eiendom.html?catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bil til salgs</element>
+    <element href="http://annonsearkiv.tb.no/">Annonser fra papiravisen</element>
+    <element href="http://kunngjoringer.tb.no/">Kunngjøringsannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://minside.tb.no/annonsering">Sett inn annonse</element>
+    <element href="http://minside.tb.no/annonsering">Priser og modulkart</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://www.tb.no/?mode=www" channel="mobile">Les tb.no i fullversjon</element>
+    <element>Adresse: Postboks 33, 3101 Tønsberg</element>
+    <element href="mailto:sigmund.kydland@tb.no">Ansvarlig redaktør: Sigmund Kydland</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>tb.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>TØNSBERGS BLAD COPYRIGHT © 2014</element>
+  </category>
+</footer>

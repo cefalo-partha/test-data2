@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheiter">
+    <element href="/hfnyheiter/">Nyheiter</element>
+    <element href="/hfsport/">Sport</element>
+    <element href="/hfkultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil &amp; motor</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://eavis.dt.no/epaper/viewer.aspx">eAvis</element>
+    <element href="/Video_import/">Video</element>
+    <element href="/webkamera/">Webkamera</element>
+  </category>
+  <category title="Tenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="https://www.facebook.com/pages/Hardanger-Folkeblad/150277975034518">Facebook</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Ragde, Postboks 374, 5751 Odda</element>
+    <element href="mailto:trygve@hardanger-folkeblad.no">Ansvarleg redaktør: Trygve D. Syse</element>
+    <element href="mailto:rolf@hardanger-folkeblad.no">Markedssjef: Rolf Alterskjær</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

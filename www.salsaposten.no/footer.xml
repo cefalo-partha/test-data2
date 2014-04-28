@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/godset">Godset</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/næringsliv">Næringsliv</element>
+    <element href="/forbruker/bolig-og-interiør">Bolig</element>
+    <element href="/meninger">Meninger</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/pluss">DT+</element>
+    <element href="/dttv">DTTV</element>
+    <element href="/bildeserier">Bildegalleri</element>
+    <element href="/bildeserier/historiske-bilder-bildeserier">Historiske bilder</element>
+    <element href="/instagram">Instagram</element>
+    <element href="http://www.facebook.com/drammenstidende">Facebook</element>
+    <element href="http://dt.no/vis/videotips/">Send oss video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://eavis.dt.no/epaper/viewer.aspx">eAvis</element>
+    <element href="/kultur/ut-guiden">UT-guiden / hva-skjer?</element>
+    <element href="http://annonsearkiv.dt.no">Ukens papirannonser</element>
+    <element href="/sport/spillsenteret">Spillsenter</element>
+    <element href="/vis/rubrikk/eiendom.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?localGeo=true">Stilling ledig</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Bragernes Torg 2A, Postboks 7033, 3007 Drammen</element>
+    <element href="mailto:kristin.monstad@dt.no">Ansvarlig redaktør: Kristin Monstad</element>
+    <element href="mailto:monica.lid@dt.no">Redaktør digitale medier: Monica Lid</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>DRAMMENS TIDENDE COPYRIGHT © 2014</element>
+  </category>
+</footer>

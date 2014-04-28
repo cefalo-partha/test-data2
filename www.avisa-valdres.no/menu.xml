@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/bygdepuls/">Bygdepuls</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/beitostoelen/">Beitostølen</element>
+    <element href="/valdresmagasinet/">Valdresmagasinet</element>
+    <element href="/webkamera/">Webkamera</element>
+    <element href="http://valdres.e-pages.dk/">E-avis</element>
+    <element href="/">Forsiden</element>
+  </category>
+  <category title="">
+    <element href="/kundesenter/">Kundesenter</element>
+    <element href="/vis/rubrikk/sok.html">Bestill rubrikk</element>
+    <element href="/etnedal/">Etnedal</element>
+    <element href="/nord-aurdal/">Nord-Aurdal</element>
+    <element href="/soer-aurdal/">Sør-Aurdal</element>
+    <element href="/vestre-slidre/">Vestre Slidre</element>
+    <element href="/oeystre-slidre/">Øystre Slidre</element>
+    <element href="/vang/">Vang</element>
+    <element href="/service/rss">Rss</element>
+    <element href="https://nb-no.facebook.com/avisaValdres">Facebook</element>
+  </category>
+  <category title="">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/sok.html?transId=1&amp;localGeo=true&amp;catId=10000">Bil til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/bestill-rubrikkannonse/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/annonsere/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/bestill/">Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

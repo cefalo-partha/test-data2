@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/under_20/">Under20</element>
+    <element href="http://indrepuls.no/-/local_paper/show/25_indrepuls">Indrepuls</element>
+    <element href="/bil/">Motor</element>
+    <element href="http://smaadebatten.origo.no/">Debatt</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/smaa_tv/">Smaa-TV</element>
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/smaa_tv/ovre-TV/">Øvre-TV</element>
+    <element href="http://smaalenene.e-pages.dk/">E-avisen</element>
+    <element href="http://gamledageriindreostfold.origo.no/?ref=checkpoint">Historiske bilder</element>
+    <element href="https://twitter.com/smaalenene">Twitter</element>
+    <element href="https://www.facebook.com/pages/Smaalenenes-Avis/274057979026?ref=hl">Facebook</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/annonsearkiv/">Annonsearkiv</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html">Bil til salgs</element>
+    <element href="/fotball/live/">Fotball LIVE</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Torget 12, 1830 Askim</element>
+    <element>Ansvarlig redaktør: Jarle Bentzen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>smaalenene.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>SMAALENENES AVIS COPYRIGHT @ 2014</element>
+  </category>
+</footer>

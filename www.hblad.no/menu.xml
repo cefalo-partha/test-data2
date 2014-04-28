@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="http://www.petropuls.no/">Petro Puls</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/sport/">Sport</element>
+    <element href="/video/">Video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://www.facebook.com/pages/Helgelands-Blad/163452567000714">Facebook</element>
+    <element href="http://info.avisapp.no/hblad/">eAvis</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Radio Helgeland</element>
+    <element href="http://www.flightradar24.com/62,10/7">Flightradar24.com</element>
+    <element href="/nyheter/article5557045.ece">skipstrafikk/webkamera</element>
+    <element href="/nyheter/article5557005.ece">Sjekk skiløypene</element>
+    <element href="/nyheter/article5557087.ece">Er flyet ditt i rute?</element>
+    <element href="/bildeserier/article5980545.ece">Født 2012-</element>
+  </category>
+  <category title="Annonser">
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/baat.html?text=">Båt til salgs</element>
+    <element href="/vis/rubrikk/torg.html?text=">Smått &amp; stort til salgs</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/torget/">Torget</element>
+    <element href="/kundesenter/privat/hjelp/abonnement-2/">Abonnement</element>
+    <element href="/kundesenter/privat/gratulasjon/">Gratulasjoner</element>
+    <element href="/kundesenter/kontakt-oss/grafiske-tjenester/">Grafiske tjenester</element>
+    <element href="/kundesenter/kontakt-oss/ansattehelgelandsblad/">Ansatte</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

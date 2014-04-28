@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Aktuelt">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/ungsport">Ungsport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/nyheter/jobb">Jobb</element>
+    <element href="/forbruker/bil">Kjør</element>
+    <element href="/forbruker/bolig">Bolig</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/sbtv">Siste videoer</element>
+    <element href="/bildegalleri">Bildegalleri</element>
+    <element href="/bildegalleri/p%C3%A5-byen-bildegalleri">På byen-bilder</element>
+    <element href="http://www.facebook.com/pages/sbno/263970451177">Facebook</element>
+    <element href="https://twitter.com/sandefjordsblad">Twitter</element>
+    <element href="http://eavis.sb.no/epaper/viewer.aspx">eAvis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="http://annonsearkiv.sb.no/">Papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/nyheter/meninger">Meninger</element>
+    <element href="http://min.sb.no/group.php?id=80">Bokanmeldelser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.sb.no/">Kundeservice / Min side</element>
+    <element href="http://minside.sb.no/annonsering">Sett inn annonse</element>
+    <element href="http://min.sb.no/skriv_hilsen.php?do=ny">Send hilsen</element>
+    <element href="http://minside.sb.no/abonnement">Abonnement</element>
+    <element href="http://minside.sb.no/abonnement">Adresseendring</element>
+    <element href="http://minside.sb.no/kontakt/tips">Tips oss</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="http://minside.sb.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-sandefjords-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext></subtext>
+  </challengetop>
+
+
+
+</menu>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/modum/">Modum</element>
+    <element href="/ovreeiker/">Øvre Eiker</element>
+    <element href="/sigdal/">Sigdal</element>
+    <element href="/krodsherad/">Krødsherad</element>
+    <element href="/sport/">Sport</element>
+    <element href="/motor/">Motor</element>
+    <element href="/teknologi/">Teknologi</element>
+    <element href="/krim/">Krim</element>
+    <element href="/Hus/">Hus,hjem og hage</element>
+    <element href="/fjellet/">Fjell og hytte</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/vis/videotips/">Send inn video</element>
+    <element href="/bptv/">Se våre videoer</element>
+    <element href="/bilder/">Bildegalleri</element>
+    <element href="/bildeserier/article4742778.ece">Historiebilder</element>
+    <element href="http://bygdeposten.e-pages.dk/">eAvis</element>
+    <element href="/webkamara/">Webkamera</element>
+    <element href="/webtv/">Webtv</element>
+    <element href="/underholdning/">Underholdning</element>
+    <element href="/Fritid/">Ferie og fritid</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="https://www.facebook.com/bygdeposten">Facebook</element>
+    <element href="http://bygdeposten.no/kalender">Det skjer</element>
+    <element href="/vis/annonsearkiv">Ukens annonser</element>
+    <element href="http://www.modum.kulturhus.no/">Modum kulturhus</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element>Brukerveiledninger</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/annonsere/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-bygdeposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

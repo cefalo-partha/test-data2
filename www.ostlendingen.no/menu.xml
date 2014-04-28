@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/video">ØstlendingenTV</element>
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/elverum-h%C3%A5ndball" channel="desktop">Elverum Håndball</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/debatt">Debatt</element>
+    <element href="/fangst-og-friluft" channel="desktop">Fangst og Friluftsliv</element>
+    <element href="/sport/fotballhedmark">FotballHedmark</element>
+    <element>Bildeserier</element>
+  </category>
+  <category title="Lokalsider">
+    <element href="/nyheter/elverum" channel="desktop">Elverum</element>
+    <element href="/nyheter/l%C3%B8ten" channel="desktop">Løten</element>
+    <element href="/nyheter/midt-%C3%B8sterdal" channel="desktop">Midt-Østerdal</element>
+    <element href="/nyheter/trysil-engerdal" channel="desktop">Trysil/Engerdal</element>
+    <element href="/nyheter/nord-%C3%B8sterdal" channel="desktop">Nord-Østerdal</element>
+    <element href="/nyheter/sol%C3%B8r" channel="desktop">Solør</element>
+    <element href="/hamar-dagblad">Hamar Dagblad</element>
+    <element href="/ringsaker-blad">Ringsaker Blad</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/kalender">HedmarkPULS</element>
+    <element href="http://eavis.ostlendingen.no/epaper/viewer.aspx" channel="desktop">E-avis Østlendingen</element>
+    <element href="http://eavis.hamar-dagblad.no/epaper/viewer.aspx" channel="desktop">E-avis Hamar Dagblad</element>
+    <element href="http://eavis.ringsaker-blad.no/epaper/viewer.aspx" channel="desktop">E-avis Ringsaker Blad</element>
+    <element href="http://eavis.solungavisa.no/epaper/viewer.aspx" channel="desktop">E-avis Solungavisa</element>
+    <element href="/sport/spillsenteret" channel="desktop">Spillsenteret</element>
+    <element href="/derdubor/" channel="desktop">Lokale bedrifter</element>
+    <element href="http://kunngjoringer.ostlendingen.no/" channel="desktop">Kunngjøringer</element>
+    <element href="http://annonsearkiv.ostlendingen.no" channel="desktop">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.ostlendingen.no/">Kundeservice / Min side</element>
+    <element href="http://minside.ostlendingen.no/annonsering">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.ostlendingen.no/abonnement">Abonnement</element>
+    <element href="http://minside.ostlendingen.no/fordelskort">Østlendingen Xtra</element>
+    <element href="http://minside.ostlendingen.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.ostlendingen.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-ostlendingen-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter på Helgeland">
+    <element href="/nyheter/article569838.ece">Tips oss!</element>
+    <element href="/nyheter/">Lokale nyheter</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/sport/">Sport</element>
+    <element href="/Innenriks/n_ringsliv/">Næringsliv</element>
+  </category>
+  <category title="Lesernes HA">
+    <element href="/nyheter/article569838.ece">Tips oss!</element>
+    <element href="/debatt/ditt_leserbrev/">Send leserbrev</element>
+    <element href="/vis/videotips/">Send inn din video</element>
+    <element href="/vis/vaeret/">Været på Helgeland</element>
+    <element href="/videoklipp_/article2488601.ece">Webkamera, Mosjøen</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/nyheter/article569838.ece">Tips oss!</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+    <element href="http://helgeland.e-pages.dk/">E-avis</element>
+    <element href="/kundesenter/privat/min-side/">Min side</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Tips oss: Telefon: 75 11 36 00.  SMS/MMS: HATIPS til 2005. E-post: vaktsjef@helgeland-arbeiderblad.no.</element>
+    <element>Kontakt oss: Telefon: 75 11 36 00. Besøksadresse: Vefsnvegen 7, 8654 Mosjøen.</element>
+    <element>Åpningstider: Hverdager 08.00-16.00.</element>
+    <element>Annonsere? Kontakt annonseavdelingen: Telefon: 75 11 36 15. E-post: annonse@helgeland-arbeiderblad.no.</element>
+    <element>Sjefredaktør: Petter Stocke-Nicolaisen. Telefon: 900 79 424. E-post: psn@helgeland-arbeiderblad.no.</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktøransvar</element>
+    <element href="http://presse.no/Klage-til-PFU">Pressens faglige utvalg</element>
+    <element href="http://amedia.no/">Amedia</element>
+  </category>
+</footer>

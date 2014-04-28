@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/sport/">Sport</element>
+    <element href="/hbkmagasinet/">HBK-magasinet</element>
+    <element href="/puls/">Puls</element>
+    <element href="/tv/">Video</element>
+    <element href="/fotoalbum/">Bildesamlinger</element>
+    <element href="/ledere/">Ledere</element>
+  </category>
+  <category title="Mitt Ringblad.no">
+    <element href="/vis/kalender/">Det skjer - kalender</element>
+    <element href="/vis/videotips/">Last opp din video</element>
+    <element href="http://ring-bb.origo.no/">By og bygd</element>
+    <element href="http://ring-meninger.origo.no/">Meninger</element>
+    <element href="http://ring-kultur.origo.no/">MinKultur</element>
+    <element href="http://ring-sport.origo.no/">MinSport</element>
+    <element href="https://www.facebook.com/ringerikesblad">Facebook</element>
+    <element href="/vis/personalia">Personalia</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/annonsearkiv" channel="desktop">Ukens avisannonser</element>
+    <element href="http://iringerike.no/-/explore/events/sandbox/18724_lesernesringblad">Det skjer - kalender</element>
+    <element href="http://ringerikesblad.e-pages.dk/" channel="desktop">eAvis</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://ringblad.lokaltipset.no/">Lokaltipset</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+    <element href="/personalia/article677221.ece">Personalia - dødsannonser</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-ringerikes-blad-billigere-blir-de-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

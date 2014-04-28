@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Aktuelt">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/ungsport">Ungsport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/nyheter/jobb">Jobb</element>
+    <element href="/forbruker/bil">Kjør</element>
+    <element href="/forbruker/bolig">Bolig</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/sbtv">Siste videoer</element>
+    <element href="/bildegalleri">Bildegalleri</element>
+    <element href="/bildegalleri/p%C3%A5-byen-bildegalleri">På byen-bilder</element>
+    <element href="http://www.facebook.com/pages/sbno/263970451177">Facebook</element>
+    <element href="https://twitter.com/sandefjordsblad">Twitter</element>
+    <element href="http://eavis.sb.no/epaper/viewer.aspx">eAvis</element>
+    <element href="http://annonsearkiv.sb.no/">Papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.sb.no/">Kundeservice</element>
+    <element href="http://minside.sb.no/annonsering">Sett inn annonse</element>
+    <element href="http://minside.sb.no/abonnement">Abonnement</element>
+    <element href="http://minside.sb.no/kontakt/tips">Tips oss</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="http://minside.sb.no/kontakt">Kontakt</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Sandefjords Blad Copyright © 2014 Adresse: Postboks 143, 3201 Sandefjord</element>
+    <element href="mailto: jan.roaldset@sb.no">Ansvarlig redaktør: Jan Roaldset</element>
+    <element href="mailto: steinar.ulrichsen@sb.no">Utviklingsredaktør: Steinar Ulrichsen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="http://www.nb.no/fag/for-utgivere-og-trykkeri/pliktavlevering/kva-skal-avleverast/avlevering-av-aviser">Sb.no blir innsamlet og lagret av Nasjonalbiblioteket</element>
+  </category>
+</footer>

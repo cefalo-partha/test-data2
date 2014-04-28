@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sporten">Sport</element>
+    <element href="/pulsen/">Pulsen</element>
+    <element href="/jobb/">Jobb og næringsliv</element>
+    <element href="/boligmagasinet/">Boligmagasinet</element>
+    <element href="/motor/">Motormagasinet</element>
+    <element href="http://telemarksavisa.e-pages.dk/">Innlogging E-avis</element>
+  </category>
+  <category title="Bilder og video">
+    <element href="/video/">Video</element>
+    <element href="/bilder/bildeserier/">Bildeserier</element>
+    <element href="/bilder/vtv/">Nyfødte</element>
+    <element href="/bilder/bryllup/">Brudepar</element>
+    <element href="http://www.tvtelemark.no/">Tv Telemark</element>
+    <element href="/vis/videotips">Send oss din video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Jobb og næringsliv</element>
+    <element href="/boligmagasinet/">Boligmagasinet</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="/vis/annonsearkiv/">Ukens Avisannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kontakt oss">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss-2/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss-2/">Kontakt oss</element>
+    <element href="/vis/kalender">Plakaten</element>
+    <element href="https://www.facebook.com/#!/pages/Telemarksavisa/233542800968">TA på Facebook</element>
+    <element href="https://twitter.com/Telemarksavisa">TA på Twitter</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-telemarksavisa-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>Prøv eAvis for 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

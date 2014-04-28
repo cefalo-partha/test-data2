@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/nyheter/sorsia/">Sørsia</element>
+    <element href="/kulturliv/">Folkeliv</element>
+    <element href="/meninger/">Meninger</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/tv/">Video</element>
+    <element href="/fotball/live/">Livefotball</element>
+    <element href="http://finnmarken.e-pages.dk/index.php?action=login">E-avis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/datasak/trafikkmeldinger/#lat=69.9943&amp;lng=27.9053&amp;zoom=7">Trafikkmeldinger</element>
+    <element href="https://www.facebook.com/finnmark">Facebook</element>
+    <element href="https://twitter.com/Finnmarken">Twitter</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="http://finnmarken.e-pages.dk/index.php?action=invoice_abb">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Ansatte</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="mailto:finnmarken@finnmarken.no">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-finnmarken-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

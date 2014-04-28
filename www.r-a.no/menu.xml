@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/">Forsiden</element>
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/sporten/">Sport</element>
+    <element href="/motormagasinet/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildeserie</element>
+    <element href="/Video_import/">RA-TV</element>
+    <element href="/webkamera/">Webkamera</element>
+    <element href="https://www.facebook.com/RakkestadAvis">Facebook</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/vaeret/?city=Rakkestad&amp;longitude=11.35&amp;latitude=59.43&amp;moh=111.0">Været</element>
+    <element href="/vis/annonsearkiv">Annonsearkiv</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/bildeserier/tipsoss/">Tips oss</element>
+    <element href="mailto:r-a@ra.no">Kontakt</element>
+    <element href="http://rakkestadavis.e-pages.dk/">E-avis</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-rakkestad-avis-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

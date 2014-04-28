@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Kundeservice">
+    <element>Adresse: Jernbanegata 12, Postboks 140, 3901 Porsgrunn</element>
+    <element href="mailto:erik.enger@pd.no">Ansvarlig redaktør/daglig leder: Erik Enger</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>Telefon sentralbord: 35 51 65 00</element>
+    <element>Tipstelefon: 90 52 01 50</element>
+  </category>
+</footer>

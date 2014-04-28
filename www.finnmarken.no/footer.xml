@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/nyheter/sorsia/">Sørsia</element>
+    <element href="/kulturliv/">Folkeliv</element>
+    <element href="/meninger/">Meninger</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/tv/">Video</element>
+    <element href="http://finnmarken.e-pages.dk/index.php?action=login">E-Avis</element>
+    <element href="https://www.facebook.com/finnmark">Facebook</element>
+    <element href="https://twitter.com/Finnmarken">Twitter</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/datasak/trafikkmeldinger/#lat=69.9943&amp;lng=27.9053&amp;zoom=7">Trafikkmeldinger</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/kundesenter/">Kundeservice</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 616, 9811 Vadsø</element>
+    <element>Telefon: 78 95 55 00</element>
+    <element href="mailto:red@finnmarken.no">E-post: red@finnmarken.no</element>
+    <element href="mailto:gm@finnmarken.no">Ansvarlig redaktør: Gard Michalsen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://presse.no/Klage-til-PFU">PFU</element>
+    <element>DAGBLADET FINNMARKEN COPYRIGHT © 2014</element>
+  </category>
+</footer>

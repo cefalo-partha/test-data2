@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur_fritid/">Kultur &amp; fritid</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/motor/">Motor</element>
+    <element href="/eiendom/">Eiendom</element>
+    <element href="/barn/">Barn</element>
+    <element href="/ungdom/">Ungdom</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/fotball/live/">Fotball live</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html">Biler til salgs</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Boliger til salgs/leie</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Ledige stillinger</element>
+    <element href="/vis/personalia/greetings/kinds/birthday">Gratulasjoner</element>
+    <element href="/vis/personalia/greetings/kinds/just_married">Brudepar</element>
+    <element href="/vis/personalia/greetings/kinds/birth">Nyfødte</element>
+  </category>
+  <category title="Diverse">
+    <element href="https://www.facebook.com/blv.no">Blv på Facebook</element>
+    <element href="http://www.meetv.no/overview">TV-program</element>
+    <element href="/kundesenter/">Kundesenter</element>
+    <element href="/kundesenter/privat/abonnere/">Bestill abonnement</element>
+    <element href="https://bladetvesteralen.buyandread.com/wl/index.htm">Digital papirutgave (E-avis)</element>
+    <element href="http://blv.no/kalender">Ka skjer?</element>
+    <element href="http://blv.origo.no/-/percolator/just_nominated_images/138_topimages">Bilder på Vesterålsliv</element>
+    <element href="http://blv.origo.no/-/local_paper/posted/71">Innlegg og kommentarer</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Rådhusgt. 2, postboks 33, 8401 Sortland</element>
+    <element href="mailto:karl-einar@blv.no">Ansvarlig utgiver: Karl-Einar Nordahl</element>
+    <element href="mailto:red@blv.no">Redaktør: Willy Vestå</element>
+    <element href="mailto:shj@blv.no">Nettansvarlig: Svein-Henry Wedding</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt oss</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss:</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element>BLADET VESTERÅLEN COPYRIGHT © 2014</element>
+  </category>
+</footer>

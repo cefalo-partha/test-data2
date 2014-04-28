@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheiter">
+    <element href="/nyhende/">Nyheiter</element>
+    <element href="/sporten/">Sport</element>
+    <element href="http://firda.origo.no">Debatt</element>
+    <element href="/eigedom">Hus og heim</element>
+    <element href="/motor">Bil og motor</element>
+    <element href="/naringsliv">Næringsliv</element>
+    <element href="/fotball/live/">Live fotball</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/tv">Web-tv</element>
+    <element href="/bileteseriar/">Bildeseriar</element>
+    <element href="https://www.facebook.com/firdamedia">Firda på Facebook</element>
+    <element href="http://statigr.am/tag/firdafoto">Lesarbilde Instagram</element>
+    <element href="http://instagram.com/firdamedia#">Firda på Instagram</element>
+    <element href="http://firda.origo.no/-/image_pile/show/136425_lesarbilete">Lesarbilde Origo</element>
+    <element href="http://firda.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Tenester">
+    <element href="/detskjer">Det skjer</element>
+    <element href="/vis/vaeret/">Vêret</element>
+    <element href="/vis/rubrikk/eiendom.html?localGeo=true">Bustader til sals</element>
+    <element href="/vis/rubrikk/jobb.html?localGeo=true">Ledige stillingar</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bilar til sals</element>
+    <element href="/spillsenteret/">Spelsenter</element>
+    <element href="/vis/annonsearkiv">Vekas papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 160, 6801 Førde</element>
+    <element href="mailto:yngve.ardal@firda.no">Ansvarleg redaktør/dagleg leiar: Yngve Årdal</element>
+    <element>Sentralbord: 57833300</element>
+    <element>Tipstelefon: 57833333</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten/Redaktoerplakaten-paa-nynorsk">Redaktørplakaten</element>
+    <element href="http://presse.no/Alt-om-Norsk-Presseforbund/Pressens-Faglige-Utvalg-PFU">PFU</element>
+    <element>Firda Nett blir samla inn og lagra av Nasjonalbiblioteket regelmessig. Nettavisa vil bli gjort tilgjengeleg som kjeldemateriale for forsking og dokumentasjon.</element>
+  </category>
+</footer>

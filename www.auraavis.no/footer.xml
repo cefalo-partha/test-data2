@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/lokal_sport/fiske/">Fiske</element>
+  </category>
+  <category title="Magasin">
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/bilogtrafikk/">Bil og trafikk</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bolig/">Eiendom</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/annonsearkiv/">Ukas annonser</element>
+    <element href="http://www.aurapuls.no/-/local_paper/show/59_aurapuls">Kalender</element>
+    <element href="https://www.buyandread.com/pub.htm?pid=auraavis">Aura Avis som PDF</element>
+    <element href="http://auraavis.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Ticogården, Åkersgt. 4, Postboks 43, 6100 Sunndalsøra</element>
+    <element href="mailto:lars.steinar.ansnes@auraavis.no">Ansvarlig redaktør/daglig leder Lars Steinar Ansnes: 907 62 625</element>
+    <element href="mailto:ole.ragnar.ekren@auraavis.no">Nyhetsansvarlig Ole Ragnar Ekren: 474 17 525</element>
+    <element href="mailto:jan.odegaard@auraavis.no">Sportsansvarlig Jan Ødegård: 481 41 586</element>
+    <element href="mailto:lina.engelsrud@auraavis.no">Kulturansvarlig Lina Engelsrud: 930 35 070</element>
+    <element href="mailto:yngve.lie@auraavis.no">Tingvollansvarlig Yngve Lie: 468 05 908</element>
+    <element href="mailto:synnove.kristiansen@auraavis.no">Annonsekonsulent Synnøve Kristiansen: 913 13 610</element>
+    <element href="mailto:rigmor.wang@auraavis.no">Annonsekonsulent Rigmor Wang: 911 65 003</element>
+  </category>
+</footer>

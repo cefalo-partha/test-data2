@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Motor</element>
+    <element href="/tv/">HATV</element>
+  </category>
+  <category title="Diverse">
+    <element href="https://www.facebook.com/haldenarbeiderblad?ref=hl">HA på facebook</element>
+    <element href="/vis/videotips/">Last opp leservideo</element>
+    <element href="/vis/personalia/greetings">Gratulasjoner</element>
+    <element href="/bildeserier_lokalt/">Bildeserier</element>
+    <element href="/vis/vaeret/?city=Halden&amp;longitude=11.39&amp;latitude=59.12&amp;moh=18.0">Været</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/redaksjonen/">Redaksjonen</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="http://halden.e-pages.dk/">E-avisa</element>
+    <element href="/vis/annonsearkiv">Papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/bedrift/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/bedrift/abonnere/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-halden-arbeiderblad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

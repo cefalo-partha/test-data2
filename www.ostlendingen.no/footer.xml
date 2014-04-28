@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/video">ØstlendingenTV</element>
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/sport/elverum-h%C3%A5ndball" channel="desktop">Elverum Håndball</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/debatt" channel="desktop">Debatt</element>
+    <element href="/fangst-og-friluft" channel="desktop">Fangst og Friluftsliv</element>
+    <element href="/sport/fotballhedmark">FotballHedmark</element>
+  </category>
+  <category title="Lokale sider">
+    <element href="/nyheter/elverum" channel="desktop">Elverum</element>
+    <element href="/nyheter/l%C3%B8ten" channel="desktop">Løten</element>
+    <element href="/nyheter/midt-%C3%B8sterdal" channel="desktop">Midt-Østerdal</element>
+    <element href="/nyheter/trysil-engerdal" channel="desktop">Trysil/Engerdal</element>
+    <element href="/nyheter/nord-%C3%B8sterdal" channel="desktop">Nord-Østerdal</element>
+    <element href="/nyheter/sol%C3%B8r" channel="desktop">Solør</element>
+    <element href="/hamar-dagblad">Hamar Dagblad</element>
+    <element href="/ringsaker-blad">Ringsaker Blad</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/kalender" channel="desktop">HedmarkPULS</element>
+    <element href="/sport/spillsenteret" channel="desktop">Spillsenteret</element>
+    <element href="/derdubor/" channel="desktop">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Gaarderbakken 3, 2402 Elverum</element>
+    <element href="mailto:nils.kristian.myhre@ostlendingen.no">Ansvarlig redaktør: Nils Kristian Myhre</element>
+    <element href="mailto:jan.morten.frengstad@ostlendingen.no">Nett- og utviklingsredaktør: Jan Morten Frengstad</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>ØSTLENDINGEN COPYRIGHT © 2014</element>
+  </category>
+</footer>

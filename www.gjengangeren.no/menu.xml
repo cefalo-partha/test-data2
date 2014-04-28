@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/eiendom">Eiendom</element>
+    <element href="/kj%C3%B8r">Kjør</element>
+    <element href="/leder">Leder</element>
+    <element href="/leserbrev">Leserbrev</element>
+    <element href="/kultur/vervenfestivalen">Vervenfestivalen</element>
+  </category>
+  <category title="Ekstra innhold">
+    <element href="/video">Video</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="http://eavis.gjengangeren.no/epaper/viewer.aspx">eAvis</element>
+    <element href="http://www.facebook.com/Gjengangeren/">Facebook</element>
+    <element href="/vis/vaeret?moh=12.0&amp;longitude=10.48&amp;latitude=59.41&amp;city=Horten">Været</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort til salgs</element>
+    <element href="http://annonsearkiv.gjengangeren.no/">Ukens avisannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/sport/spillsenteret">Spillsenteret</element>
+    <element href="http://annonsearkiv.gjengangeren.no/">Annonsearkiv</element>
+    <element href="/kultur/kulturkalender">Kulturkalender</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.gjengangeren.no/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="http://minside.gjengangeren.no/pakker?ssoAction=getAuthId">Abonnement</element>
+    <element href="http://minside.gjengangeren.no/abonnement">Adresseendring</element>
+    <element href="http://minside.gjengangeren.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.gjengangeren.no/kontakt">Kontakt</element>
+    <element href="http://minside.gjengangeren.no/kontakt/ansatte">Ansatte</element>
+    <element href="/gjengangeren-xtra">Fordelskort</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-gjengangeren-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext></subtext>
+  </challengetop>
+
+
+
+</menu>

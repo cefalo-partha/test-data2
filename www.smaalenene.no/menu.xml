@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/bil/">Motor</element>
+    <element href="/bolig/">Eiendomsnett</element>
+    <element href="http://indrepuls.no/-/local_paper/show/25_indrepuls?ref=checkpoint">Indrepuls</element>
+    <element href="http://smaadebatten.origo.no/">Debatt</element>
+    <element href="/under_20/">Under20</element>
+    <element href="/5_rette/">5 rette</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/smaa_tv/">Smaa-TV</element>
+    <element href="/bildeserier/">Bilder</element>
+    <element href="/smaa_tv/ovre-TV/">Øvre-TV</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="http://smaalenene.e-pages.dk/" channel="desktop">E-avisen</element>
+    <element href="https://www.facebook.com/pages/Smaalenenes-Avis/274057979026?ref=hl">Facebook</element>
+    <element href="https://twitter.com/smaalenene">Twitter</element>
+    <element href="http://gamledageriindreostfold.origo.no/?ref=checkpoint">Historiske bilder</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/annonsearkiv/" channel="desktop">Annonsearkiv</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html">Bil til salgs</element>
+    <element href="/fotball/live/">Fotball LIVE</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/abonnere/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-smaalenene-avis-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

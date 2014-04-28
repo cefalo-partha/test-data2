@@ -1,40 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<menu name="topmenus">
-    <category title="Multimedia ">
-        <element href="http://akershus.e-pages.dk/">eAvis</element>
-        <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
-        <element href="/lager/article4169499.ece">Skip i fjorden</element>
-        <element href="https://twitter.com/Amta5">Twitter</element>
-        <element href="/vis/vaeret/?city=Frogn&amp;longitude=10.63&amp;latitude=59.65&amp;moh=40.0">Været</element>
-    </category>
-    <category title="Nyheter">
-        <element href="/lokale_nyheter/">Nyheter</element>
-        <element href="/lokal_sport/">Sport</element>
-        <element href="/kultur/">Kultur</element>
-        <element href="/bilder/">Bilder</element>
-        <element href="/webtv/">Video</element>
-        <element href="/boligmagasinet/">Bolig</element>
-        <element href="/motor">Bil&amp;Motor</element>
-    </category>
-    <category title="Tjenester">
-        <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
-        <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
-        <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
-        <element href="/derdubor/">Lokale bedrifter</element>
-        <element href="/vis/annonsearkiv">Ukens avisannonser</element>
-        <element href="/amtatorget/">Amtatorget</element>
-    </category>
-    <category title="Kundeservice">
-        <element href="/kundesenter/">Kundeservice / Min side</element>
-        <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
-        <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
-        <element href="/kundesenter/privat/abonnere/">Abonnement</element>
-        <element href="/kundesenter/">Adresseendring</element>
-        <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
-    </category>
-    <challengetop href="http://kampanje.amedia.no/2014-mars-akershus-amtstidende-6mnd-eavis-til-hele-familien?ns_campaign=fbm.afk1403a&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403a&amp;ns_linkname=fbm.afk1403a&amp;ns_fee=0">
-        <image src="http://192.168.0.100:8080/api/menueditor/v1/images/Pensive%20Parakeet.jpg"/>
-        <maintext>eAvis til familien</maintext>
-        <subtext>Prøv nå til 1/2 pris</subtext>
-    </challengetop>
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bilder/">Bilder</element>
+    <element href="/webtv/">Video</element>
+    <element href="/boligmagasinet/">Bolig</element>
+    <element href="/motor">Bil&amp;Motor</element>
+  </category>
+  <category title="Multimedia ">
+    <element href="http://akershus.e-pages.dk/">E-avis</element>
+    <element href="/lager/article4169499.ece">Skip i fjorden</element>
+    <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
+    <element href="https://twitter.com/Amta5">Twitter</element>
+    <element href="/vis/vaeret/?city=Frogn&amp;longitude=10.63&amp;latitude=59.65&amp;moh=40.0">Været</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/vis/annonsearkiv">Ukens avisannonser</element>
+    <element href="/amtatorget/">Amtatorget</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-akershus-amtstidende-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+
 </menu>

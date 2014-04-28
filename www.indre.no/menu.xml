@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Lokale nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/video/">Video</element>
+    <element href="http://indreakershusblad.e-pages.dk/">E-avis</element>
+  </category>
+  <category title="Tilleggstjenester">
+    <element href="https://www.facebook.com/pages/Indre-Akershus-Blad/127847860580008">Facebook</element>
+    <element href="/fotball/live/">Fotball LIVE</element>
+    <element href="/bil/">Bil</element>
+    <element href="/jobb/">Næring</element>
+    <element href="/bolig/">Eiendom</element>
+  </category>
+  <category title="Stilling/salg">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/bedrift/annonsere/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/annonsere/gratulasjon/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-indre-akershus-blad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

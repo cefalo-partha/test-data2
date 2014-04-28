@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Siste nytt</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur og underholdning</element>
+    <element href="/debatt">Debatt</element>
+    <element href="/friluftsliv" channel="desktop">Friluftsliv</element>
+    <element href="/spis-og-nyt" channel="desktop">Mat/drikke, restaurantanmeldelser</element>
+    <element href="/forbruker/motor" channel="desktop">Bil og motor</element>
+    <element href="/forbruker/eiendom" channel="desktop">Eiendom, interiør og bolig</element>
+    <element href="/video">MAtv/video</element>
+    <element href="/skoleavis">Skole-avisene</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/video">MAtv/video</element>
+    <element href="/bildegallerier">Bildegallerier</element>
+    <element href="/video/historiske-filmer">Historiske videoer</element>
+    <element href="/video/leservideo">Lesernes videoer</element>
+    <element href="http://moss-avis.no/vis/videotips/">Send oss din leservideo</element>
+    <element href="http://eavis.moss-avis.no/epaper/viewer.aspx" channel="desktop">e-avis</element>
+    <element href="https://www.facebook.com/mossavis">Følg Moss Avis på Facebook</element>
+    <element href="https://twitter.com/">Følg Moss Avis på Twitter @mossavis</element>
+    <element href="http://lokaleblogger.moss-avis.no/" channel="desktop">Bloggportalen: Lokale bloggere</element>
+    <element href="/billettkontoret" channel="desktop">Billettkontoret: Kjøp billetter</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/torg.html?localGeo=true" channel="desktop">Smått og stort: Torget</element>
+    <element href="/sport/spillsenteret" channel="desktop">Spillsenter: Tipping</element>
+    <element href="/kultur/agenda">Kalender: Det skjer</element>
+    <element href="/vis/personalia/">Dine sider: Send en hilsen</element>
+    <element href="http://minside.moss-avis.no/kontakt?ssoAction=getAuthId#contacttab2" channel="desktop">Tips oss</element>
+    <element href="http://lokaleblogger.moss-avis.no/" channel="desktop">Lokale bloggere</element>
+    <element href="/vis/vaeret" channel="desktop">Værmelding</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.moss-avis.no/">Kundeservice / Min side</element>
+    <element href="http://minside.moss-avis.no/annonsering" channel="desktop">Sett inn annonse</element>
+    <element href="/vis/personalia/">Hilsen / gratulasjon/ nyfødt</element>
+    <element href="http://minside.moss-avis.no/abonnement">Abonnement</element>
+    <element href="http://minside.moss-avis.no/login" channel="desktop">Adresseendring</element>
+    <element href="http://minside.moss-avis.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.moss-avis.no/kontakt">Kontakt oss</element>
+    <element href="http://www.prisguide.no/" channel="desktop">Prisguide</element>
+    <element href="http://annonsearkiv.moss-avis.no/" channel="desktop">Annonsearkiv</element>
+    <element href="http://moss-avis.no/vis/videotips/" channel="desktop">Send oss en video</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-moss-avis-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+</menu>

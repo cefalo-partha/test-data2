@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/Rikssport/">Sport</element>
+    <element href="/kulturliv/">Kulturliv</element>
+    <element href="/jobb/">Næringsliv</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/video/">Video</element>
+    <element href="/bildeserier/">Bildegallerier</element>
+    <element href="http://jarlsbergavis.e-pages.dk/">E-avis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/bursdagsbilder/">Bursdagshilsen</element>
+    <element href="/vis/rubrikk/onlinebooking/">Rubrikkannonse</element>
+    <element href="/bildebestilling/">Bildebestilling</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Langgaten 34, postboks 303, 3081 Holmestrand</element>
+    <element href="mailto:ingunn.larsen@jarlsbergavis.no">Ansvarlig redaktør: Ingunn Larsen</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://presse.no/Klage-til-PFU">PFU</element>
+    <element>jarlsbergavis.no lagres reglemessig av Nasjonalbiblioteket.</element>
+    <element>COPYRIGHT: Jarlsberg Avis 2014</element>
+  </category>
+</footer>

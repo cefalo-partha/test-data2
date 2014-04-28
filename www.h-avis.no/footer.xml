@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/puls">Puls</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/folk">Folk</element>
+    <element href="/næring">Næringsliv</element>
+    <element href="/bolig">Bolig</element>
+    <element href="/motor">Motor</element>
+  </category>
+  <category title="Innhold">
+    <element href="http://www.htv.no">HTV</element>
+    <element href="http://www.radio102.no">Radio 102</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="http://www.h-avis.no/webkamera">Webkamera</element>
+    <element href="/vis/personalia">Gratulasjoner</element>
+    <element href="/vis/videotips">Videotips</element>
+    <element href="http://eavis.h-avis.no/epaper/viewer.aspx">eAvis</element>
+    <element href="http://www.facebook.com/haugesundsavis">Facebook</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret">Været</element>
+    <element href="/nyheter/disse-veiene-er-stengt-1.8271913">Stengte veier</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://annonsearkiv.h-avis.no/">Avisannonser</element>
+    <element href="http://kunngjoringer.h-avis.no/">Kunngjøringer</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/eiendom.html?catId=16000">Bolig til salgs</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bil til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto: jan.tore.hamoy@h-avis.no">Administrerende direktør/ansvarlig redaktør Jan Tore Hamnøy</element>
+    <element href="mailto: arnstein.olaisen@h-avis.no">Redaktør Arnstein Olaisen</element>
+    <element href="mailto: einar.tho@h-avis.no">Samfunnsredaktør Einar Tho</element>
+    <element href="mailto: christian.andersen@h-avis.no">TV- og digitalredaktør Christian S. Andersen</element>
+    <element href="mailto: rune.lothe@h-avis.no">Digitaldirektør Rune Lothe</element>
+    <element href="mailto: knut.stian.lervik@h-avis.no">Markedsdirektør Knut Stian Lervik</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

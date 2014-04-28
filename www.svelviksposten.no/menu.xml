@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/n%C3%A6ringsliv">Næringsliv</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/kommentar/leder">Leder</element>
+    <element href="/kommentar/leserbrev">Leserbrev</element>
+    <element href="http://eavis.svelviksposten.no/">eAvis</element>
+  </category>
+  <category title="Hva Skjer">
+    <element href="/hva-skjer">Hva Skjer</element>
+    <element href="/diverse/svelvik-guiden-1.3122876">Svelvikguiden</element>
+    <element href="https://www.facebook.com/pages/Svelviksposten/119167908146116">Facebook</element>
+  </category>
+  <category title="Annonser">
+    <element>Bolig til salgs</element>
+    <element>Stilling ledig</element>
+    <element>Bil til salgs</element>
+    <element href="http://annonsearkiv.svelviksposten.no">Ukens avisannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.svelviksposten.no/">Kundeservice / Min side</element>
+    <element href="http://minside.svelviksposten.no/annonsering?ssoAction=getAuthId">Sett inn annonse</element>
+    <element href="http://minside.svelviksposten.no/annonsering/gratulasjon">Send hilsen og gratulasjon</element>
+    <element href="http://minside.svelviksposten.no/abonnement">Abonnement</element>
+    <element href="http://minside.svelviksposten.no/abonnement">Adresseendring</element>
+    <element href="mailto: redaksjon@svelviksposten.no">Tips oss</element>
+    <element href="mailto: redaksjon@svelviksposten.no">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-svelviksposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

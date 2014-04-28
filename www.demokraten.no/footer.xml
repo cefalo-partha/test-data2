@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokalnytt/">Nyheter</element>
+    <element href="/lokalsport/">Sport</element>
+    <element href="/ffk/">FFK</element>
+    <element href="/kulturnytt/">Kultur</element>
+    <element href="/bilsider/">Bil &amp; Motor</element>
+    <element href="/boligmagasinet/">Bolig &amp; Eiendom</element>
+    <element href="/jobb/">Næringsliv</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/tv/">D-TV</element>
+    <element href="/bildeserier/">Bildegalleri</element>
+    <element href="/fotball/live/">Fotball LIVE</element>
+    <element href="/vis/personalia/">Bursdaghilsen</element>
+    <element href="https://www.facebook.com/Demokraten.no?ref=hl">Facebook</element>
+    <element href="http://w.w.w.demokraten.no/instagram">Instagram</element>
+    <element href="https://twitter.com/Demokraten2">Twitter</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/?city=Fredrikstad&amp;longitude=10.94&amp;latitude=59.21&amp;moh=13.0">Været</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="http://demokraten.e-pages.dk/">eAvis</element>
+    <element href="http://demokraten.no/kalender">Hva skjer</element>
+    <element href="/kundesenter/">Kundeservice</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://Besøksadresse: Nygaardsgaten 36/38">Adresse: Postboks 83, 1601 Fredrikstad</element>
+    <element href="mailto:tomm@demokraten.no">Ansvarlig redaktør: Tomm Pentz Pedersen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+  </category>
+</footer>

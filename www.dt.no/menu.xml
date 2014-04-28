@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/godset">Godset</element>
+    <element href="/sport/mif">MIF</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/næringsliv">Næringsliv</element>
+    <element href="/forbruker/bolig-og-interiør">Bolig</element>
+    <element href="/pluss">DT+</element>
+    <element href="https://drive.google.com/file/d/0B7wy0sp3FD_nUWhKTHU3Q3p0ajA/edit?usp=sharing">Drammen NÅ (eAvis)</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/dttv">DTTV</element>
+    <element href="/bildeserier">Bildegalleri</element>
+    <element href="/bildeserier/historiske-bilder-bildeserier">Historiske bilder</element>
+    <element href="http://eavis.dt.no/epaper/viewer.aspx" channel="desktop">eAvis</element>
+    <element href="/instagram">Instagram</element>
+    <element href="https://www.facebook.com/drammenstidende">Facebook</element>
+    <element href="https://twitter.com/drammenstidende">Twitter</element>
+    <element href="/vis/videotips/">Send oss video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/tips-til-redaksjonen/">Tips oss</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="http://dt.no/ut">UT-guiden / Hva skjer?</element>
+    <element href="/sport/spillsenteret">Spillsenter</element>
+    <element href="http://annonsearkiv.dt.no" channel="desktop">Ukens papirannonser</element>
+    <element href="/vis/rubrikk/motor.html?catId=10000">Bil til salgs</element>
+    <element href="/vis/rubrikk/eiendom.html?catId=16000&amp;localGeo=true&amp;transId=1">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="http://mitt.dt.no/skriv_hilsen.php?do=ny">Send hilsen</element>
+    <element href="https://drive.google.com/file/d/0B7wy0sp3FD_nUWhKTHU3Q3p0ajA/edit?usp=sharing">Boligmagasinet</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.dt.no">Kundeservice / Min side</element>
+    <element href="mailto:privatannonser@dt.no">Sett inn annonse</element>
+    <element href="http://minside.dt.no/pakker">Abonnement</element>
+    <element href="http://minside.dt.no/abonnement">Adresseendring</element>
+    <element href="http://minside.dt.no/kontakt">Kontakt</element>
+    <element href="/fordeler">Fordeler</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-drammens-tidende-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

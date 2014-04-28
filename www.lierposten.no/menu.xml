@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/kommentar">Kommentar</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildegalleri">Bildegalleri</element>
+    <element href="/lier-tv">Lier-TV</element>
+    <element href="https://www.facebook.com/pages/Lierposten/286619663265">Lierposten på Facebook</element>
+    <element href="https://twitter.com/Lierpostenavis">Lierposten på Twitter</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/personalia/">Personalia</element>
+    <element href="http://eavis.lierposten.no/epaper/viewer.aspx">eAvis</element>
+    <element href="/lierguiden">Lierguiden</element>
+    <element href="http://kunngjoringer.lierposten.no/">Kunngjøringer</element>
+    <element href="http://annonsearkiv.lierposten.no/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.lierposten.no/">Kundeservice / Min side</element>
+    <element href="http://minside.lierposten.no/annonsering?ssoAction=getAuthId">Sett inn annonse</element>
+    <element href="http://minside.lierposten.no/abonnement">Abonnement</element>
+    <element href="http://minside.lierposten.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.lierposten.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-lierposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

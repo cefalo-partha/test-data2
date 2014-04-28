@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/bolig">Bolig</element>
+    <element href="/bil-og-motor">Bil og motor</element>
+    <element href="http://mat.varden.no/" channel="desktop">Mat og drikke</element>
+    <element href="/kultur/hva-skjer">Hva skjer i Telemark</element>
+    <element href="http://min.varden.no/">Min Varden</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/videoarkiv">Video</element>
+    <element href="/bildeserier">Bildegalleri</element>
+    <element href="http://bilder.varden.no">Bildearkivet</element>
+    <element href="/webkamera">Webkamera</element>
+    <element href="http://eavis.varden.no/epaper/viewer.aspx" channel="desktop">eAvis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/eiendom.html?catId=16000">Bil til salgs</element>
+    <element href="/vis/vaeret">Været</element>
+    <element href="/diverse/lokal-v%C3%A6rstasjon" channel="desktop">Lokal værstasjon</element>
+    <element href="http://kunngjoringer.varden.no/">Kunngjøringer</element>
+    <element href="http://annonsearkiv.varden.no/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="https://www.facebook.com/pages/Varden/188576867917">Facebook</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.varden.no/">Kundeservice / Min side</element>
+    <element href="http://minside.varden.no/annonsering">Sett inn annonse</element>
+    <element href="http://minside.varden.no/annonsering/gratulasjon">Send hilsen</element>
+    <element href="http://minside.varden.no/abonnement">Abonnement</element>
+    <element href="http://minside.varden.no/login">Adresseendring</element>
+    <element href="http://minside.varden.no/kontakt/tips">Tips oss</element>
+    <element href="http://minside.varden.no/kontakt">Kontakt</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

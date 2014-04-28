@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/web-tv/">Nordlys TV</element>
+    <element href="/debatt/">Debatt</element>
+    <element href="/naring/">Næring</element>
+    <element href="/sporten/">Sport</element>
+    <element href="/sporten/til/">TIL</element>
+    <element href="/fotball/live/">Fotball Live</element>
+    <element href="/magasin/">Magasin</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/bolig/">Bolig</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/sok.html?localGeo=true&amp;transId=2">Til leie</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/sok.html?localGeo=true&amp;catId=4000">Småttogstort</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="http://nordlys.e-pages.dk/">E-avis</element>
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send en hilsen</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/#Redaksjon-1">Kontakt redaksjonen</element>
+    <element href="/rss/article1856896.ece">RSS</element>
+  </category>
+  <challengetop href="http://nordlys.e-pages.dk/">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Nordlys_149_per_mnd.png"/>
+    <maintext>Prøv oss digitalt</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

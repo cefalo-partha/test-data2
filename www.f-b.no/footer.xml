@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/fbtv">FBTV</element>
+    <element href="/ffk">FFK</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/nytte/bolig-og-interi%C3%B8r">Bolig</element>
+    <element href="/debatt">Debatt</element>
+    <element href="/nytte/motor-trafikk">Motor &amp; Trafikk</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/vis/videotips/">Last opp din video her</element>
+    <element href="/fbtv">FBTV</element>
+    <element href="/bildeserier">Bildeserier</element>
+    <element href="/bildeserier/historiske-bilder-bildeserier">Historiske bilder</element>
+    <element href="https://www.facebook.com/fredriksstadblad?fref=ts">Fredriksstad Blad på Facebook</element>
+    <element href="https://twitter.com/FrBlad">Fredriksstad Blad på Twitter</element>
+    <element href="http://eavis.f-b.no/epaper/viewer.aspx">E-avis</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://eavis.f-b.no/epaper/viewer.aspx">E-avis</element>
+    <element href="http://minside.f-b.no/annonsering">Annonsere</element>
+    <element href="http://minside.f-b.no/pakker">Bestill abonnement</element>
+    <element href="http://kunngjoringer.f-b.no/">Kunngjøringer</element>
+    <element href="http://f-b.no/derdubor/">Lokale bedrifter</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/kultur/ut-i-dag">Ut i dag</element>
+    <element href="/kultur/restaurantanmeldelser">Restaurantanmeldelser</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Stortorvet 3, 1601 Fredrikstad</element>
+    <element href="mailto: rene.svendsen@f-b.no">Ansvarlig redaktør: René Svendsen</element>
+    <element href="mailto: espen.normann@f-b.no">Nettredaktør: Espen Normann</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element href="mailto: tips@f-b.no">Tips oss!</element>
+    <element>TLF: 46 80 77 77</element>
+  </category>
+</footer>

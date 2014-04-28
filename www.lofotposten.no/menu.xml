@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Aktuelt">
+    <element href="/lokale_nyheter">Nyheter</element>
+    <element href="/tv">Nett-tv</element>
+    <element href="/lokal_sport">Sport</element>
+    <element href="/Naeringsliv">Næringsliv</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/bolig">Eiendomsnett</element>
+    <element href="/motor">Motormagasin</element>
+    <element href="/lokalebildeserier">Bildemagasin</element>
+    <element href="/webkamera">Webkamera</element>
+    <element href="http://www.lofotposten.e-pages.dk">E-avis</element>
+  </category>
+  <category title="Leserbidrag ">
+    <element href="/vis/videotips">Last opp video</element>
+    <element href="/vis/personalia">Gratulasjoner</element>
+    <element href="http://www.lesersida.no">Lesersida</element>
+    <element href="http://www.lofotdebatt.origo.no">Leserbrev</element>
+    <element href="/kalender">Kalender</element>
+    <element href="http://www.facebook.com/lofotposten">Facebook</element>
+    <element href="http://statigr.am/lofotposten">Instagram</element>
+    <element href="https://twitter.com/lofotposten">Twitter</element>
+    <element href="/kundesenter/kontakt-oss/ansatte">Kontakt oss</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs">Bil til salgs</element>
+    <element href="/vis/rubrikk/onlinebooking">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings/new">Sett inn hilsen</element>
+    <element href="https://itunes.apple.com/no/app/lofotposten.no/id637678660?mt=8">Nyhetsvarsel</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/vaeret/">Været</element>
+    <element href="https://itunes.apple.com/no/app/lofotposten/id442698569?l=nb&amp;ls=1&amp;mt=8">App til E-avis</element>
+    <element href="/lokale_nyheter/article5625369.ece" channel="desktop">Følg båttrafikken</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundeservice">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere">Sett inn annonse</element>
+    <element href="/vis/personalia/greetings/new">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere">Abonnement</element>
+    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss">Tips oss</element>
+    <element href="http://lofotposten.e-pages.dk">E-avis</element>
+    <element href="/kundesenter/kontakt-oss/ansatte">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-lofotposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

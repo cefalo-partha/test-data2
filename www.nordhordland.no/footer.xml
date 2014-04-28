@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyhende">
+    <element href="/nyhende">Nyhende</element>
+    <element href="/sport">Sport</element>
+    <element href="/puls">Puls</element>
+    <element href="/jobb">Næringsliv/jobb</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://nordhordland.e-pages.dk">eAvis</element>
+    <element href="/bildeseriar">Bildeserier</element>
+    <element href="https://www.facebook.com/avisanh">facebook</element>
+    <element href="https://twitter.com/AvisaNh">twitter</element>
+    <element href="http://nordhordland">instagram</element>
+    <element>video</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter">Kundeservice</element>
+    <element href="/kundesenter/privat">Sett inn annonse</element>
+    <element href="/vis/personalia">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss">Kontakt</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse:Kvernhusmyrane 29. 5914 Isdalstø</element>
+    <element href="mailto: randi@nordhordland.no">Ansvarlig redaktør: Randi Bjørlo</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>nordhordland.no vert lagra regelmessig av Nasjonalbiblioteket. Nettsida vil bli gjort tilgjengeleg som kildemateriale for forsking og dokumentasjon</element>
+    <element>AVISA NORDHORDLAND COPYRIGHT © 2014</element>
+    <element>Tipstelefon: 916 20 916</element>
+  </category>
+</footer>

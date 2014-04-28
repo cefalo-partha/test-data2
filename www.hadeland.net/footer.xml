@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/Nyheter/lokale_nyheter/">Nyheter</element>
+    <element href="/lokal_sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/ifarta/">Bil</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobb/">Næringsliv</element>
+  </category>
+  <category title="">
+    <element href="/vis/videotips/">Del din video!</element>
+    <element href="/lokale_bildeserier/">Bildeserier</element>
+    <element href="/Video_import/">Videosnutter</element>
+  </category>
+  <category title="">
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;transId=11&amp;localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/Nyheter/lokale_nyheter/article7087133.ece">Sjekk skiføret!</element>
+    <element href="/kalender">Det skjer</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="http://hadeland.e-pages.dk/">E-avis</element>
+    <element href="/vis/vaeret/">Været</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto:ssb@hadeland.net">Ansvarlig redaktør: Sissel Skjervum Bjerkehagen</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>hadeland.net lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>Avisen Hadeland COPYRIGHT © 2014</element>
+  </category>
+</footer>

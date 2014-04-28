@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/lokalenyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/lokalkultur/">Kultur</element>
+    <element href="/motormagasin/">Motor</element>
+    <element href="/jobb/">Næringsliv</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/spillsenteret/">Spillsenter</element>
+    <element href="/vis/videotips/">Del videoer med oss</element>
+    <element href="http://malvikbladet.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Treffpunkt">
+    <element href="http://www.malvikpuls.no/-/local_paper/show/61_malvikpuls">Malvikpuls</element>
+    <element href="https://www.facebook.com/pages/MalvikBladet/260413091724?fref=ts">Facebook</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+    <element href="/bolig/">Bolig til salgs</element>
+    <element href="/jobb/">Stilling ledig</element>
+    <element href="/motormagasin/">Bil til salgs</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/vis/personalia/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-malvikbladet-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

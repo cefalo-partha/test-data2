@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/motormagasinet/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobbmagasinet/">Næring</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/Video_import/">Video</element>
+    <element href="/webkamera">Webkamera</element>
+    <element href="/evigung">Evig Ung</element>
+    <element href="http://lofottidende.e-pages.dk/index.php" channel="desktop">E-Avis</element>
+    <element href="/nyheter/article5454345.ece">Skipstrafikken</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/kundesenter/">Kundeservice</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="https://www.facebook.com/lofottidende">Følg oss på Facebook</element>
+    <element href="/vis/rubrikk/bolig_til_salgs.html?localGeo=true">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html?localGeo=true&amp;catId=10000">Bil til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 4, 8376 Leknes. Tlf: 760 54000 (dagtid)</element>
+    <element href="mailto:ra@lofot-tidende.no">Ansvarlig redaktør: Rune Andreassen</element>
+    <element href="mailto:marked@lofot-tidende.no">Annonser</element>
+    <element href="mailto:tips@lofot-tidende.no">Tips oss</element>
+    <element href="http://presse.no/Etisk-regelverk/Vaer-Varsom-plakaten">Lofot-Tidende redigeres i henhold til Vær Varsom plakaten, Redaktørplakaten og Tekstreklameplakaten</element>
+    <element>LOFOT-TIDENDE COPYRIGHT © 2014</element>
+  </category>
+</footer>

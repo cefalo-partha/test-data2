@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheiter">
+    <element href="/hfnyheiter/">Nyheiter</element>
+    <element href="/hfsport/">Sport</element>
+    <element href="/hfkultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/motor/">Motor</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/Video_import/">Video</element>
+    <element href="http://hardanger.e-pages.dk/">E-avis</element>
+    <element href="/webkamera/">Webkamera</element>
+  </category>
+  <category title="Tenester">
+    <element href="/bolig/#forsale">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/vaeret/?city=Odda&amp;longitude=6.55&amp;latitude=60.07&amp;moh=3.0">Været</element>
+    <element href="https://www.facebook.com/pages/Hardanger-Folkeblad/150277975034518">Følg oss på Faceook</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/mi-side/">Abonnement</element>
+    <element href="/kundesenter/privat/mi-side/">Adresseendring</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-hardanger-folkeblad-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisa?</maintext>
+    <subtext>Bestill eAvisa no</subtext>
+  </challengetop>
+
+
+
+</menu>

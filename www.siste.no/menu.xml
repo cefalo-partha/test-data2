@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/Innenriks/">Innenriks</element>
+    <element href="/Innenriks/politikk/">Politikk</element>
+    <element href="/utenriks/">Utenriks</element>
+    <element href="/sport/">Sport</element>
+    <element href="/fotball/">Fotball</element>
+    <element href="/underholdning/">Kultur</element>
+    <element href="http://sokelys.origo.no/">Meninger</element>
+    <element href="/underholdning/grand_prix/">Melodi Grand Prix</element>
+  </category>
+  <category title="Temasider">
+    <element href="/boligmagasinet/">Boligmagasinet</element>
+    <element href="/motormagasinet/">Motormagasinet</element>
+    <element href="/teknologi/">Teknologi</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/ferie/">Reiseliv</element>
+    <element href="/tv">Web-TV</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/fotball/live/">Live fotball</element>
+    <element href="/spillsenteret/">Odds og fotballtips</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/onlinebooking/">Bolig til salgs</element>
+    <element href="/vis/rubrikk/onlinebooking/">Stilling ledig</element>
+    <element href="/vis/rubrikk/onlinebooking/">Bil til salgs</element>
+    <element href="https://www.facebook.com/Sisteno">Facebook siste.no</element>
+    <element href="https://www.facebook.com/SisteFotball">Facebook fotball</element>
+    <element href="https://twitter.com/ANBsiste">Twitter</element>
+    <element href="http://samfunnet.origo.no/">Samfunnet</element>
+    <element href="/rss/article1903386.ece">RSS-feeder</element>
+    <element href="/Innenriks/article1909679.ece">Amedia-aviser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/dashboard/article7175466.ece">Om siste.no</element>
+    <element href="/Innenriks/article1909751.ece">Tips oss</element>
+    <element href="http://www.anb.no/?idx=3">Kontakt</element>
+    <element href="/vis/videotips">Last opp foto/video</element>
+  </category>
+  <challengetop href="">
+    <image src=""/>
+    <maintext/>
+    <subtext/>
+  </challengetop>
+</menu>

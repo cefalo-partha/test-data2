@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter">Nyheter</element>
+    <element href="/naring">Næringsliv</element>
+    <element href="/sport">Sport</element>
+    <element href="/sporten/til">TIL</element>
+    <element href="/kultur">Kultur</element>
+    <element href="/debatt">Debatt</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/web-tv/">TV</element>
+    <element href="http://nordlys.e-pages.dk">eAvis</element>
+    <element href="/bilder">Bildeserier</element>
+    <element href="http://www.facebook.com/bladetnordlys">Facebook</element>
+    <element href="http://twitter.com/bladetnordlys">Twitter</element>
+    <element href="http://www.instagram.com/bladetnordlys">Instagram</element>
+  </category>
+  <category title="Tjenester">
+    <element href="mailto: tips@nordlys.no">Tipstelefon 776 10 500</element>
+    <element href="/vis/videotips/">Last opp din video her</element>
+    <element>SMS/MMS til 2097 kodeord NORDLYS</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/annonsere/">Annonsere</element>
+    <element href="/vis/personalia/">Send en hilsen</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto:kundesenter@nordlys.no">Kontakt oss: Rådhusgata 3, boks 2515, 9272 Tromsø Tlf. 07760</element>
+    <element href="mailto:cecilie.stefanussen@nordlys.no">Annonser: Bedrift/nett: Annonseselger Cecilie Stefanussen</element>
+    <element href="mailto:annonse@nordlys.no">Annonser: Privat: Tlf 07760</element>
+    <element href="http://Mailto:anders.opdahl@nordlys.no">Sjefredaktør: Anders Opdahl</element>
+    <element href="mailto:danny.pellicer@nordlys.no">Digitalredaktør: Danny J. Pellicer</element>
+    <element href="mailto:nils.harald.hansen@nordlys.no">Adm.dir: Nils H. Hansen</element>
+    <element href="http://www.pfu.no">PFU</element>
+    <element href="http://Les rapporten: Nordlys i samfunnet Se juileumsvideo: /web-tv/article5875512.ece">Nordlys i samfunnet</element>
+  </category>
+</footer>

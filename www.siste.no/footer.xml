@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/Innenriks/">Innenriks</element>
+    <element href="/Innenriks/politikk/">Politikk</element>
+    <element href="/utenriks/">Utenriks</element>
+    <element href="/sport/">Sport</element>
+    <element href="/fotball/">Fotball</element>
+    <element href="/underholdning/">Kultur</element>
+    <element href="/tv">Siste.no TV</element>
+  </category>
+  <category title="Magasiner">
+    <element href="/boligmagasinet/">Boligmagasinet</element>
+    <element href="/motormagasinet/">Motormagasinet</element>
+    <element href="/fotball/live/">Live fotball</element>
+    <element href="/spillsenteret/">Odds og fotballtips</element>
+    <element href="/ferie/">Reiseliv</element>
+    <element href="/naringsliv/">Næringsliv</element>
+    <element href="/teknologi/">Teknologi</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/videotips/">Last opp bilde/video</element>
+    <element href="https://www.facebook.com/Sisteno">Facebook</element>
+    <element href="https://twitter.com/ANBsiste">Twitter</element>
+    <element href="/rss/article1903386.ece">RSS-feeder</element>
+    <element href="/vis/rubrikk/onlinebooking/">Bolig til salgs</element>
+    <element href="/vis/rubrikk/onlinebooking/">Stilling ledig</element>
+    <element href="/vis/rubrikk/onlinebooking/">Bil til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="mailto:hallgeir.westrum@anb.no">Ansvarlig redaktør: Hallgeir Westrum</element>
+    <element>Adresse: Postboks 8713 Youngstorget 0028 Oslo</element>
+    <element>Telefon: Redaksjonen: 22998440 Sporten: 22998436</element>
+    <element href="http://www.anb.no/?idx=22">Kundeweb ANB</element>
+    <element href="http://www.nored.no/Redaktoeransvar/Redaktoerplakaten">Redaktøransvar</element>
+    <element>Siste.no lagres regelmessig av Nasjonalbiblioteket i henhold til pliktavleveringsloven</element>
+  </category>
+</footer>

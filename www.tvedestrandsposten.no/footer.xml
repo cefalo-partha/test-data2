@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/Sport/">Sport</element>
+    <element href="/kulturliv/">Kultuliv</element>
+    <element href="/bildeserier/">Bildegalleri</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/debatt/">Meninger</element>
+    <element href="/video/">Video</element>
+    <element href="/Innenriks/">Innenriks</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/webkamera/">Webkamera Tvedestrand</element>
+    <element href="/webkamera/lyngor/">Webkamera Lyngør</element>
+    <element href="/webkamera/sandoya/">Webkamera Sandøya</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="http://tvedestrandsposten.e-pages.dk/">eAvis</element>
+  </category>
+  <category title="Tjenster">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="https://www.facebook.com/tvedestrandsposten?ref=ts&amp;fref=ts">Facebook</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="mailto:bursdag@tvedestrandsposten.no">Bursdagshilsen, gratulasjoner og annet personaliastoff</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Hovedgata 54, pb.54 4900 Tvedestrand</element>
+    <element>Ansvarlig redaktør: Marianne Drivdal</element>
+    <element>PFU</element>
+    <element>tvedestrandsposten.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+  </category>
+</footer>

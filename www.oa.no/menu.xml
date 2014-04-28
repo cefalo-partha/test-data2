@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="/nyheter/valdres/">Valdres</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/motor/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/jobb/">Jobb</element>
+  </category>
+  <category title="Bilder">
+    <element href="/nyheter/videonyheter/">Web-TV</element>
+    <element href="/bildesamlinger/">Bildeserier</element>
+    <element href="/eavis/">E-avis</element>
+    <element href="/herb/">Herb</element>
+    <element href="/navn/nygifte/">Brudepar</element>
+    <element href="/navn/velkommen_til_verden/">Nyfødte</element>
+    <element href="/vis/personalia/greetings/kinds/birthday">Bursdager</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/kundesenter/privat/annonsere/">Bestill annonse</element>
+    <element href="/vis/personalia/greetings/new">Legge inn hilsen</element>
+    <element href="/spillsenteret/">Spillsenteret</element>
+    <element href="http://hjem-kjaere-hjem.origo.no/">Hjem kjære hjem</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+    <element href="/kundesenter/privat/annonsere/">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/privat/abonnere/">Adresseendring</element>
+    <element href="mailto: tips@oa.no">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-april-oppland-arbeideblad-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+    <maintext>8 uker for kun 99 kr</maintext>
+    <subtext>Billigere blir det ikke!</subtext>
+  </challengetop>
+
+
+
+</menu>

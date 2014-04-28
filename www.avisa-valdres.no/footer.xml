@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Kundeservice">
+    <element>Adresse: Skrautvålsvegen 15, 2900 Fagernes</element>
+    <element href="mailto:ivar.brynildsen@valdresmedia.no">Sjefredaktør og daglig leder: ivar.brynildsen@valdresmedia.no</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://Tlf. 61364200">Sentralbord</element>
+    <element href="mailto: redaksjonen@avisa-valdres.no">Tips oss</element>
+    <element href="mailto:annonse@avisa-valdres.no">Bestill annonse</element>
+  </category>
+</footer>

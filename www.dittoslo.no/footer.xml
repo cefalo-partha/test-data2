@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="http://skjerioslo.dittoslo.no/">skjeriOslo</element>
+    <element href="/indre-by">Indre by</element>
+    <element href="/nordstrands-blad">Nordstrands Blad</element>
+    <element href="/lokalavisengroruddalen">Lokalavisen Groruddalen</element>
+    <element href="/nordre-aker">Nordre Aker Budstikke</element>
+    <element href="/ullern-avis-akersposten">Ullern Avis Akersposten</element>
+    <element href="/nyheter">Nyheter</element>
+    <element href="/sport">Sport</element>
+  </category>
+  <category title="Spesialsider">
+    <element href="/eiendom-i-oslo">Eiendom</element>
+    <element href="/forbruker/bil-og-trafikk">Bil i Oslo</element>
+    <element href="/stilling-i-oslo">Stilling</element>
+    <element href="/meninger">Meninger</element>
+    <element href="/nyheter/ung">Ungdomsredaksjonen</element>
+    <element href="/vis/vaeret">Vær</element>
+    <element href="/video">Video</element>
+    <element href="/bildeserier">Bildeserier</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/eiendom-i-oslo">Bolig til salgs</element>
+    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="http://annonsearkiv.dittoslo.no/">Avisannonser</element>
+    <element href="http://dittoslo.no/derdubor/">Lokale bedrifter</element>
+    <element href="http://os.lokalguiden.no/">Lokalguiden</element>
+    <element href="http://minside.dittoslo.no/?ssoAction=getAuthId">Kundeservice</element>
+    <element href="http://minside.dittoslo.no/annonsering">Sett inn annonse</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://minside.dittoslo.no/kontakt">Utgiver: Mediehuset dittOslo AS</element>
+    <element>Postboks 795 Sentrum, 0106 Oslo</element>
+    <element href="mailto:tore.bollingmo@dittoslo.no">Ansvarlig redaktør: Tore Bollingmo</element>
+    <element href="mailto:hege.braaten@dittoslo.no">Nyhetsredaktør: Hege Braaten</element>
+    <element href="mailto:christian.hakso@dittoslo.no">Nettsjef: Christian Haksø</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>DittOslo Copyright © 2014</element>
+  </category>
+</footer>

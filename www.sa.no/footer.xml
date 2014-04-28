@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/sport/sarpsborg08/">Sarpsborg 08</element>
+    <element href="/sport/sparta_warriors/">Sparta Warriors</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/meninger/">Meninger</element>
+    <element href="/motor/">Motor</element>
+    <element href="/bolig/">Bolig</element>
+  </category>
+  <category title="Multimedia">
+    <element href="http://sarpsborg.e-pages.dk/">E-avis</element>
+    <element href="/sa_tv/">SA.TV</element>
+    <element href="/bildeserier/">Bilder</element>
+    <element href="https://www.facebook.com/sarpsborgarbeiderblad">Facebook</element>
+    <element href="/nettradio/">Nettradio</element>
+    <element href="/vis/videotips/">Last opp video</element>
+    <element href="/om_sa/rss/">RSS</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/personalia/greetings">Send hilsen</element>
+    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Besøksadresse: Festiviteten, Sandesundsveien 2, Sarpsborg</element>
+    <element>Postadresse: Postboks 83, 1701 Sarpsborg</element>
+    <element>Telefon: 69 11 11 11</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>sa.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element href="mailto:bernt.lyngstad@sa.no">Ansvarlig redaktør: Bernt Lyngstad</element>
+    <element href="mailto:petter.kalnes@sa.no">Nyhetsredaktør: Petter Kalnes</element>
+  </category>
+</footer>

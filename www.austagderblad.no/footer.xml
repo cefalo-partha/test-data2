@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="">
+    <element href="/lokale_nyheter/">Nyheter</element>
+    <element href="/sport/">Sport</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil og motor</element>
+  </category>
+  <category title="">
+    <element href="/tv/">AAB TV</element>
+    <element href="/lokale_nyheter/article7155834.ece">Lemur TV</element>
+    <element href="/bildeserier/article5505126.ece">Uka i bilder</element>
+    <element href="/bildeserier/article3145581.ece">Husker du?</element>
+    <element href="/kamera/">Webcamera</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/vis/videotips/">Last opp leservideo</element>
+  </category>
+  <category title="">
+    <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/vis/vaeret/">Været</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Solsiden 12, Postboks 40, 4951 RISØR</element>
+    <element>Sentralbord  37 14 91 00</element>
+    <element href="mailto:rolf.roisland@austagderblad.no">Ansvarlig redaktør: Rolf Røisland</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>Aust Agder Blad   COPYRIGHT © 2014</element>
+  </category>
+</footer>

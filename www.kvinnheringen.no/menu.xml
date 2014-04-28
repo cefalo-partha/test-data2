@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Framsida">
+    <element href="/nyhende/">Nyhende</element>
+    <element href="/kultur/">Kultur</element>
+    <element href="/sport/">Sport</element>
+    <element href="/lokalebildeseriar/">Bildeseriar</element>
+    <element href="/nyhende/article6182831.ece">Lokale bloggar</element>
+    <element href="/nyhende/article7170203.ece">Lokale nettsider</element>
+    <element href="/webkamera/">Webkamera</element>
+  </category>
+  <category title="Kontakt">
+    <element href="/kontaktoss/">Kontakt oss</element>
+    <element href="/kontaktoss/">Tips oss</element>
+    <element href="http://www.facebook.com/kvinnheringen">Finn oss på Facebook</element>
+    <element href="/kundesenter/">Bestill avisa</element>
+  </category>
+  <category title="Tenester">
+    <element href="/vis/rubrikk/eiendom.html">Bustad til sals</element>
+    <element href="/vis/rubrikk/jobb.html">Ledige stillingar</element>
+    <element href="/vis/rubrikk/motor.html">Bil til sals</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="http://kvinnheringen.e-pages.dk/">E-avis</element>
+    <element href="/kundesenter/bedrift/">Annonse bedrift</element>
+    <element href="/kundesenter/">Annonse privat</element>
+    <element href="/kundesenter/privat/annonsere/bestill-rubrikkannonse/tinga-rubrikkannonse-avis/">Rubrikk i papiravisa</element>
+    <element href="/kundesenter/">Adresseendring</element>
+    <element href="/kundesenter/">Kundeservice / Min side</element>
+    <element href="/kundesenter/privat/min-side/">Mi Kvinnheringen</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-kvinnheringen-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisa?</maintext>
+    <subtext>Bestill eAvisa no</subtext>
+  </challengetop>
+
+
+
+</menu>

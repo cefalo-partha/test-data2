@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu name="topmenu">
+  <category title="Nyheter">
+    <element href="/lokale_nyheter/">Lokale nyheter</element>
+    <element href="/Sport/">Sport</element>
+    <element href="/kulturliv/">Kultur</element>
+    <element href="/jobb/">Næringsliv</element>
+    <element href="/bolig/">Bolig</element>
+    <element href="/motor/">Bil og motor</element>
+    <element href="/debatt/">Debatt og meninger</element>
+    <element href="/Innenriks/">Innenriks</element>
+  </category>
+  <category title="Multimedia">
+    <element href="/bildeserier/">Bildegalleri</element>
+    <element href="/webkamera/">Webkamera Tvedestrand</element>
+    <element href="/webkamera/lyngor/">Webkamera Lyngør</element>
+    <element href="/webkamera/sandoya/">Webkamera Sandøya</element>
+    <element href="http://tvedestrandsposten.e-pages.dk/">eAvis</element>
+    <element href="/video/">Video</element>
+    <element href="/vis/videotips/">Send oss din video</element>
+    <element href="https://www.facebook.com/tvedestrandsposten?ref=ts&amp;fref=ts">Facebook</element>
+  </category>
+  <category title="Tjenester">
+    <element href="/vis/vaeret/">Været</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+    <element href="/tvedestrandtorget/">Kjøp og salg, mistet og funnet</element>
+    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    <element href="/derdubor/">Lokale bedrifter</element>
+  </category>
+  <category title="Kundeservice">
+    <element href="/kundesenter/kontakt-oss/">Kundeservice / Min side</element>
+    <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+    <element href="/kundesenter/">Abonnement</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/ansatte/">Kontakt</element>
+    <element href="mailto:bursdag@tvedestrandsposten.no">Bursdagshilsen, gratulasjoner og annet personaliastoff</element>
+  </category>
+  <challengetop href="http://kampanje.amedia.no/2014-mars-tvedestrandsposten-bestill-eavis?ns_campaign=fbm.afk1403&amp;ns_mchannel=fbm.chtop&amp;ns_source=fbm.afk1403&amp;ns_linkname=fbm.afk1403&amp;ns_fee=0">
+    <image src="http://r.api.no/local/v3/common/gfx/chtop/Klikk_her.jpg"/>
+    <maintext>Har du papiravisen?</maintext>
+    <subtext>Bestill eAvisen nå</subtext>
+  </challengetop>
+
+
+
+</menu>

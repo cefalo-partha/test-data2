@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Kundeservice">
+    <element>Telen Copyright © 2014</element>
+    <element>Adresse: Heddalsvegen 40, 3674 Notodden</element>
+    <element href="mailto: jens.marius.hammer@telen.no&lt;mailto:jens.marius.hammer@telen.no&gt;">Ansvarlig redaktør: Jens Marius Hammer</element>
+    <element href="mailto: knut.slettemo@telen.no&lt;mailto:knut.slettemo@telen.no&gt;">Nettsjef: Knut H. Slettemo</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.pfu.no/simple.php">Pressens faglige utvalg (PFU)</element>
+    <element>TIPS OSS: Send SMS &amp; MMS med kodeord TL TIPS til 2005</element>
+  </category>
+</footer>

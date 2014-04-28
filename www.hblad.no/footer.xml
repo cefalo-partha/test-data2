@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<footer name="footer">
+  <category title="Nyheter">
+    <element href="/nyheter/">Nyheter</element>
+    <element href="http://www.petropuls.no/">Petro Puls</element>
+    <element href="/bildeserier/">Bildeserier</element>
+    <element href="/sport/">Sport</element>
+    <element href="/video/">Video</element>
+  </category>
+  <category title="Tjenester">
+    <element href="http://www.facebook.com/pages/Helgelands-Blad/163452567000714">Facebook</element>
+    <element href="http://info.avisapp.no/hblad/">eAvis</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+    <element href="/kundesenter/kontakt-oss/tips-oss/">Radio Helgeland</element>
+    <element href="http://www.flightradar24.com/62,10/7">Flightradar24.com</element>
+    <element href="/nyheter/article5557045.ece">skipstrafikk/webkamera</element>
+    <element href="/nyheter/article5557087.ece">Er flyet ditt i rute?</element>
+    <element href="/bildeserier/article5980545.ece">Født 2012-</element>
+  </category>
+  <category title="Annonser">
+    <element href="/vis/rubrikk/jobb.html?transId=11">Stilling ledig</element>
+    <element href="/vis/rubrikk/baat.html?text=">Båt til salgs</element>
+    <element href="/vis/rubrikk/torg.html?text=">Smått &amp; stort til salgs</element>
+    <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+  </category>
+  <category title="Kundeservice">
+    <element>Adresse: Postboks 174, 8801 Sandnessjøen</element>
+    <element href="mailto: einar@hblad.no, mh@hblad.no">Redaktører: Einar Mørch og Morten Hofstad</element>
+    <element href="mailto: loh@hblad.no">Nettansvarlig: Lars Olve Hesjedal</element>
+    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+    <element href="http://www.presse.no/Etisk-regelverk/Vaer-Varsom-plakaten">Vær Varsom-plakaten</element>
+    <element href="http://www.pfu.no/simple.php">PFU</element>
+    <element>hblad.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+    <element>HELGELANDS BLAD COPYRIGHT © 2014</element>
+  </category>
+</footer>
