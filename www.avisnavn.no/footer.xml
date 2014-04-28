@@ -1,45 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-  <category title="Nyheter">
-    <element href="http://www.rb.no/lokale_nyheter/">Lokale nyheter</element>
-    <element href="http://www.rb.no/lokal_sport/">Sport</element>
-    <element href="http://www.rb.no/lsk-magasinet/">LSK</element>
-    <element href="http://www.rb.no/lokal_kultur/">Kultur</element>
-    <element href="http://www.rb.no/lorenskog/">RB Lørenskog</element>
-    <element href="http://www.rb.no/bolig/">Bolig</element>
-    <element href="http://www.rb.no/bil/">Bil</element>
-    <element href="http://www.rb.no/naringsliv/">Næringsliv</element>
-  </category>
-  <category title="Underholdning">
-    <element href="http://www.rb.no/tv/">RBTV</element>
-    <element href="http://www.rb.no/tv/lesernesvideo">Leservideoer</element>
-    <element href="http://www.rb.no/leservideo/">Send inn video</element>
-    <element href="http://www.rb.no/bilde/">Bildeserier</element>
-    <element href="http://www.rb.no/mat/">Mat</element>
-    <element href="http://www.rb.no/trening/">Trening</element>
-    <element href="http://www.rb.no/natur/">Natur</element>
-    <element href="http://rb.no/folk/">Folk</element>
-    <element href="http://rb.no/folk/" channel="mobile">Kun på mobil</element>
-    <element href="http://rb.no/folk/" channel="desktop">Kun på desktop</element>
-  </category>
-  <category title="Tjenester">
-    <element href="http://www.rb.no/kundesenter/privat/min-side/">Min side &amp; Kundeservice  </element>
-    <element href="http://www.rb.no/vis/personalia/">Send inn hilsen</element>
-    <element href="http://www.rb.no/vis/rubrikk/eiendom.html">Eiendom til salgs</element>
-    <element href="http://www.rb.no/vis/rubrikk/jobb.html">Ledige stillinger</element>
-    <element href="http://www.rb.no/vis/rubrikk/motor.html">Bil til salgs</element>
-    <element href="http://www.rb.no/spillsenteret/">Spillsenteret</element>
-    <element href="http://www.rb.no/vis/vaeret/">Været</element>
-    <element href="http://facebook.rb.no/">Facebook</element>
-  </category>
-  <category title="Kundeservice">
-    <element>Adresse: Postboks 235, 2001 Lillestrøm</element>
-    <element href="mailto:magne.storedal@rb.no">Ansvarlig redaktør: Magne Storedal</element>
-    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
-    <element href="http://www.pfu.no/simple.php">PFU</element>
-    <element>rb.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
-    <element href="http://www.rb.no/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
-    <element href="http://www.rb.no/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
-    <element>ROMERIKES BLAD COPYRIGHT © 2014</element>
-  </category>
+    <category title="Nyheter">
+        <element href="http://www.rb.no/lokale_nyheter/">Lokale nyheter</element>
+        <element href="http://www.rb.no/lokal_sport/">Sport</element>
+        <element href="http://www.rb.no/lsk-magasinet/">LSK</element>
+        <element href="http://www.rb.no/lokal_kultur/">Kultur</element>
+        <element href="http://www.rb.no/lorenskog/">RB Lørenskog</element>
+        <element href="http://www.rb.no/bolig/">Bolig</element>
+        <element href="http://www.rb.no/bil/">Bil</element>
+        <element href="http://www.rb.no/naringsliv/">Næringsliv</element>
+    </category>
+    <category title="Underholdning">
+        <element href="http://www.rb.no/tv/">RBTV</element>
+        <element href="http://www.rb.no/tv/lesernesvideo">Leservideoer</element>
+        <element href="http://www.rb.no/leservideo/">Send inn video</element>
+        <element href="http://www.rb.no/bilde/">Bildeserier</element>
+        <element href="http://www.rb.no/mat/">Mat</element>
+        <element href="http://www.rb.no/trening/">Trening</element>
+        <element href="http://www.rb.no/natur/">Natur</element>
+        <element href="http://rb.no/folk/">Folk</element>
+        <element href="http://rb.no/folk/">Kun på mobil</element>
+        <element href="http://rb.no/folk/">Kun på desktop</element>
+    </category>
+    <category title="Tjenester">
+        <element href="http://www.rb.no/kundesenter/privat/min-side/">Min side &amp; Kundeservice  </element>
+        <element href="http://www.rb.no/vis/personalia/">Send inn hilsen</element>
+        <element href="http://www.rb.no/vis/rubrikk/eiendom.html">Eiendom til salgs</element>
+        <element href="http://www.rb.no/vis/rubrikk/jobb.html">Ledige stillinger</element>
+        <element href="http://www.rb.no/vis/rubrikk/motor.html">Bil til salgs</element>
+        <element href="http://www.rb.no/spillsenteret/">Spillsenteret</element>
+        <element href="http://www.rb.no/vis/vaeret/">Været</element>
+        <element href="http://facebook.rb.no/">Facebook</element>
+    </category>
+    <category title="Kundeservice">
+        <element>Adresse: Postboks 235, 2001 Lillestrøm</element>
+        <element href="mailto:magne.storedal@rb.no">Ansvarlig redaktør: Magne Storedal</element>
+        <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+        <element href="http://www.pfu.no/simple.php">PFU</element>
+        <element>rb.no lagres regelmessig av Nasjonalbiblioteket. Nettsiden vil bli gjort tilgjengelig som kildemateriale for forskning og dokumentasjon</element>
+        <element href="http://www.rb.no/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+        <element href="http://www.rb.no/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
+        <element>ROMERIKES BLAD COPYRIGHT © 2014</element>
+        <element href="">Test</element>
+    </category>
 </footer>
