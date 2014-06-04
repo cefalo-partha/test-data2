@@ -6,17 +6,17 @@
         <element href="/kultur">Kultur</element>
         <element href="/kommentar">Kommentar</element>
     </category>
+    <category title="Multimedia">
+        <element href="https://www.facebook.com/pages/Lierposten/286619663265">Lierposten på Facebook</element>
+        <element href="/bildegalleri">Bildegallerier</element>
+        <element href="/lier-tv">Lier-TV</element>
+        <element href="https://twitter.com/Lierpostenavis">Lierposten på Twitter</element>
+    </category>
     <category title="Tjenester">
         <element href="http://minside.lierposten.no/kontakt/tips">Tips oss</element>
         <element href="http://minside.lierposten.no/">Kundeservice</element>
         <element href="http://minside.lierposten.no/kontakt">Kontakt oss</element>
         <element href="/vis/personalia">Personalia</element>
-    </category>
-    <category title="Multimedia">
-        <element href="/bildegalleri">Bildegallerier</element>
-        <element href="/lier-tv">Lier-TV</element>
-        <element href="https://www.facebook.com/pages/Lierposten/286619663265">Lierposten på Facebook</element>
-        <element href="https://twitter.com/Lierpostenavis">Lierposten på Twitter</element>
     </category>
     <category title="Kundeservice">
         <element>Adresse: Vestsideveien 9C, 3400 Lier</element>
