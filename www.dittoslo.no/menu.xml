@@ -1,50 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-  <category title="Nyheter">
-    <element href="http://skjerioslo.dittoslo.no/">skjeriOslo</element>
-    <element href="/indre-by">Indre by</element>
-    <element href="/nordstrands-blad">Nordstrands Blad</element>
-    <element href="/lokalavisengroruddalen">Lokalavisen Groruddalen</element>
-    <element href="/nordre-aker">Nordre Aker Budstikke</element>
-    <element href="/ullern-avis-akersposten">Ullern Avis Akersposten</element>
-    <element href="/nyheter">Nyheter</element>
-    <element href="/sport">Sport</element>
-    <element href="/meninger">Meninger</element>
-  </category>
-  <category title="">
-    <element href="/eiendom-i-oslo">Eiendom</element>
-    <element href="/forbruker/bil-og-trafikk">Bil i Oslo</element>
-    <element href="/stilling-i-oslo">Stilling</element>
-    <element href="/video">Video</element>
-    <element href="/bildeserier">Bildeserier</element>
-    <element href="http://seksjon ikke opprettet enda">Bydeler</element>
-    <element href="/vis/vaeret">Vær</element>
-    <element href="/nyheter/ung">Ungdomsredaksjonen</element>
-    <element href="http://www.dinlokalavis.no/">Din lokalavis</element>
-  </category>
-  <category title="Tjenester">
-    <element href="/eiendom-i-oslo">Bolig til salgs</element>
-    <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
-    <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
-    <element href="http://annonsearkiv.dittoslo.no/">Avisannonser</element>
-    <element href="http://dittoslo.no/derdubor/">Lokale bedrifter</element>
-    <element href="http://os.lokalguiden.no/">Lokalguiden</element>
-    <element href="/sport/spillsenteret">Spillsenter</element>
-    <element href="/diverse/pdf-av-papirutgavene-1.5652262">E-avis</element>
-  </category>
-  <category title="Kundeservice">
-    <element href="http://minside.dittoslo.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
-    <element href="http://minside.dittoslo.no/annonsering">Sett inn annonse</element>
-    <element href="http://www.dinlokalavis.no/skriv_hilsen.php?do=ny">Send hilsen</element>
-    <element href="http://minside.dittoslo.no/abonnement">Abonnement</element>
-    <element href="http://minside.dittoslo.no/abonnement">Adresseendring</element>
-    <element href="http://minside.dittoslo.no/kontakt/tips">Tips oss</element>
-    <element href="http://minside.dittoslo.no/kontakt/ansatte">Ansatte</element>
-    <element href="http://minside.dittoslo.no/kontakt">Kontakt</element>
-  </category>
-  <challengetop href="http://kampanje.amedia.no/2014-januar-nordstrands-blad-bestill-papir-8-uker?ns_campaign=fbm.afk1402a&amp;ns_mchannel=fbm.chtop&amp;ns_source=fbm.afk1402a&amp;ns_linkname=fbm.afk1402a&amp;ns_fee=0">
-    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_na.png"/>
-    <maintext>Prøv Nordstrands Blad i 8 uker</maintext>
-    <subtext>Kun kr. 75,-</subtext>
-  </challengetop>
+    <category title="Nyheter">
+        <element href="http://skjerioslo.dittoslo.no/">skjeriOslo</element>
+        <element href="/indre-by">Indre by</element>
+        <element href="/nordstrands-blad">Nordstrands Blad</element>
+        <element href="/lokalavisengroruddalen">Lokalavisen Groruddalen</element>
+        <element href="/nordre-aker">Nordre Aker Budstikke</element>
+        <element href="/ullern-avis-akersposten">Ullern Avis Akersposten</element>
+        <element href="/nyheter">Nyheter</element>
+        <element href="/sport">Sport</element>
+        <element href="/meninger">Meninger</element>
+    </category>
+    <category title="Hei! Title should be mandatory">
+        <element href="/eiendom-i-oslo">Eiendom</element>
+        <element href="/forbruker/bil-og-trafikk">Bil i Oslo</element>
+        <element href="/stilling-i-oslo">Stilling</element>
+        <element href="/video">Video</element>
+        <element href="/bildeserier">Bildeserier</element>
+        <element>Bydeler</element>
+        <element href="/vis/vaeret">Vær</element>
+        <element href="/nyheter/ung">Ungdomsredaksjonen</element>
+        <element href="http://www.dinlokalavis.no/">Din lokalavis</element>
+    </category>
+    <category title="Tjenester">
+        <element href="/eiendom-i-oslo">Bolig til salgs</element>
+        <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+        <element href="/vis/rubrikk/jobb.html?catId=10&amp;localGeo=true&amp;transId=11">Stilling ledig</element>
+        <element href="http://annonsearkiv.dittoslo.no/">Avisannonser</element>
+        <element href="http://dittoslo.no/derdubor/">Lokale bedrifter</element>
+        <element href="http://os.lokalguiden.no/">Lokalguiden</element>
+        <element href="/sport/spillsenteret">Spillsenter</element>
+        <element href="/diverse/pdf-av-papirutgavene-1.5652262">E-avis</element>
+    </category>
+    <category title="Kundeservice">
+        <element href="http://minside.dittoslo.no/?ssoAction=getAuthId">Kundeservice / Min side</element>
+        <element href="http://minside.dittoslo.no/annonsering">Sett inn annonse</element>
+        <element href="http://www.dinlokalavis.no/skriv_hilsen.php?do=ny">Send hilsen</element>
+        <element href="http://minside.dittoslo.no/abonnement">Abonnement</element>
+        <element href="http://minside.dittoslo.no/abonnement">Adresseendring</element>
+        <element href="http://minside.dittoslo.no/kontakt/tips">Tips oss</element>
+        <element href="http://minside.dittoslo.no/kontakt/ansatte">Ansatte</element>
+        <element href="http://minside.dittoslo.no/kontakt">Kontakt</element>
+    </category>
+    <challengetop href="http://kampanje.amedia.no/2014-januar-nordstrands-blad-bestill-papir-8-uker?ns_campaign=fbm.afk1402a&amp;ns_mchannel=fbm.chtop&amp;ns_source=fbm.afk1402a&amp;ns_linkname=fbm.afk1402a&amp;ns_fee=0">
+        <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_na.png"/>
+        <maintext>Prøv Nordstrands Blad i 8 uker</maintext>
+        <subtext>Kun kr. 75,-</subtext>
+    </challengetop>
 </menu>
