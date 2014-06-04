@@ -1,28 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-  <category title="Nyheter">
-    <element href="/nyheter">Nyheter</element>
-    <element href="/sport">Sport</element>
-    <element href="/kultur">Kultur</element>
-    <element href="/kommentar">Kommentar</element>
-  </category>
-  <category title="Multimedia">
-    <element href="/bildegalleri">Bildegallerier</element>
-    <element href="/lier-tv">Lier-TV</element>
-    <element href="https://www.facebook.com/pages/Lierposten/286619663265">Lierposten på Facebook</element>
-    <element href="https://twitter.com/Lierpostenavis">Lierposten på Twitter</element>
-  </category>
-  <category title="Tjenester">
-    <element href="http://minside.lierposten.no/kontakt/tips">Tips oss</element>
-    <element href="http://minside.lierposten.no/">Kundeservice</element>
-    <element href="http://minside.lierposten.no/kontakt">Kontakt oss</element>
-    <element href="/vis/personalia">Personalia</element>
-  </category>
-  <category title="Kundeservice">
-    <element>Adresse: Vestsideveien 9C, 3400 Lier</element>
-    <element href="mailto:pal.ness@lierposten.no">Daglig leder/ansvarlig redaktør: Pål A. Næss</element>
-    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
-    <element href="http://www.pfu.no/simple.php">PFU</element>
-    <element>LIERPOSTEN COPYRIGHT © 2014</element>
-  </category>
+    <category title="Nyheter">
+        <element href="/nyheter">Nyheter</element>
+        <element href="/sport">Sport</element>
+        <element href="/kultur">Kultur</element>
+        <element href="/kommentar">Kommentar</element>
+    </category>
+    <category title="Tjenester">
+        <element href="http://minside.lierposten.no/kontakt/tips">Tips oss</element>
+        <element href="http://minside.lierposten.no/">Kundeservice</element>
+        <element href="http://minside.lierposten.no/kontakt">Kontakt oss</element>
+        <element href="/vis/personalia">Personalia</element>
+    </category>
+    <category title="Multimedia">
+        <element href="/bildegalleri">Bildegallerier</element>
+        <element href="/lier-tv">Lier-TV</element>
+        <element href="https://www.facebook.com/pages/Lierposten/286619663265">Lierposten på Facebook</element>
+        <element href="https://twitter.com/Lierpostenavis">Lierposten på Twitter</element>
+    </category>
+    <category title="Kundeservice">
+        <element>Adresse: Vestsideveien 9C, 3400 Lier</element>
+        <element href="mailto:pal.ness@lierposten.no">Daglig leder/ansvarlig redaktør: Pål A. Næss</element>
+        <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten</element>
+        <element href="http://www.pfu.no/simple.php">PFU</element>
+        <element>LIERPOSTEN COPYRIGHT © 2014</element>
+    </category>
 </footer>
