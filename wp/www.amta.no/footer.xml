@@ -10,14 +10,6 @@
         <element>Bil&amp;Motor</element>
         <element href="/lager/article4169499.ece">Skip i fjorden</element>
     </category>
-    <category title="Tjenester">
-        <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
-        <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
-        <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
-        <element href="/derdubor/">Lokale bedrifter</element>
-        <element href="/vis/annonsearkiv">Ukens avisannonser</element>
-        <element href="/amtatorget/">Amtatorget</element>
-    </category>
     <category title="Multimedia">
         <element href="http://akershus.e-pages.dk/">E-avis</element>
         <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
@@ -25,6 +17,14 @@
         <element href="/vis/vaeret/?city=Frogn&amp;longitude=10.63&amp;latitude=59.65&amp;moh=40.0">Været</element>
         <element>Kalender</element>
         <element>Send en hilsen</element>
+    </category>
+    <category title="Tjenester">
+        <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
+        <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
+        <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+        <element href="/derdubor/">Lokale bedrifter</element>
+        <element href="/vis/annonsearkiv">Ukens avisannonser</element>
+        <element href="/amtatorget/">Amtatorget</element>
     </category>
     <category title="Kundeservice">
         <element>Wienerbrødskjæringa 8, 1440 Drøbak</element>
