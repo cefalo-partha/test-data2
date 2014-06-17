@@ -1,36 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-  <category title="Nyheter">
-    <element href="/nyheter">Nyheter</element>
-    <element href="/sport/">Sport</element>
-    <element href="/glimt">Glimt</element>
-    <element href="/kultur">Kultur</element>
-    <element href="/bolig">Bolig</element>
-    <element href="/jobb">Næringsliv</element>
-    <element href="/bil">Bil</element>
-  </category>
-  <category title="Multimedia">
-    <element href="/video">ANtv</element>
-    <element href="/bildeserier">Bildeserier</element>
-    <element href="http://www.facebook.com/avisanordland">Facebook</element>
-    <element href="http://www.instagram.com/avisanordland">Instagram</element>
-    <element href="https://twitter.com/Avisa_Nordland">Twitter</element>
-    <element href="http://avisanordland.e-pages.dk/index.php">eAvis</element>
-  </category>
-  <category title="Tjenester">
-    <element href="mailto: tips@an.no">Tipstelefon: 75 50 50 50</element>
-    <element>SMS/MMS: ANtips til 2005</element>
-    <element href="/vis/videotips/">Har du en video? Last opp her:</element>
-    <element href="/vis/kalender">Det skjer</element>
-    <element href="/vis/personalia/">Send din hilsen</element>
-    <element href="/kundesenter/privat/abonnere/">Abonnere på AN:</element>
-  </category>
-  <category title="Kundeservice">
-    <element>Besøksadresse: Dronningens gt 18, Bodø</element>
-    <element>Postadresse: Pb 1425, 8002 Bodø</element>
-    <element href="mailto: jeh@an.no">Sjefredaktør: Jan-Eirik Hanssen</element>
-    <element href="mailto: bh@an.no">Adm.dir: Bjarne Holgersen</element>
-    <element href="http://www.pfu.no">Pressens faglige utvalg:</element>
-    <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten:</element>
-  </category>
+    <category title="Nyheter">
+        <element href="/glimt">Glimt</element>
+        <element href="/nyheter">Nyheter</element>
+        <element href="/sport/">Sport</element>
+        <element href="/kultur">Kultur</element>
+        <element href="/bolig">Bolig</element>
+        <element href="/jobb">Næringsliv</element>
+        <element href="/bil">Bil</element>
+    </category>
+    <category title="Multimedia">
+        <element href="/video">ANtv</element>
+        <element href="/bildeserier">Bildeserier</element>
+        <element href="http://www.facebook.com/avisanordland">Facebook</element>
+        <element href="http://www.instagram.com/avisanordland">Instagram</element>
+        <element href="https://twitter.com/Avisa_Nordland">Twitter</element>
+        <element href="http://avisanordland.e-pages.dk/index.php">eAvis</element>
+    </category>
+    <category title="Tjenester">
+        <element>Tipstelefon: 75 50 50 50</element>
+        <element>SMS/MMS: ANtips til 2005</element>
+        <element href="/vis/videotips/">Har du en video? Last opp her:</element>
+        <element href="/vis/kalender">Det skjer</element>
+        <element href="/vis/personalia/">Send din hilsen</element>
+        <element href="/kundesenter/privat/abonnere/">Abonnere på AN:</element>
+    </category>
+    <category title="Kundeservice">
+        <element>Besøksadresse: Dronningens gt 18, Bodø</element>
+        <element>Postadresse: Pb 1425, 8002 Bodø</element>
+        <element>Sjefredaktør: Jan-Eirik Hanssen</element>
+        <element>Adm.dir: Bjarne Holgersen</element>
+        <element href="http://www.pfu.no">Pressens faglige utvalg:</element>
+        <element href="http://presse.no/Etisk-regelverk/Redaktoerplakaten">Redaktørplakaten:</element>
+    </category>
 </footer>
