@@ -8,6 +8,13 @@
         <element href="/vis/annonsearkiv">Ukens avisannonser</element>
         <element href="/amtatorget/">Amtatorget</element>
     </category>
+    <category title="Multimedia ">
+        <element href="http://akershus.e-pages.dk/">E-avis</element>
+        <element href="/lager/article4169499.ece">Skip i fjorden</element>
+        <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
+        <element href="https://twitter.com/Amta5">Twitter</element>
+        <element href="/vis/vaeret/?city=Frogn&amp;longitude=10.63&amp;latitude=59.65&amp;moh=40.0">Været</element>
+    </category>
     <category title="Nyheter">
         <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/">Sport</element>
@@ -16,13 +23,6 @@
         <element href="/webtv/">Video</element>
         <element href="/boligmagasinet/">Bolig</element>
         <element href="/motor">Bil&amp;Motor</element>
-    </category>
-    <category title="Multimedia ">
-        <element href="http://akershus.e-pages.dk/">E-avis</element>
-        <element href="/lager/article4169499.ece">Skip i fjorden</element>
-        <element href="https://www.facebook.com/#!/amtstidende">Facebook</element>
-        <element href="https://twitter.com/Amta5">Twitter</element>
-        <element href="/vis/vaeret/?city=Frogn&amp;longitude=10.63&amp;latitude=59.65&amp;moh=40.0">Været</element>
     </category>
     <category title="Kundeservice">
         <element href="/kundesenter/">Kundeservice / Min side</element>
