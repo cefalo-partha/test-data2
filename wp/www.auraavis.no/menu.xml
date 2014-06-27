@@ -7,9 +7,9 @@
         <element href="/bolig/">Eiendom</element>
     </category>
     <category title="Nyheter">
-        <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/">Sport</element>
         <element href="/kultur/">Kultur</element>
+        <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/fiske/">Fiske</element>
     </category>
     <category title="Tjenester">
