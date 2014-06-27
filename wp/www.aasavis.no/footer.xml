@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-    <category title="Innhold">
+    <category title="Innholds">
         <element href="/nyheter/">Nyheter</element>
         <element href="/kultur/">Kultur</element>
         <element href="/sport/">Sport</element>
