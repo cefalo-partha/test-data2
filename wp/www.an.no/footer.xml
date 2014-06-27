@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<footer name="footers">
+<footer name="footer">
     <category title="Multimedia">
         <element href="/video">ANtv</element>
         <element href="/bildeserier">Bildeserier</element>
