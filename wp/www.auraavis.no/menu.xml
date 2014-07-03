@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-    <category title="Magasin">
-        <element href="/bildeserier/">Bildeserier</element>
-        <element href="/bilogtrafikk/">Bil og trafikk</element>
-        <element href="/jobb/">Næringsliv</element>
-        <element href="/bolig/">Eiendom</element>
-    </category>
     <category title="Nyheter">
         <element href="/lokal_sport/">Sport</element>
         <element href="/kultur/">Kultur</element>
         <element href="/lokale_nyheter/">Nyheter</element>
         <element href="/lokal_sport/fiske/">Fiske</element>
+    </category>
+    <category title="Magasin">
+        <element href="/bildeserier/">Bildeserier</element>
+        <element href="/bilogtrafikk/">Bil og trafikk</element>
+        <element href="/jobb/">Næringsliv</element>
+        <element href="/bolig/">Eiendom</element>
     </category>
     <category title="Tjenester">
         <element href="/vis/annonsearkiv/">Ukas annonser</element>
