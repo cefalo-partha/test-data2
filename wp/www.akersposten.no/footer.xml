@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
+    <category title="New Category"/>
     <category title="News">
         <element href="/international/">International</element>
     </category>
@@ -7,5 +8,4 @@
         <element href="Two">One</element>
         <element href="Another">Another</element>
     </category>
-    <category title="New Category"/>
 </footer>
