@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
     <category title="Nyheter">
-        <element href="http://www.rb.no/lokale_nyheter/">Lokale nyheter</element>
+        <element href="/spaltemaler/">Spaltemaler</element>
         <element href="http://www.rb.no/lokal_sport/">Sport</element>
         <element href="http://www.rb.no/lsk-magasinet/">LSK</element>
         <element href="http://www.rb.no/lokal_kultur/">Kultur</element>
