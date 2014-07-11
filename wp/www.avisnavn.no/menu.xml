@@ -10,18 +10,6 @@
         <element href="http://www.rb.no/naringsliv/">Næringsliv</element>
         <element href="http://rb.no/meninger/">Meninger</element>
     </category>
-    <category title="Underholdning">
-        <element href="http://www.rb.no/tv/">RBTV</element>
-        <element href="http://www.rb.no/tv/lesernesvideo">Leservideoer</element>
-        <element href="http://www.rb.no/leservideo/">Send inn video</element>
-        <element href="http://www.rb.no/bilde/">Bildeserier</element>
-        <element href="http://rb.no/kalender">Det skjer</element>
-        <element href="http://www.rb.no/mat/">Mat</element>
-        <element href="http://www.rb.no/trening/">Trening</element>
-        <element href="http://www.rb.no/natur/">Natur</element>
-        <element href="http://rb.no/folk/">Folk</element>
-        <element href="http://www.rb.no/fotball/live/">Fotball live!</element>
-    </category>
     <category title="Tjenester">
         <element href="http://www.rb.no/vis/rubrikk/eiendom.html">Eiendom til salgs</element>
         <element href="http://www.rb.no/vis/rubrikk/jobb.html">Ledige stillinger</element>
