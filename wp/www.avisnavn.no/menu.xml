@@ -34,7 +34,9 @@
         <element href="http://www.rb.no/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
         <element href="http://www.romeriksfondet.no/">Romeriksfondet</element>
     </category>
-    <category title="New Category"/>
+    <category title="Mulitimedia">
+        <element href="/tv/">TV</element>
+    </category>
     <challengetop href="http://www.amedia.no/test">
         <image alt="Alt text test" src="http://admin.test.api.no/api/menueditor/v1/images/ch-top_mini_bestill_naa_outline.png?token=I08meGhpF05cdlM0BhINC3poCTZwHGMD"/>
         <maintext>Tittel test</maintext>
