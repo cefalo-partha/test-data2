@@ -33,8 +33,8 @@
         <element href="http://www.rb.no/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
         <element href="http://www.rb.no/kundesenter/kontakt-oss/ansatte/">Kontakt oss</element>
         <element href="http://www.romeriksfondet.no/">Romeriksfondet</element>
-        <element href="http://www.rb.no/kundesenter/privat/abonnentfordeler/romba/">Barneklubben Romba</element>
     </category>
+    <category title="New Category"/>
     <challengetop href="http://www.amedia.no/test">
         <image alt="Alt text test" src="http://admin.test.api.no/api/menueditor/v1/images/ch-top_mini_bestill_naa_outline.png?token=I08meGhpF05cdlM0BhINC3poCTZwHGMD"/>
         <maintext>Tittel test</maintext>
