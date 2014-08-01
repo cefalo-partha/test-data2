@@ -1,59 +1,56 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-  <category title="Nyheter">
-    <element href="/nyheter/">Nyheter</element>
-    <element href="/sport/">Sport</element>
-    <element href="/sport/fotball/brann/">Brann</element>
-    <element href="/sport/fotball/">Fotball</element>
-    <element href="/fotball/live/">Fotball Live</element>
-    <element href="/puls/">Pulsen</element>
-    <element href="/hvaskjeribergen/">Hva skjer i Bergen</element>
-    <element href="/motormagasinet/">Motormagasinet</element>
-    <element href="/megdeg/">Meg og Deg</element>
-    <element href="/meninger/">Debatt</element>
-  </category>
-  <category title="Annet innhold">
-    <element href="/tv/">BA-TV</element>
-    <element href="/vis/personalia/">Personalia</element>
-    <element href="/bilder_video/">Bildeserier</element>
-    <element href="/nyheter/vaeret/">Været</element>
-    <element href="http://fotomuseum.bergen360.no">Fotomuseum</element>
-    <element href="/meninger/summetonen/article1618427.ece">Send summetone</element>
-    <element href="/jobbmagasinet/">Jobbmagasinet</element>
-    <element href="/forbruker/bolig/">Boligmagasinet</element>
-    <element href="/puls/kinoguiden/">Kinoguiden</element>
-  </category>
-  <category title="Tjenester">
-    <element href="/kalender">Hva skjer-kalenderen</element>
-    <element href="/spillsenteret/">Oddstipset</element>
-    <element href="/markedsplassen/">Markedsplassen</element>
-    <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
-    <element href="/vis/rubrikk/stilling_ledig.html">Stilling ledig</element>
-    <element href="/vis/rubrikk/bil_til_salgs.html">Bil til salgs</element>
-    <element href="http://www.facebook.com/Bergensavisen">BA på facebook</element>
-    <element href="http://www.twitter.com/BA_no">BA på Twitter</element>
-    <element href="/bilder_video/article6962556.ece">Webkamera</element>
-    <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
-    <element href="/derdubor/">Lokale bedrifter</element>
-  </category>
-  <category title="Kundeservice">
-    <element href="/kundesenter/">Kundeservice / Min side</element>
-    <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
-    <element href="/vis/personalia/greetings/new">Send hilsen</element>
-    <element href="/kundesenter/privat/abonnere/">Abonnement</element>
-    <element href="/kundesenter/privat/min-side/">Adresseendring</element>
-    <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
-    <element href="/kundesenter/kontakt-oss/">Kontakt</element>
-    <element href="http://dorsalg.ba.no">Bli salgsbud</element>
-    <element href="/eavis">eAvis</element>
-    <element href="/kundesenter/privat/avisiskolen-2/">Avis i skolen</element>
-  </category>
-  <challengetop href="http://kampanje.amedia.no/2014-april-bergensavisen-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
-    <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
-    <maintext>8 uker for kun 99 kr</maintext>
-    <subtext>Billigere blir det ikke!</subtext>
-  </challengetop>
-
-
-
+    <category title="Nyheter">
+        <element href="/nyheter/">Nyheter</element>
+        <element href="/sport/">Sport</element>
+        <element href="/sport/fotball/brann/">Brann</element>
+        <element href="/sport/fotball/">Fotball</element>
+        <element href="/fotball/live/">Fotball Live</element>
+        <element href="/puls/">Pulsen</element>
+        <element href="/hvaskjeribergen/">Hva skjer i Bergen</element>
+        <element href="/motormagasinet/">Motormagasinet</element>
+        <element href="/megdeg/">Meg og Deg</element>
+        <element href="/meninger/">Debatt</element>
+    </category>
+    <category title="Annet innhold">
+        <element href="/tv/">BA-TV</element>
+        <element href="/vis/personalia/">Personalia</element>
+        <element href="/bilder_video/">Bildeserier</element>
+        <element href="/nyheter/vaeret/">Været</element>
+        <element href="http://fotomuseum.bergen360.no">Fotomuseum</element>
+        <element href="/meninger/summetonen/article1618427.ece">Send summetone</element>
+        <element href="/jobbmagasinet/">Jobbmagasinet</element>
+        <element href="/forbruker/bolig/">Boligmagasinet</element>
+        <element href="/puls/kinoguiden/">Kinoguiden</element>
+    </category>
+    <category title="Tjenester">
+        <element href="/kalender">Hva skjer-kalenderen</element>
+        <element href="/spillsenteret/">Oddstipset</element>
+        <element href="/markedsplassen/">Markedsplassen</element>
+        <element href="/vis/rubrikk/bolig_til_salgs.html">Bolig til salgs</element>
+        <element href="/vis/rubrikk/stilling_ledig.html">Stilling ledig</element>
+        <element href="/vis/rubrikk/bil_til_salgs.html">Bil til salgs</element>
+        <element href="http://www.facebook.com/Bergensavisen">BA på facebook</element>
+        <element href="http://www.twitter.com/BA_no">BA på Twitter</element>
+        <element href="/bilder_video/article6962556.ece">Webkamera</element>
+        <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+        <element href="/derdubor/">Lokale bedrifter</element>
+    </category>
+    <category title="Kundeservice">
+        <element href="/kundesenter/">Kundeservice / Min side</element>
+        <element href="/kundesenter/privat/annonsere/">Sett inn annonse</element>
+        <element href="/vis/personalia/greetings/new">Send hilsen</element>
+        <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+        <element href="/kundesenter/privat/min-side/">Adresseendring</element>
+        <element href="/kundesenter/kontakt-oss/tips-oss/">Tips oss</element>
+        <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+        <element href="http://dorsalg.ba.no">Bli salgsbud</element>
+        <element href="/eavis">eAvis</element>
+        <element href="/kundesenter/privat/avisiskolen-2/">Avis i skolen</element>
+    </category>
+    <challengetop href="http://kampanje.amedia.no/2014-april-bergensavisen-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
+        <image src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
+        <maintext>8 uker for kun 99 kr,</maintext>
+        <subtext>Billigere blir det ikke!</subtext>
+    </challengetop>
 </menu>
