@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-  <category title="Nyhende">
-    <element href="/nyhende/">Nyhende</element>
-    <element href="/kultur/">Kultur</element>
-    <element href="/sport/">Sport</element>
-  </category>
-  <category title="Multimedia">
-    <element href="http://kvinnheringen.e-pages.dk/index.php">Kvinnheringen som eAvis</element>
-    <element href="/webkamera/">Webkamera</element>
-    <element href="https://www.facebook.com/kvinnheringen/">Finn oss på Facebook</element>
-  </category>
-  <category title="Kundesenter">
-    <element href="/kundesenter/privat/abonnere/">Bestill abbonement</element>
-    <element href="/kundesenter/privat/annonsere/">Annonse privat</element>
-    <element href="/kundesenter/bedrift/annonsere/">Annonse bedrift</element>
-  </category>
-  <category title="Kundeservice">
-    <element>Adresse: Lonabråtet 5460 Husnes</element>
-    <element href="mailto:tomas@kvinnheringen.no">Ansvarleg redaktør/dagleg leiar: Tomas Bruvik</element>
-    <element href="mailto:haldor@kvinnheringen.no">Marknadssjef: Haldor Herland</element>
-    <element>Tips oss! Tlf: 53 48 21 45 E-post: redaksjon@kvinnheringen.no</element>
-  </category>
+    <category title="Nyhender">
+        <element href="/nyhende/">Nyhende</element>
+        <element href="/kultur/">Kultur</element>
+        <element href="/sport/">Sport</element>
+    </category>
+    <category title="Multimedia">
+        <element href="http://kvinnheringen.e-pages.dk/index.php">Kvinnheringen som eAvis</element>
+        <element href="/webkamera/">Webkamera</element>
+        <element href="https://www.facebook.com/kvinnheringen/">Finn oss på Facebook</element>
+    </category>
+    <category title="Kundesenter">
+        <element href="/kundesenter/privat/abonnere/">Bestill abbonement</element>
+        <element href="/kundesenter/privat/annonsere/">Annonse privat</element>
+        <element href="/kundesenter/bedrift/annonsere/">Annonse bedrift</element>
+    </category>
+    <category title="Kundeservice">
+        <element>Adresse: Lonabråtet 5460 Husnes</element>
+        <element href="mailto:tomas@kvinnheringen.no">Ansvarleg redaktør/dagleg leiar: Tomas Bruvik</element>
+        <element href="mailto:haldor@kvinnheringen.no">Marknadssjef: Haldor Herland</element>
+        <element>Tips oss! Tlf: 53 48 21 45 E-post: redaksjon@kvinnheringen.no</element>
+    </category>
 </footer>
