@@ -12,6 +12,13 @@
         <element href="/kamera/">Kamera</element>
         <element href="/fotball/live/">Fotball live</element>
     </category>
+    <category title="Tjenester">
+        <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
+        <element href="/vis/rubrikk/eiendom.html?localGeo=true&amp;catId=16000">Bolig til salgs</element>
+        <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
+        <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort</element>
+        <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
+    </category>
     <category title="Annet innhold">
         <element href="/bolig/">Bolig</element>
         <element href="/bil/">Bil</element>
@@ -21,13 +28,6 @@
         <element href="/anung/">AN Ung</element>
         <element href="/ongan/">Ongan</element>
         <element href="/bodoby/">BodøBy</element>
-    </category>
-    <category title="Tjenester">
-        <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
-        <element href="/vis/rubrikk/eiendom.html?localGeo=true&amp;catId=16000">Bolig til salgs</element>
-        <element href="/vis/rubrikk/stilling_ledig.html?localGeo=true">Stilling ledig</element>
-        <element href="/vis/rubrikk/torg.html?localGeo=true">Smått og stort</element>
-        <element href="/vis/annonsearkiv/">Ukens papirannonser</element>
     </category>
     <category title="Kundeservice">
         <element href="/kundesenter/">Kundeservice / Min side</element>
