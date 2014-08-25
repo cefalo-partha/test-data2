@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="header">
+    <category title="New Category"/>
     <challengetop href="">
         <image alt="" src=""/>
         <maintext></maintext>
