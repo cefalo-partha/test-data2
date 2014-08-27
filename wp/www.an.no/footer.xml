@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
+    <category title="Multimedia">
+        <element href="/video">ANtv</element>
+        <element href="/bildeserier">Bildeserier</element>
+        <element href="http://www.facebook.com/avisanordland">Facebook</element>
+        <element href="http://www.instagram.com/avisanordland">Instagram</element>
+        <element href="https://twitter.com/Avisa_Nordland">Twitter</element>
+        <element href="http://avisanordland.e-pages.dk/index.php">eAvis</element>
+    </category>
     <category title="Nyheter">
         <element href="/nyheter">Nyheter</element>
         <element href="/glimt">Glimt</element>
@@ -8,14 +16,6 @@
         <element href="/bolig">Bolig</element>
         <element href="/jobb">Næringsliv</element>
         <element href="/bil">Bil</element>
-    </category>
-    <category title="Multimedia">
-        <element href="/video">ANtv</element>
-        <element href="/bildeserier">Bildeserier</element>
-        <element href="http://www.facebook.com/avisanordland">Facebook</element>
-        <element href="http://www.instagram.com/avisanordland">Instagram</element>
-        <element href="https://twitter.com/Avisa_Nordland">Twitter</element>
-        <element href="http://avisanordland.e-pages.dk/index.php">eAvis</element>
     </category>
     <category title="Tjenester">
         <element>Tipstelefon: 75 50 50 50</element>
