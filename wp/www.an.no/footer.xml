@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
     <category title="Nyheter">
-        <element href="/glimt">Glimt</element>
         <element href="/nyheter">Nyheter</element>
+        <element href="/glimt">Glimt</element>
         <element href="/sport/">Sport</element>
         <element href="/kultur">Kultur</element>
         <element href="/bolig">Bolig</element>
