@@ -2,7 +2,7 @@
 <menu name="topmenu">
     <category title="Nyheter">
         <element href="/spaltemaler/">Spaltemaler</element>
-        <element href="http://www.rb.no/lokal_sport/">Sport</element>
+        <element href="http://www.avisnavn/sport/">Sport</element>
         <element href="http://www.rb.no/lsk-magasinet/">LSK</element>
         <element href="http://www.rb.no/lokal_kultur/">Kultur</element>
         <element href="http://www.rb.no/bolig/">Bolig</element>
