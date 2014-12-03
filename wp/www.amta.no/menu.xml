@@ -12,7 +12,7 @@
     <category title="Tjenester">
         <element href="/vis/rubrikk/eiendom.html">Bolig til salgs</element>
         <element href="/vis/rubrikk/jobb.html">Stilling ledig</element>
-        <element href="/vis/rubrikk/motor.html">Bil til salgs</element>
+        <element href="/vis/rubrikk/motor.html" target="facebook">Bil til salgs</element>
         <element href="/derdubor/">Lokale bedrifter</element>
         <element href="/vis/annonsearkiv">Ukens avisannonser</element>
         <element href="/amtatorget/">Amtatorget</element>
