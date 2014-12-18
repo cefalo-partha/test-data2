@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-    <category id="" title="Nyheter">
+    <category id="tipus" title="Nyheter">
         <element channel="desktop" href="/nyheter/">Nyheter</element>
         <element href="/indresalten/">Indre</element>
         <element href="/glimt/">Glimt</element>
