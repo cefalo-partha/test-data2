@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-    <category id="helloworld" title="Nyheter">
+    <category id="follow" title="Nyheter">
         <element channel="desktop" href="/nyheter/">Nyheter</element>
-        <element href="/indresalten/">Indre</element>
+        <element href="/indresalten/" target="twitter">Indre</element>
         <element href="/glimt/">Glimt</element>
         <element href="/sport/">Sport</element>
         <element href="/bhk/">BHK</element>
