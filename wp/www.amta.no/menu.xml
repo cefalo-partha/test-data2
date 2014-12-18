@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="topmenu">
-    <category title="Nyheter">
-        <element href="/lokale_nyheter/">Nyheter</element>
+    <category id="tipus" title="Nyheter">
+        <element channel="mobile" href="/lokale_nyheter/" target="tiptlf">Nyheter</element>
         <element href="/lokal_sport/">Sport</element>
         <element href="/kultur/">Kultur</element>
         <element href="/bilder/">Bilder</element>
