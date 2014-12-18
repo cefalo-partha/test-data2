@@ -3,7 +3,7 @@
     <category id="tipus" title="Nyheter">
         <element channel="mobile" href="/lokale_nyheter/" target="tiptlf">Nyheter</element>
         <element href="/lokal_sport/" target="tipsms">Sport</element>
-        <element href="/kultur/">Kultur</element>
+        <element channel="desktop" href="/kultur/">Kultur</element>
         <element href="/bilder/">Bilder</element>
         <element href="/webtv/">Video</element>
         <element href="/boligmagasinet/">Bolig</element>
