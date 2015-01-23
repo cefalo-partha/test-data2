@@ -12,6 +12,18 @@
         <element href="/kamera/">Kamera</element>
         <element href="/fotball/live/">Fotball live</element>
     </category>
+    <category title="Kundeservice">
+        <element href="/kundesenter/">Kundeservice / Min side</element>
+        <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
+        <element href="/vis/personalia/greetings/new">Send hilsen</element>
+        <element href="/kundesenter/privat/abonnere/">Abonnement</element>
+        <element href="/minside">Adresseendring</element>
+        <element href="/kontakt/tips/">Tips oss</element>
+        <element href="/kundesenter/kontakt-oss/">Kontakt</element>
+        <element href="/eavis">E-avis</element>
+        <element href="https://www.facebook.com/avisanordland">Facebook</element>
+        <element href="http://instagram.com/avisanordland">Instagram</element>
+    </category>
     <category title="Tjenester">
         <element href="/vis/rubrikk/bil_til_salgs.html?localGeo=true">Bil til salgs</element>
         <element href="/vis/rubrikk/eiendom.html?localGeo=true&amp;catId=16000">Bolig til salgs</element>
@@ -28,18 +40,6 @@
         <element href="/anung/">AN Ung</element>
         <element href="/ongan/">Ongan</element>
         <element href="/bodoby/">BodøBy</element>
-    </category>
-    <category title="Kundeservice">
-        <element href="/kundesenter/">Kundeservice / Min side</element>
-        <element href="/vis/rubrikk/onlinebooking/">Sett inn annonse</element>
-        <element href="/vis/personalia/greetings/new">Send hilsen</element>
-        <element href="/kundesenter/privat/abonnere/">Abonnement</element>
-        <element href="/minside">Adresseendring</element>
-        <element href="/kontakt/tips/">Tips oss</element>
-        <element href="/kundesenter/kontakt-oss/">Kontakt</element>
-        <element href="/eavis">E-avis</element>
-        <element href="https://www.facebook.com/avisanordland">Facebook</element>
-        <element href="http://instagram.com/avisanordland">Instagram</element>
     </category>
     <challengetop href="http://kampanje.amedia.no/2014-april-avisa-nordland-billigere-blir-det-ikke?ns_campaign=fbm.afk1404&amp;ns_mchannel=fbm.chtop.ny&amp;ns_source=fbm.afk1404&amp;ns_linkname=fbm.afk1404&amp;ns_fee=0">
         <image alt="Alternative text goes here" src="http://r.api.no/local/v3/common/gfx/chtop/ch-top_mini_prov_naa_outline.png"/>
