@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="footer">
-    <category title="Empty Category">
+    <category title="Empty Category - External">
         <element channel="desktop" href="ghgfghghv">test</element>
         <element channel="desktop" href="/something">external</element>
     </category>
